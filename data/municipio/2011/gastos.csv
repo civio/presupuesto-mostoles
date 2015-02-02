@@ -1,0 +1,1524 @@
+#Org.,Prog.,Econ.,Denominación,Vinc. Org.,Vinc. Fun.,Vinc. Eco.,Créditos Iniciales,Modificaciones de Crédito,Créditos Definitivos,Obligaciones Reconocidas
+10.0,0111,31000.0,Intereses,10.0,,3.0,3100000.0,,3100000.0,2228850.6
+10.0,0111,91300.0,Amortización de préstamos a medio y largo plazo de fuera del sector público,10.0,,9.0,11233789.99,,11233789.99,9463232.65
+10.0,9201.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",10.0,9.0,2.0,10000.0,,10000.0,8347.85
+10.0,9201.0,21500.0,Mobiliario,10.0,9.0,2.0,500.0,,500.0,
+10.0,9201.0,22000.0,Ordinario no inventariable,10.0,9.0,2.0,30000.0,,30000.0,15290.55
+10.0,9201.0,22001.0,"Prensa, revistas, libros y otras publicaciones",10.0,9.0,2.0,15000.0,,15000.0,16059.9
+10.0,9201.0,22200.0,Administración General.Servicios de Telecomunicaciones,10.0,9.0,2.0,,,,15.11
+10.0,9201.0,22201.0,Postales,10.0,9.0,2.0,2000.0,,2000.0,51.05
+10.0,9201.0,22202.0,Telegráficas,10.0,9.0,2.0,500.0,,500.0,41.82
+10.0,9201.0,22400.0,Primas de seguros de edificios y locales,10.0,9.0,2.0,80000.0,,80000.0,66635.37
+10.0,9201.0,22401.0,Primas de seguros de vehículos,10.0,9.0,2.0,130000.0,,130000.0,83051.93
+10.0,9201.0,22402.0,Primas de seguros por Responsabilidad Civil,10.0,9.0,2.0,98000.0,,98000.0,88874.42
+10.0,9201.0,22403.0,Primas de seguros otros riesgos,10.0,9.0,2.0,25000.0,,25000.0,9213.83
+10.0,9201.0,22601.0,Atenciones protocolarias y representativas,10.0,9.0,2.0,,,,23.37
+10.0,9201.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,10.0,9.0,2.0,50000.0,,50000.0,35364.02
+10.0,9201.0,23120.0,Del personal no directivo,10.0,9.0,2.0,1000.0,,1000.0,595.9
+10.0,9201.0,62500.0,Administración General Mobiliario,10.0,9.0,6.0,100000.0,,100000.0,15039.96
+10.0,9201.0,62599.0,Nuevo puesto adminsitrador de turnos OAC,10.0,9.0,6.0,,147286.51,147286.51,147286.51
+10.0,9201.0,62602.0,Administración General Equipos ofimáticos,10.0,9.0,6.0,100000.0,,100000.0,
+10.0,9311.0,10100.0,"Presupuestos, Contabilidad y Gestión Financiera Retribuciones básicas",10.0,9.0,1.0,75535.32,,75535.32,52245.26
+10.0,9311.0,10101.0,"Presupuestos, Contabilidad y Gestión Financiera.Otras remuneraciones",10.0,9.0,1.0,,,,4196.98
+10.0,9311.0,12000.0,Sueldos del Grupo A1,10.0,9.0,1.0,47882.24,,47882.24,74284.31
+10.0,9311.0,12003.0,Sueldos del Grupo C1,10.0,9.0,1.0,30240.84,,30240.84,29654.52
+10.0,9311.0,12006.0,Trienios,10.0,9.0,1.0,23807.28,,23807.28,25453.02
+10.0,9311.0,12100.0,Complemento de destino,10.0,9.0,1.0,51710.87,,51710.87,67360.33
+10.0,9311.0,12101.0,Complemento específico,10.0,9.0,1.0,127889.01,,127889.01,154061.3
+10.0,9311.0,13000.0,Retribuciones básicas,10.0,9.0,1.0,489680.71,,489680.71,457954.2
+10.0,9311.0,13001.0,"Presupuestos, Contabilidad y Gestión Financiera.Horas extraordinarias",10.0,9.0,1.0,,,,825.0
+10.0,9311.0,13002.0,Otras remuneraciones,10.0,9.0,1.0,57326.32,,57326.32,39450.14
+10.0,9311.0,16000.0,"Presupuestos, Contabilidad y Gestión Financiera Seguridad Social",10.0,9.0,1.0,253518.86,,253518.86,252793.34
+10.0,9311.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",10.0,9.0,2.0,500.0,,500.0,
+10.0,9311.0,21500.0,Mobiliario,10.0,9.0,2.0,200.0,,200.0,
+10.0,9311.0,22000.0,Ordinario no inventariable,10.0,9.0,2.0,1000.0,,1000.0,134.62
+10.0,9311.0,22001.0,"Prensa, revistas, libros y otras publicaciones",10.0,9.0,2.0,1000.0,,1000.0,
+10.0,9311.0,22501.0,"Presupuestos, Contabilidad y Gestión Financiera.Tributos de las Comunidades Autónomas",10.0,9.0,2.0,,,,1200.0
+10.0,9311.0,22603.0,Publicación en Diarios Oficiales,10.0,9.0,2.0,100000.0,,100000.0,1389.7
+10.0,9311.0,22706.0,Estudios y trabajos técnicos,10.0,9.0,2.0,8000.0,,8000.0,3245.0
+10.0,9311.0,23010.0,Del personal directivo,10.0,9.0,2.0,50.0,,50.0,
+10.0,9311.0,23020.0,Del personal no directivo,10.0,9.0,2.0,50.0,,50.0,
+10.0,9311.0,23110.0,Del personal directivo,10.0,9.0,2.0,50.0,,50.0,
+10.0,9311.0,23120.0,Del personal no directivo,10.0,9.0,2.0,50.0,,50.0,
+10.0,9311.0,35200.0,Intereses de demora,10.0,9.0,3.0,400000.0,,400000.0,339875.94
+10.0,9312.0,12000.0,Sueldos del Grupo A1,10.0,9.0,1.0,31674.47,,31674.47,28103.1
+10.0,9312.0,12003.0,Sueldos del Grupo C1,10.0,9.0,1.0,10080.28,,10080.28,9884.84
+10.0,9312.0,12004.0,Sueldos del Grupo C2,10.0,9.0,1.0,33893.58,,33893.58,32653.32
+10.0,9312.0,12006.0,Trienios,10.0,9.0,1.0,11719.68,,11719.68,11056.61
+10.0,9312.0,12009.0,Fiscalización.Otras retribuciones básicas,10.0,9.0,1.0,,,,1256.81
+10.0,9312.0,12100.0,Complemento de destino,10.0,9.0,1.0,50229.86,,50229.86,47906.49
+10.0,9312.0,12101.0,Complemento específico,10.0,9.0,1.0,144277.8,,144277.8,142002.0
+10.0,9312.0,13000.0,Retribuciones básicas,10.0,9.0,1.0,90603.42,,90603.42,92633.55
+10.0,9312.0,13001.0,Fiscalización.Horas extraordinarias,10.0,9.0,1.0,,,,257.0
+10.0,9312.0,13002.0,Otras remuneraciones,10.0,9.0,1.0,6781.1,,6781.1,4928.41
+10.0,9312.0,16000.0,Fiscalización Seguridad Social,10.0,9.0,1.0,97661.33,,97661.33,91922.74
+10.0,9312.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",10.0,9.0,2.0,100.0,,100.0,
+10.0,9312.0,21500.0,Mobiliario,10.0,9.0,2.0,100.0,,100.0,
+10.0,9312.0,22000.0,Ordinario no inventariable,10.0,9.0,2.0,1000.0,,1000.0,324.69
+10.0,9312.0,22001.0,"Prensa, revistas, libros y otras publicaciones",10.0,9.0,2.0,1000.0,,1000.0,
+10.0,9312.0,23010.0,Del personal directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9312.0,23020.0,Del personal no directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9312.0,23110.0,Del personal directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9312.0,23120.0,Del personal no directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9321.0,12000.0,Sueldos del Grupo A1,10.0,9.0,1.0,75532.52,,75532.52,54380.93
+10.0,9321.0,12001.0,Sueldos del Grupo A2,10.0,9.0,1.0,68739.69,,68739.69,76892.71
+10.0,9321.0,12003.0,Sueldos del Grupo C1,10.0,9.0,1.0,10483.49,,10483.49,4942.42
+10.0,9321.0,12004.0,Sueldos del Grupo C2,10.0,9.0,1.0,59397.66,,59397.66,65192.18
+10.0,9321.0,12006.0,Trienios,10.0,9.0,1.0,29820.28,,29820.28,32124.71
+10.0,9321.0,12009.0,Gestión tributaria y recaudación.Otras retribuciones básicas,10.0,9.0,1.0,,,,48.03
+10.0,9321.0,12100.0,Complemento de destino,10.0,9.0,1.0,118651.44,,118651.44,114620.22
+10.0,9321.0,12101.0,Complemento específico,10.0,9.0,1.0,235248.43,,235248.43,235280.37
+10.0,9321.0,12103.0,Gestión tributaria y recaudación Otros complementos,10.0,9.0,1.0,1251.48,,1251.48,
+10.0,9321.0,13000.0,Retribuciones básicas,10.0,9.0,1.0,789732.82,,789732.82,711537.54
+10.0,9321.0,13001.0,Gestión tributaria y recaudación.Horas extraordinarias,10.0,9.0,1.0,,,,210.0
+10.0,9321.0,13002.0,Otras remuneraciones,10.0,9.0,1.0,58817.71,,58817.71,49225.28
+10.0,9321.0,13100.0,Gestión tributaria y recaudación.Laboral Temporal,10.0,9.0,1.0,,,,6137.47
+10.0,9321.0,13102.0,Gestión tributaria y recaudación.Otras remuneraciones,10.0,9.0,1.0,,,,31.93
+10.0,9321.0,16000.0,Gestión tributaria y recaudación Seguridad Social,10.0,9.0,1.0,461264.7,,461264.7,430371.43
+10.0,9321.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",10.0,9.0,2.0,500.0,,500.0,
+10.0,9321.0,21500.0,Mobiliario,10.0,9.0,2.0,500.0,,500.0,
+10.0,9321.0,22000.0,Ordinario no inventariable,10.0,9.0,2.0,18000.0,,18000.0,13118.15
+10.0,9321.0,22001.0,"Prensa, revistas, libros y otras publicaciones",10.0,9.0,2.0,500.0,,500.0,
+10.0,9321.0,22201.0,Postales,10.0,9.0,2.0,500000.0,,500000.0,715339.8
+10.0,9321.0,22602.0,Publicidad y propaganda,10.0,9.0,2.0,,,,2715.3
+10.0,9321.0,22603.0,Publicación en Diarios Oficiales,10.0,9.0,2.0,100000.0,,100000.0,167188.93
+10.0,9321.0,22604.0,"Jurídicos, contenciosos",10.0,9.0,2.0,,,,15.59
+10.0,9321.0,22706.0,Estudios y trabajos técnicos,10.0,9.0,2.0,250000.0,,250000.0,54176.44
+10.0,9321.0,22708.0,Gestión tributaria y recaudación.Servicios de recaudación a favor de la entidad,10.0,9.0,2.0,,,,6434.79
+10.0,9321.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,10.0,9.0,2.0,90000.0,,90000.0,29639.11
+10.0,9321.0,23010.0,Del personal directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9321.0,23020.0,Del personal no directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9321.0,23110.0,Del personal directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9321.0,23120.0,Del personal no directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9321.0,48927.0,Otras Transferencias,10.0,9.0,4.0,16930.0,,16930.0,16929.17
+10.0,9321.0,62500.0,Gestión tributaria y recaudación Mobiliario,10.0,9.0,6.0,100000.0,,100000.0,10239.62
+10.0,9321.0,62602.0,Equipos ofimáticos,10.0,9.0,6.0,100000.0,,100000.0,4124.47
+10.0,9321.0,94100.0,Devolución de fianzas,10.0,9.0,9.0,60000.0,,60000.0,55700.11
+10.0,9322.0,12000.0,Sueldos del Grupo A1,10.0,9.0,1.0,31053.4,,31053.4,26025.39
+10.0,9322.0,12006.0,Trienios,10.0,9.0,1.0,3950.94,,3950.94,3619.67
+10.0,9322.0,12100.0,Complemento de destino,10.0,9.0,1.0,19814.48,,19814.48,18039.81
+10.0,9322.0,12101.0,Complemento específico,10.0,9.0,1.0,43047.06,,43047.06,41882.75
+10.0,9322.0,13000.0,Retribuciones básicas,10.0,9.0,1.0,22251.32,,22251.32,22793.45
+10.0,9322.0,13002.0,Otras remuneraciones,10.0,9.0,1.0,5354.4,,5354.4,542.13
+10.0,9322.0,16000.0,Tribunal Económico Administrativo de Móstoles Seguridad Social,10.0,9.0,1.0,29888.21,,29888.21,30738.48
+10.0,9322.0,22000.0,Ordinario no inventariable,10.0,9.0,2.0,300.0,,300.0,
+10.0,9322.0,22001.0,"Prensa, revistas, libros y otras publicaciones",10.0,9.0,2.0,500.0,,500.0,579.2
+10.0,9322.0,22604.0,"Jurídicos, contenciosos",10.0,9.0,2.0,,,,
+10.0,9322.0,22606.0,"Reuniones, conferencias y cursos",10.0,9.0,2.0,3100.0,,3100.0,
+10.0,9322.0,23005.0,Dietas Tribunal Económico Administrativo,10.0,9.0,2.0,33202.08,,33202.08,33406.21
+10.0,9341.0,12000.0,Sueldos del Grupo A1,10.0,9.0,1.0,46580.1,,46580.1,43994.99
+10.0,9341.0,12004.0,Sueldos del Grupo C2,10.0,9.0,1.0,16779.0,,16779.0,16757.16
+10.0,9341.0,12006.0,Trienios,10.0,9.0,1.0,17736.6,,17736.6,17134.99
+10.0,9341.0,12100.0,Complemento de destino,10.0,9.0,1.0,37027.06,,37027.06,37007.63
+10.0,9341.0,12101.0,Complemento específico,10.0,9.0,1.0,78169.42,,78169.42,78245.77
+10.0,9341.0,13000.0,Retribuciones básicas,10.0,9.0,1.0,102965.7,,102965.7,101354.01
+10.0,9341.0,13002.0,Otras remuneraciones,10.0,9.0,1.0,4526.48,,4526.48,2215.88
+10.0,9341.0,16000.0,Tesorería Seguridad Social,10.0,9.0,1.0,88507.95,,88507.95,87909.93
+10.0,9341.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",10.0,9.0,2.0,450.0,,450.0,425.4
+10.0,9341.0,22000.0,Ordinario no inventariable,10.0,9.0,2.0,500.0,,500.0,
+10.0,9341.0,22001.0,"Prensa, revistas, libros y otras publicaciones",10.0,9.0,2.0,300.0,,300.0,
+10.0,9341.0,23010.0,Del personal directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9341.0,23020.0,Del personal no directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9341.0,23110.0,Del personal directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9341.0,23120.0,Del personal no directivo,10.0,9.0,2.0,100.0,,100.0,
+10.0,9341.0,35900.0,Otros gastos financieros,10.0,9.0,3.0,3000.0,,3000.0,20449.82
+11.0,2411.0,12000.0,Sueldos del Grupo A1,11.0,2.0,1.0,621.07,,621.07,
+11.0,2411.0,12100.0,Complemento de destino,11.0,2.0,1.0,326.44,,326.44,
+11.0,2411.0,12101.0,Complemento específico,11.0,2.0,1.0,551.39,,551.39,
+11.0,2411.0,13000.0,Retribuciones básicas,11.0,2.0,1.0,51460.54,,51460.54,52194.06
+11.0,2411.0,13002.0,Otras remuneraciones,11.0,2.0,1.0,2263.24,,2263.24,1131.62
+11.0,2411.0,16000.0,Promoción Económica Seguridad Social,11.0,2.0,1.0,22627.86,,22627.86,18092.4
+11.0,2411.0,22001.0,"Promoción Económica.Prensa, revistas, libros y otras publicaciones",11.0,2.0,2.0,,,,573.2
+11.0,2411.0,22605.0,Gastos de comunidad de propietarios,11.0,2.0,2.0,7840.0,,7840.0,
+11.0,2411.0,22799.0,Promoción Económica.Otros trabajos realizados por otras empresas y profesionales,11.0,2.0,2.0,,200000.0,200000.0,168908.57
+11.0,2411.0,44001.0,Empresa Municipal de Promoción Económica (EMPESA),11.0,2.0,4.0,1372000.0,,1372000.0,1372000.0
+11.0,2411.0,44002.0,Ferias y Promoción del Emprendimiento,11.0,2.0,4.0,532200.0,-200000.0,332200.0,310000.0
+11.0,2411.0,48900.0,U.G.T.,11.0,2.0,4.0,22540.0,,22540.0,
+11.0,2411.0,48901.0,CC.OO.,11.0,2.0,4.0,22540.0,,22540.0,
+11.0,2412.0,14300.0,Casas de Oficios Otro personal,11.0,2.0,1.0,133853.62,449675.93,583529.55,377811.83
+11.0,2412.0,14302.0,Casas de Oficios.Otras remuneraciones,11.0,2.0,1.0,,138829.45,138829.45,75630.12
+11.0,2412.0,16000.0,Casas de Oficios Seguridad Social,11.0,2.0,1.0,40162.22,144979.06,185141.28,106248.27
+11.0,2412.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",11.0,2.0,2.0,,,,11044.8
+11.0,2412.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",11.0,2.0,2.0,800.0,,800.0,10200.34
+11.0,2412.0,22000.0,Ordinario no inventariable,11.0,2.0,2.0,4000.0,,4000.0,8654.11
+11.0,2412.0,22001.0,"Prensa, revistas, libros y otras publicaciones",11.0,2.0,2.0,4000.0,,4000.0,11321.87
+11.0,2412.0,22104.0,Vestuario,11.0,2.0,2.0,3500.0,,3500.0,6089.0
+11.0,2412.0,22106.0,Productos farmacéuticos y material sanitario,11.0,2.0,2.0,400.0,,400.0,
+11.0,2412.0,22114.0,Casas de Oficios.Materiales de talleres,11.0,2.0,2.0,,,,483.5
+11.0,2412.0,22199.0,Otros suministros,11.0,2.0,2.0,26424.8,127478.4,153903.2,70438.89
+11.0,2412.0,22299.0,Casas de Oficios Otros gastos en comunicaciones,11.0,2.0,2.0,500.0,,500.0,
+11.0,2412.0,22403.0,Primas de seguros otros riesgos,11.0,2.0,2.0,1300.0,,1300.0,1002.2
+11.0,2412.0,22500.0,Tributos estatales,11.0,2.0,2.0,,,,100.0
+11.0,2412.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,11.0,2.0,2.0,,,,18585.3
+11.0,2413.0,14300.0,Talleres de Empleo Otro personal,11.0,2.0,1.0,757702.87,267307.29,1025010.16,1087972.48
+11.0,2413.0,14302.0,Talleres de Empleo.Otras remuneraciones,11.0,2.0,1.0,,989569.68,989569.68,196614.29
+11.0,2413.0,16000.0,Seguridad Social,11.0,2.0,1.0,84089.79,159836.07,243925.86,138371.64
+11.0,2413.0,20400.0,Arrendamientos de material de transporte,11.0,2.0,2.0,7600.0,,7600.0,
+11.0,2413.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",11.0,2.0,2.0,5000.0,,5000.0,
+11.0,2413.0,22000.0,Ordinario no inventariable,11.0,2.0,2.0,3000.0,,3000.0,16363.89
+11.0,2413.0,22001.0,"Prensa, revistas, libros y otras publicaciones",11.0,2.0,2.0,6000.0,,6000.0,7819.27
+11.0,2413.0,22104.0,Vestuario,11.0,2.0,2.0,8000.0,,8000.0,22342.56
+11.0,2413.0,22105.0,Talleres de Empleo.Productos alimenticios,11.0,2.0,2.0,,,,5104.72
+11.0,2413.0,22106.0,Productos farmacéuticos y material sanitario,11.0,2.0,2.0,250.0,,250.0,
+11.0,2413.0,22199.0,Otros suministros,11.0,2.0,2.0,46410.8,192329.42,238740.22,60702.63
+11.0,2413.0,22403.0,Talleres de Empleo Primas de seguros otros riesgos,11.0,2.0,2.0,3000.0,,3000.0,
+11.0,2413.0,22602.0,Publicidad y propaganda,11.0,2.0,2.0,1000.0,,1000.0,1935.2
+11.0,2413.0,22699.0,Otros gastos diversos,11.0,2.0,2.0,,,,1369.96
+11.0,2413.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,11.0,2.0,2.0,5000.0,,5000.0,19783.08
+11.0,2413.0,23120.0,Del personal no directivo,11.0,2.0,2.0,1000.0,,1000.0,24.6
+12.0,2111.0,15000.0,Productividad,12.0,2.0,1.0,1050000.0,-40000.0,1010000.0,867646.52
+12.0,2111.0,15100.0,Gratificaciones,12.0,2.0,1.0,20000.0,,20000.0,76904.68
+12.0,2111.0,15400.0,"Fondo homologación, vertebración y v.p.t.",12.0,2.0,1.0,20000.0,,20000.0,
+12.0,2111.0,15500.0,Modernización,12.0,2.0,1.0,82000.0,-80000.0,2000.0,
+12.0,2111.0,15600.0,Ajustes técnicos,12.0,2.0,1.0,82000.0,-80000.0,2000.0,
+12.0,2111.0,16104.0,Indemnizaciones al personal laboral por jubilaciones anticipadas,12.0,2.0,1.0,70000.0,,70000.0,
+12.0,2111.0,16108.0,Indemnizaciones por jubilaciones anticipadas personal funcionario,12.0,2.0,1.0,180000.0,,180000.0,69362.33
+12.0,2111.0,16200.0,Formación y perfeccionamiento del personal,12.0,2.0,1.0,170000.0,,170000.0,89498.89
+12.0,2111.0,16202.0,Transporte de personal,12.0,2.0,1.0,20000.0,,20000.0,8599.0
+12.0,2111.0,16204.0,Acción social,12.0,2.0,1.0,1350000.0,,1350000.0,1360887.93
+12.0,2111.0,16205.0,Seguros,12.0,2.0,1.0,210000.0,,210000.0,116030.89
+12.0,2111.0,16400.0,Pensiones y otras prestaciones económicas Complemento familiar,12.0,2.0,1.0,95000.0,,95000.0,97026.67
+12.0,2111.0,83000.0,Pagas anticipadas y demás préstamos al personal,12.0,2.0,8.0,180303.63,,180303.63,152020.0
+12.0,9223.0,12000.0,Sueldos del Grupo A1,12.0,9.0,1.0,16147.77,,16147.77,14677.32
+12.0,9223.0,12006.0,Trienios,12.0,9.0,1.0,5971.0,,5971.0,5644.2
+12.0,9223.0,12100.0,Complemento de destino,12.0,9.0,1.0,8487.32,,8487.32,8160.88
+12.0,9223.0,12101.0,Complemento específico,12.0,9.0,1.0,14336.07,,14336.07,13784.68
+12.0,9223.0,13000.0,Retribuciones básicas,12.0,9.0,1.0,120852.5,,120852.5,121737.99
+12.0,9223.0,13002.0,Otras remuneraciones,12.0,9.0,1.0,12451.22,,12451.22,10166.49
+12.0,9223.0,14303.0,Archivo General.Servicio Regional de Empleo. Otro Personal.,12.0,9.0,1.0,,36622.92,36622.92,10579.94
+12.0,9223.0,16000.0,Archivo General Seguridad Social,12.0,9.0,1.0,61072.03,11755.92,72827.95,56797.84
+12.0,9223.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",12.0,9.0,2.0,500.0,,500.0,
+12.0,9223.0,22000.0,Ordinario no inventariable,12.0,9.0,2.0,2500.0,,2500.0,189.15
+12.0,9223.0,22001.0,"Prensa, revistas, libros y otras publicaciones",12.0,9.0,2.0,2300.0,,2300.0,13113.53
+12.0,9223.0,22704.0,"Custodia, depósito y almacenaje",12.0,9.0,2.0,15200.0,,15200.0,11745.34
+12.0,9223.0,22706.0,Archivo General Estudios y trabajos técnicos,12.0,9.0,2.0,1000.0,,1000.0,
+12.0,9223.0,22799.0,Archivo General Otros trabajos realizados por otras empresas y profesionales,12.0,9.0,2.0,1298.0,,1298.0,1593.0
+12.0,9223.0,62300.0,"Maquinaria, instalaciones técnicas y utillaje",12.0,9.0,6.0,6825.0,,6825.0,
+12.0,9223.0,62503.0,Estanterías para el Archivo Municipal,12.0,9.0,6.0,165000.0,,165000.0,
+12.0,9223.0,62517.0,Archivo General Libros,12.0,9.0,6.0,11000.0,,11000.0,
+12.0,9223.0,62602.0,Equipos ofimáticos,12.0,9.0,6.0,5700.0,,5700.0,
+12.0,9223.0,63500.0,Mobiliario,12.0,9.0,6.0,2000.0,,2000.0,
+12.0,9223.0,64110.0,Aplicaciones informáticas,12.0,9.0,6.0,16300.0,,16300.0,
+12.0,9224.0,10100.0,Recursos Humanos Retribuciones básicas,12.0,9.0,1.0,3021.41,,3021.41,
+12.0,9224.0,12003.0,Recursos Humanos Sueldos del Grupo C1,12.0,9.0,1.0,806.42,,806.42,
+12.0,9224.0,12005.0,Sueldos del Grupo E,12.0,9.0,1.0,71257.22,,71257.22,62408.9
+12.0,9224.0,12006.0,Trienios,12.0,9.0,1.0,17726.52,,17726.52,16131.67
+12.0,9224.0,12100.0,Complemento de destino,12.0,9.0,1.0,37148.46,,37148.46,32029.48
+12.0,9224.0,12101.0,Complemento específico,12.0,9.0,1.0,86236.44,,86236.44,86968.58
+12.0,9224.0,13000.0,Retribuciones básicas,12.0,9.0,1.0,1842432.44,,1842432.44,1812037.96
+12.0,9224.0,13001.0,Horas extraordinarias,12.0,9.0,1.0,3469.76,,3469.76,5718.0
+12.0,9224.0,13002.0,Otras remuneraciones,12.0,9.0,1.0,127057.25,,127057.25,129567.34
+12.0,9224.0,13100.0,Recursos Humanos Laboral Temporal,12.0,9.0,1.0,,,,28317.46
+12.0,9224.0,13101.0,Recursos Humanos.Horas extraordinarias,12.0,9.0,1.0,,,,93.0
+12.0,9224.0,13102.0,Recursos Humanos.Otras remuneraciones,12.0,9.0,1.0,,,,1715.63
+12.0,9224.0,16000.0,Seguridad Social,12.0,9.0,1.0,736148.04,,736148.04,781993.33
+12.0,9224.0,20400.0,Arrendamientos de material de transporte,12.0,9.0,2.0,4588.0,,4588.0,4580.88
+12.0,9224.0,21300.0,"Recursos Humanos.Maquinaria, instalaciones técnicas y utillaje",12.0,9.0,2.0,,,,214.02
+12.0,9224.0,22000.0,Ordinario no inventariable,12.0,9.0,2.0,2000.0,,2000.0,2651.31
+12.0,9224.0,22001.0,"Prensa, revistas, libros y otras publicaciones",12.0,9.0,2.0,2000.0,,2000.0,4747.65
+12.0,9224.0,22104.0,Vestuario,12.0,9.0,2.0,10000.0,,10000.0,8852.81
+12.0,9224.0,22299.0,Recursos Humanos.Otros gastos en comunicaciones,12.0,9.0,2.0,,,,34.98
+12.0,9224.0,22601.0,Atenciones protocolarias y representativas,12.0,9.0,2.0,20000.0,,20000.0,38268.35
+12.0,9224.0,22602.0,Publicidad y propaganda,12.0,9.0,2.0,2000.0,,2000.0,
+12.0,9224.0,22603.0,Publicación en Diarios Oficiales,12.0,9.0,2.0,1000.0,,1000.0,
+12.0,9224.0,22604.0,"Recursos Humanos Jurídicos, contenciosos",12.0,9.0,2.0,2000.0,,2000.0,
+12.0,9224.0,22706.0,Estudios y trabajos técnicos,12.0,9.0,2.0,20000.0,,20000.0,
+12.0,9224.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,12.0,9.0,2.0,,,,2500.0
+12.0,9224.0,23003.0,Dietas por asistencia a tribunales,12.0,9.0,2.0,1500.0,,1500.0,360.0
+12.0,9224.0,23010.0,Del personal directivo,12.0,9.0,2.0,400.0,,400.0,
+12.0,9224.0,23110.0,Recursos Humanos Del personal directivo,12.0,9.0,2.0,400.0,,400.0,
+12.0,9224.0,23120.0,Del personal no directivo,12.0,9.0,2.0,400.0,,400.0,125.4
+12.0,9224.0,48905.0,Otras transferencias,12.0,9.0,4.0,7200.0,,7200.0,
+12.0,9224.0,64199.0,Recursos Humanos.Software aplicación nóminas y recursos humanos,12.0,9.0,6.0,,43360.81,43360.81,
+12.0,9225.0,13000.0,Retribuciones básicas,12.0,9.0,1.0,168433.87,,168433.87,110436.98
+12.0,9225.0,13002.0,Otras remuneraciones,12.0,9.0,1.0,14827.52,,14827.52,16526.37
+12.0,9225.0,13100.0,Salud Laboral Laboral Temporal,12.0,9.0,1.0,33810.98,,33810.98,21563.07
+12.0,9225.0,13102.0,Salud Laboral Otras remuneraciones,12.0,9.0,1.0,3096.94,,3096.94,736.2
+12.0,9225.0,16000.0,Salud Laboral Seguridad Social,12.0,9.0,1.0,75353.68,,75353.68,44648.74
+12.0,9225.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",12.0,9.0,2.0,7000.0,,7000.0,3197.07
+12.0,9225.0,21500.0,Mobiliario,12.0,9.0,2.0,1.0,,1.0,
+12.0,9225.0,22000.0,Ordinario no inventariable,12.0,9.0,2.0,700.0,,700.0,
+12.0,9225.0,22001.0,"Prensa, revistas, libros y otras publicaciones",12.0,9.0,2.0,1000.0,,1000.0,
+12.0,9225.0,22106.0,Productos farmacéuticos y material sanitario,12.0,9.0,2.0,2000.0,,2000.0,
+12.0,9225.0,22701.0,Seguridad,12.0,9.0,2.0,,,,885.38
+12.0,9225.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,12.0,9.0,2.0,84658.0,,84658.0,55939.21
+12.0,9231.0,12000.0,Registro y Estadistica.Sueldos del Grupo A1,12.0,9.0,1.0,,,,14677.32
+12.0,9231.0,12003.0,Sueldos del Grupo C1,12.0,9.0,1.0,10483.49,,10483.49,9884.84
+12.0,9231.0,12004.0,Sueldos del Grupo C2,12.0,9.0,1.0,17450.16,,17450.16,16757.16
+12.0,9231.0,12006.0,Trienios,12.0,9.0,1.0,5482.96,,5482.96,6357.27
+12.0,9231.0,12100.0,Complemento de destino,12.0,9.0,1.0,14630.03,,14630.03,22228.22
+12.0,9231.0,12101.0,Complemento específico,12.0,9.0,1.0,33421.54,,33421.54,46550.44
+12.0,9231.0,13000.0,Retribuciones básicas,12.0,9.0,1.0,172617.64,,172617.64,145954.21
+12.0,9231.0,13001.0,Registro y Estadistica.Horas extraordinarias,12.0,9.0,1.0,,,,3740.0
+12.0,9231.0,13002.0,Otras remuneraciones,12.0,9.0,1.0,14666.44,,14666.44,5304.44
+12.0,9231.0,13100.0,Registro y Estadistica.Laboral Temporal,12.0,9.0,1.0,,,,11812.57
+12.0,9231.0,13101.0,Registro y Estadistica.Horas extraordinarias,12.0,9.0,1.0,,,,255.0
+12.0,9231.0,13102.0,Registro y Estadistica.Otras remuneraciones,12.0,9.0,1.0,,,,964.56
+12.0,9231.0,16000.0,Registro y Estadistica Seguridad Social,12.0,9.0,1.0,94267.66,,94267.66,99701.43
+12.0,9231.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",12.0,9.0,2.0,1000.0,,1000.0,
+12.0,9231.0,22000.0,Ordinario no inventariable,12.0,9.0,2.0,4000.0,,4000.0,2613.95
+12.0,9231.0,22002.0,"Material, informático no inventariable",12.0,9.0,2.0,500.0,,500.0,
+12.0,9231.0,22602.0,Publicidad y propaganda,12.0,9.0,2.0,500.0,,500.0,
+12.0,9231.0,22603.0,Registro y Estadistica Publicación en Diarios Oficiales,12.0,9.0,2.0,17000.0,,17000.0,9692.74
+12.0,9231.0,22705.0,Registro y Estadistica Procesos electorales,12.0,9.0,2.0,32000.0,80391.24,112391.24,116763.83
+12.0,9231.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,12.0,9.0,2.0,,,,866.0
+12.0,9231.0,62500.0,Mobiliario,12.0,9.0,6.0,500.0,,500.0,
+12.0,9231.0,63500.0,Mobiliario,12.0,9.0,6.0,500.0,,500.0,
+12.0,9231.0,64110.0,Aplicaciones informáticas,12.0,9.0,6.0,500.0,,500.0,
+12.0,9254.0,11000.0,Junta de Distrito nº 4 Oeste Retribuciones básicas,12.0,9.0,1.0,16779.0,,16779.0,13455.53
+12.0,9254.0,11001.0,Junta de Distrito nº 4 Oeste Retribuciones complementarias,12.0,9.0,1.0,59476.9,,59476.9,46842.78
+12.0,9254.0,13000.0,Retribuciones básicas,12.0,9.0,1.0,79448.74,,79448.74,65276.58
+12.0,9254.0,13001.0,Junta de Distrito nº 4 Oeste.Horas extraordinarias,12.0,9.0,1.0,,,,80.0
+12.0,9254.0,13002.0,Otras remuneraciones,12.0,9.0,1.0,4332.66,,4332.66,3540.34
+12.0,9254.0,16000.0,Junta de Distrito nº 4 Oeste Seguridad Social,12.0,9.0,1.0,47401.46,,47401.46,41980.17
+12.0,9254.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",12.0,9.0,2.0,200.0,,200.0,81.43
+12.0,9254.0,21600.0,Equipos para procesos de información,12.0,9.0,2.0,90.0,,90.0,
+12.0,9254.0,22000.0,Ordinario no inventariable,12.0,9.0,2.0,800.0,,800.0,261.51
+12.0,9254.0,22002.0,"Material, informático no inventariable",12.0,9.0,2.0,150.0,,150.0,19.99
+12.0,9254.0,22110.0,Productos de limpieza y aseo,12.0,9.0,2.0,100.0,,100.0,
+12.0,9254.0,22602.0,Publicidad y propaganda,12.0,9.0,2.0,1000.0,,1000.0,
+12.0,9254.0,22608.0,Promoción cultural y educativa,12.0,9.0,2.0,12000.0,,12000.0,
+12.0,9254.0,22609.0,Junta de Distrito nº 4 Oeste.Actividades culturales y deportivas,12.0,9.0,2.0,,,,20379.6
+12.0,9254.0,22616.0,Festejos Populares,12.0,9.0,2.0,14000.0,,14000.0,4532.77
+12.0,9254.0,23004.0,Dietas Consejo/Pleno Junta de Distrito,12.0,9.0,2.0,19282.0,,19282.0,10277.1
+12.0,9254.0,23120.0,Del personal no directivo,12.0,9.0,2.0,90.0,,90.0,
+12.0,9254.0,61904.0,Reposiciones en calles y aceras,12.0,9.0,6.0,121200.0,,121200.0,111899.56
+12.0,9254.0,62500.0,Mobiliario,12.0,9.0,6.0,3000.0,,3000.0,
+20.0,9122.0,10000.0,Presidencia.Retribuciones básicas,20.0,9.0,1.0,,,,74268.05
+20.0,9122.0,11000.0,Presidencia Retribuciones básicas,20.0,9.0,1.0,15526.7,,15526.7,13332.38
+20.0,9122.0,11001.0,Presidencia Retribuciones complementarias,20.0,9.0,1.0,38130.82,,38130.82,36531.36
+20.0,9122.0,12000.0,Sueldos del Grupo A1,20.0,9.0,1.0,93160.2,,93160.2,83553.78
+20.0,9122.0,12003.0,Presidencia Sueldos del Grupo C1,20.0,9.0,1.0,403.21,,403.21,
+20.0,9122.0,12004.0,Sueldos del Grupo C2,20.0,9.0,1.0,43625.4,,43625.4,33961.65
+20.0,9122.0,12006.0,Trienios,20.0,9.0,1.0,12898.9,,12898.9,11244.02
+20.0,9122.0,12009.0,Presidencia.Otras retribuciones básicas,20.0,9.0,1.0,,,,1050.07
+20.0,9122.0,12100.0,Complemento de destino,20.0,9.0,1.0,82194.33,,82194.33,73171.36
+20.0,9122.0,12101.0,Complemento específico,20.0,9.0,1.0,186957.57,,186957.57,173816.38
+20.0,9122.0,13000.0,Retribuciones básicas,20.0,9.0,1.0,444965.66,,444965.66,492833.35
+20.0,9122.0,13001.0,Presidencia.Horas extraordinarias,20.0,9.0,1.0,,,,180.0
+20.0,9122.0,13002.0,Otras remuneraciones,20.0,9.0,1.0,28407.36,,28407.36,25563.59
+20.0,9122.0,14303.0,Presidencia.Servicio Regional de Empleo. Otro Personal.,20.0,9.0,1.0,,24364.99,24364.99,23691.37
+20.0,9122.0,16000.0,Presidencia Seguridad Social,20.0,9.0,1.0,272127.18,7821.1,279948.28,289859.93
+20.0,9122.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",20.0,9.0,2.0,46331.0,,46331.0,46330.39
+20.0,9122.0,20400.0,Arrendamientos de material de transporte,20.0,9.0,2.0,7326.0,,7326.0,7299.24
+20.0,9122.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",20.0,9.0,2.0,17000.0,,17000.0,15756.56
+20.0,9122.0,21400.0,Elementos de transporte,20.0,9.0,2.0,1000.0,,1000.0,2027.14
+20.0,9122.0,21500.0,Mobiliario,20.0,9.0,2.0,500.0,,500.0,
+20.0,9122.0,22000.0,Ordinario no inventariable,20.0,9.0,2.0,2000.0,,2000.0,1139.85
+20.0,9122.0,22001.0,"Prensa, revistas, libros y otras publicaciones",20.0,9.0,2.0,20000.0,,20000.0,16999.28
+20.0,9122.0,22106.0,Presidencia Productos farmacéuticos y material sanitario,20.0,9.0,2.0,100.0,,100.0,28.05
+20.0,9122.0,22110.0,Productos de limpieza y aseo,20.0,9.0,2.0,100.0,,100.0,21.3
+20.0,9122.0,22601.0,Atenciones protocolarias y representativas,20.0,9.0,2.0,50000.0,,50000.0,15817.31
+20.0,9122.0,22603.0,Publicación en Diarios Oficiales,20.0,9.0,2.0,170000.0,,170000.0,202748.48
+20.0,9122.0,22604.0,"Jurídicos, contenciosos",20.0,9.0,2.0,231000.0,,231000.0,70514.26
+20.0,9122.0,22605.0,Gastos de comunidad de propietarios,20.0,9.0,2.0,,,,17321.16
+20.0,9122.0,22606.0,"Reuniones, conferencias y cursos",20.0,9.0,2.0,1000.0,,1000.0,
+20.0,9122.0,22706.0,Estudios y trabajos técnicos,20.0,9.0,2.0,80000.0,,80000.0,26710.48
+20.0,9122.0,22731.0,Plan de Modernización y Calidad de los Servicios Públicos,20.0,9.0,2.0,38760.0,,38760.0,1486.8
+20.0,9122.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,20.0,9.0,2.0,,,,10899.8
+20.0,9122.0,23000.0,De los miembros de los órganos de gobierno,20.0,9.0,2.0,2700.0,,2700.0,
+20.0,9122.0,23002.0,Dietas de modernización,20.0,9.0,2.0,50000.0,,50000.0,
+20.0,9122.0,23010.0,Del personal directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9122.0,23020.0,Del personal no directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9122.0,23100.0,De los miembros de los órganos de gobierno,20.0,9.0,2.0,1000.0,,1000.0,
+20.0,9122.0,23110.0,Del personal directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9122.0,23120.0,Del personal no directivo,20.0,9.0,2.0,100.0,,100.0,834.69
+20.0,9122.0,46600.0,F.E.M.P.-F.M.M.,20.0,9.0,4.0,28000.0,,28000.0,25813.68
+20.0,9122.0,48910.0,Fundación Móstoles 1808-2008,20.0,9.0,4.0,250000.0,,250000.0,100000.0
+20.0,9123.0,10000.0,Retribuciones básicas,20.0,9.0,1.0,1437105.92,,1437105.92,1443204.49
+20.0,9123.0,11000.0,Retribuciones básicas,20.0,9.0,1.0,50672.58,,50672.58,49796.51
+20.0,9123.0,11001.0,Grupos Políticos Municipales Retribuciones complementarias,20.0,9.0,1.0,101328.36,,101328.36,123639.89
+20.0,9123.0,14300.0,Grupos Políticos Municipales Otro personal,20.0,9.0,1.0,35386.54,,35386.54,
+20.0,9123.0,16000.0,Grupos Políticos Municipales Seguridad Social,20.0,9.0,1.0,329078.13,60000.0,389078.13,334182.73
+20.0,9123.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",20.0,9.0,2.0,100.0,,100.0,
+20.0,9123.0,21500.0,Mobiliario,20.0,9.0,2.0,100.0,,100.0,
+20.0,9123.0,22000.0,Ordinario no inventariable,20.0,9.0,2.0,1000.0,,1000.0,
+20.0,9123.0,22001.0,"Prensa, revistas, libros y otras publicaciones",20.0,9.0,2.0,1000.0,,1000.0,
+20.0,9123.0,22601.0,Atenciones protocolarias y representativas,20.0,9.0,2.0,1000.0,,1000.0,
+20.0,9123.0,22606.0,"Reuniones, conferencias y cursos",20.0,9.0,2.0,1500.0,,1500.0,
+20.0,9123.0,23000.0,De los miembros de los órganos de gobierno,20.0,9.0,2.0,110000.0,,110000.0,
+20.0,9123.0,23010.0,Del personal directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9123.0,23100.0,De los miembros de los órganos de gobierno,20.0,9.0,2.0,2500.0,,2500.0,
+20.0,9226.0,12000.0,Sueldos del Grupo A1,20.0,9.0,1.0,31053.4,,31053.4,30412.77
+20.0,9226.0,12003.0,Sueldos del Grupo C1,20.0,9.0,1.0,,,,9884.84
+20.0,9226.0,12004.0,Sueldos del Grupo C2,20.0,9.0,1.0,8725.08,,8725.08,8396.48
+20.0,9226.0,12006.0,Trienios,20.0,9.0,1.0,7762.3,,7762.3,10989.07
+20.0,9226.0,12100.0,Complemento de destino,20.0,9.0,1.0,31565.95,,31565.95,36922.2
+20.0,9226.0,12101.0,Complemento específico,20.0,9.0,1.0,102422.91,,102422.91,112783.16
+20.0,9226.0,13000.0,Retribuciones básicas,20.0,9.0,1.0,68953.4,,68953.4,46611.86
+20.0,9226.0,13001.0,Secretaría General.Horas extraordinarias,20.0,9.0,1.0,,,,30.0
+20.0,9226.0,13002.0,Otras remuneraciones,20.0,9.0,1.0,3252.78,,3252.78,1084.26
+20.0,9226.0,13100.0,Secretaría General.Laboral Temporal,20.0,9.0,1.0,,,,23241.87
+20.0,9226.0,13102.0,Secretaría General.Otras remuneraciones,20.0,9.0,1.0,,,,542.13
+20.0,9226.0,16000.0,Secretaría General Seguridad Social,20.0,9.0,1.0,56661.53,60000.0,116661.53,64901.54
+20.0,9226.0,21300.0,"Secretaría General.Maquinaria, instalaciones técnicas y utillaje",20.0,9.0,2.0,,,,45.0
+20.0,9226.0,22000.0,Secretaría General Ordinario no inventariable,20.0,9.0,2.0,1000.0,,1000.0,605.65
+20.0,9226.0,22001.0,"Prensa, revistas, libros y otras publicaciones",20.0,9.0,2.0,3500.0,,3500.0,997.61
+20.0,9226.0,22500.0,Secretaría General.Tributos estatales,20.0,9.0,2.0,,,,17.96
+20.0,9226.0,22603.0,Publicación en Diarios Oficiales,20.0,9.0,2.0,1000.0,,1000.0,
+20.0,9226.0,22706.0,Estudios y trabajos técnicos,20.0,9.0,2.0,1000.0,,1000.0,
+20.0,9226.0,22799.0,Secretaría General Otros trabajos realizados por otras empresas y profesionales,20.0,9.0,2.0,6000.0,,6000.0,
+20.0,9226.0,23010.0,Secretaría General Del personal directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9226.0,23020.0,Del personal no directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9226.0,23110.0,Secretaría General Del personal directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9226.0,23120.0,Del personal no directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9241.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",20.0,9.0,2.0,550.0,,550.0,587.58
+20.0,9241.0,21500.0,Mobiliario,20.0,9.0,2.0,50.0,,50.0,
+20.0,9241.0,21600.0,Equipos para procesos de información,20.0,9.0,2.0,120.0,,120.0,48.0
+20.0,9241.0,22000.0,Ordinario no inventariable,20.0,9.0,2.0,450.0,,450.0,
+20.0,9241.0,22001.0,"Prensa, revistas, libros y otras publicaciones",20.0,9.0,2.0,2700.0,,2700.0,
+20.0,9241.0,22002.0,"Material, informático no inventariable",20.0,9.0,2.0,250.0,,250.0,
+20.0,9241.0,22199.0,Otros suministros,20.0,9.0,2.0,2000.0,,2000.0,
+20.0,9241.0,22602.0,Publicidad y propaganda,20.0,9.0,2.0,584150.0,,584150.0,616452.56
+20.0,9241.0,22650.0,Contingencias,20.0,9.0,2.0,25500.0,,25500.0,
+20.0,9241.0,22699.0,Otros gastos diversos,20.0,9.0,2.0,44625.0,,44625.0,
+20.0,9241.0,22706.0,Estudios y trabajos técnicos,20.0,9.0,2.0,72500.0,,72500.0,
+20.0,9241.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,20.0,9.0,2.0,513000.0,-60000.0,453000.0,209884.82
+20.0,9241.0,23020.0,Del personal no directivo,20.0,9.0,2.0,100.0,,100.0,
+20.0,9241.0,23120.0,Del personal no directivo,20.0,9.0,2.0,100.0,,100.0,
+21.0,3201.0,11000.0,Servicios Generales de Educación Retribuciones básicas,21.0,3.0,1.0,15526.7,,15526.7,19997.57
+21.0,3201.0,11001.0,Servicios Generales de Educación Retribuciones complementarias,21.0,3.0,1.0,38130.82,,38130.82,36816.39
+21.0,3201.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,27577.48,,27577.48,28166.97
+21.0,3201.0,13001.0,Servicios Generales de Educación.Horas extraordinarias,21.0,3.0,1.0,,,,70.0
+21.0,3201.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,1178.98,,1178.98,589.49
+21.0,3201.0,14303.0,Servicios Generales de Educación.Servicio Regional de Empleo. Otro Personal.,21.0,3.0,1.0,,170982.51,170982.51,107886.52
+21.0,3201.0,16000.0,Servicios Generales de Educación Seguridad Social,21.0,3.0,1.0,21127.69,56226.81,77354.5,46615.18
+21.0,3201.0,20400.0,Arrendamientos de material de transporte,21.0,3.0,2.0,101181.0,,101181.0,
+21.0,3201.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,2920.0,,2920.0,538.43
+21.0,3201.0,21500.0,Mobiliario,21.0,3.0,2.0,71.0,,71.0,
+21.0,3201.0,22000.0,Ordinario no inventariable,21.0,3.0,2.0,2019.0,,2019.0,1869.23
+21.0,3201.0,22001.0,"Prensa, revistas, libros y otras publicaciones",21.0,3.0,2.0,811.0,,811.0,
+21.0,3201.0,22002.0,"Material, informático no inventariable",21.0,3.0,2.0,47.0,,47.0,
+21.0,3201.0,22601.0,Atenciones protocolarias y representativas,21.0,3.0,2.0,9408.0,,9408.0,5416.2
+21.0,3201.0,22602.0,Publicidad y propaganda,21.0,3.0,2.0,20960.0,,20960.0,1732.05
+21.0,3201.0,22603.0,Publicación en Diarios Oficiales,21.0,3.0,2.0,122.0,,122.0,
+21.0,3201.0,22605.0,Gastos de comunidad de propietarios,21.0,3.0,2.0,,,,5399.16
+21.0,3201.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,519.0,,519.0,715.0
+21.0,3201.0,22608.0,Promoción cultural y educativa,21.0,3.0,2.0,4966.0,,4966.0,3690.45
+21.0,3201.0,22609.0,Actividades culturales y deportivas,21.0,3.0,2.0,,,,3274.0
+21.0,3201.0,22611.0,Programa Educación Seguridad Vial,21.0,3.0,2.0,14700.0,,14700.0,10799.36
+21.0,3201.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,313130.0,-100000.0,213130.0,73474.44
+21.0,3201.0,23020.0,Del personal no directivo,21.0,3.0,2.0,243.0,,243.0,
+21.0,3201.0,23120.0,Del personal no directivo,21.0,3.0,2.0,123.0,,123.0,
+21.0,3201.0,62393.0,"Servicios Generales de Educación.Reformas en Colegios Públicos, grupo 3. Año 2004",21.0,3.0,6.0,,117918.98,117918.98,117918.98
+21.0,3201.0,62394.0,"Servicios Generales de Educación.Reformas en Colegios Públicos, grupo 4. Año 2004",21.0,3.0,6.0,,118185.43,118185.43,118185.43
+21.0,3201.0,62395.0,"Servicios Generales de Educación.Reformas en Colegios Públicos, grupo 5. Año 2004",21.0,3.0,6.0,,105823.98,105823.98,105823.98
+21.0,3201.0,62396.0,"Servicios Generales de Educación.Reformas en Colegios Públicos, grupo 6. Año 2004",21.0,3.0,6.0,,118102.35,118102.35,118102.35
+21.0,3201.0,62397.0,"Servicios Generales de Educación.Reformas en Colegios Públicos, grupo 7. Año 2004",21.0,3.0,6.0,,119386.37,119386.37,119386.37
+21.0,3201.0,63218.0,Rehabilitación y reposición de Centros Públicos,21.0,3.0,6.0,350000.0,,350000.0,
+21.0,3201.0,63500.0,Mobiliario,21.0,3.0,6.0,6000.0,,6000.0,
+21.0,3221.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,1693234.23,,1693234.23,1704483.52
+21.0,3221.0,13001.0,Conservatorio.Horas extraordinarias,21.0,3.0,1.0,,,,280.0
+21.0,3221.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,120693.14,,120693.14,90801.02
+21.0,3221.0,13100.0,Conservatorio Laboral Temporal,21.0,3.0,1.0,91521.16,,91521.16,29630.0
+21.0,3221.0,13102.0,Conservatorio Otras remuneraciones,21.0,3.0,1.0,5106.86,,5106.86,1562.22
+21.0,3221.0,16000.0,Conservatorio Seguridad Social,21.0,3.0,1.0,614996.95,,614996.95,584602.78
+21.0,3221.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",21.0,3.0,2.0,236.0,,236.0,
+21.0,3221.0,20400.0,Arrendamientos de material de transporte,21.0,3.0,2.0,780.0,,780.0,250.0
+21.0,3221.0,20500.0,Arrendamientos de mobiliario y enseres,21.0,3.0,2.0,236.0,,236.0,
+21.0,3221.0,20800.0,Arrendamientos de otro inmovilizado material,21.0,3.0,2.0,931.0,,931.0,
+21.0,3221.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,469.0,,469.0,1887.02
+21.0,3221.0,21500.0,Mobiliario,21.0,3.0,2.0,236.0,,236.0,
+21.0,3221.0,21600.0,Equipos para procesos de información,21.0,3.0,2.0,236.0,,236.0,
+21.0,3221.0,21900.0,Otro inmovilizado material,21.0,3.0,2.0,4242.0,,4242.0,9205.38
+21.0,3221.0,22000.0,Ordinario no inventariable,21.0,3.0,2.0,1172.0,,1172.0,700.88
+21.0,3221.0,22001.0,"Prensa, revistas, libros y otras publicaciones",21.0,3.0,2.0,8513.0,,8513.0,1483.07
+21.0,3221.0,22002.0,"Conservatorio.Material, informático no inventariable",21.0,3.0,2.0,,,,1137.96
+21.0,3221.0,22100.0,Energía eléctrica,21.0,3.0,2.0,80000.0,,80000.0,79899.81
+21.0,3221.0,22101.0,Agua,21.0,3.0,2.0,1020.0,,1020.0,1007.56
+21.0,3221.0,22106.0,Productos farmacéuticos y material sanitario,21.0,3.0,2.0,93.0,,93.0,34.24
+21.0,3221.0,22110.0,Productos de limpieza y aseo,21.0,3.0,2.0,586.0,,586.0,
+21.0,3221.0,22300.0,Transportes,21.0,3.0,2.0,2891.0,,2891.0,205.2
+21.0,3221.0,22602.0,Publicidad y propaganda,21.0,3.0,2.0,469.0,,469.0,1290.3
+21.0,3221.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,3044.0,,3044.0,9526.41
+21.0,3221.0,22713.0,Actuaciones artísticas,21.0,3.0,2.0,6239.0,,6239.0,
+21.0,3221.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,17067.0,,17067.0,974.68
+21.0,3221.0,62500.0,Mobiliario,21.0,3.0,6.0,6000.0,,6000.0,
+21.0,3221.0,62516.0,Instrumentos musicales,21.0,3.0,6.0,8000.0,,8000.0,
+21.0,3242.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,316506.2,,316506.2,322570.9
+21.0,3242.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,47807.0,,47807.0,37478.17
+21.0,3242.0,16000.0,Servicios Complementarios a la Educación Seguridad Social,21.0,3.0,1.0,101547.7,,101547.7,102904.23
+21.0,3242.0,20400.0,Arrendamientos de material de transporte,21.0,3.0,2.0,527.0,,527.0,
+21.0,3242.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,1058.0,,1058.0,
+21.0,3242.0,22000.0,Ordinario no inventariable,21.0,3.0,2.0,280.0,,280.0,89.56
+21.0,3242.0,22106.0,Servicios Complementarios a la Educación.Productos farmacéuticos y material sanitario,21.0,3.0,2.0,,,,4.76
+21.0,3242.0,22199.0,Otros suministros,21.0,3.0,2.0,539.0,,539.0,1100.02
+21.0,3242.0,22602.0,Publicidad y propaganda,21.0,3.0,2.0,1051.0,,1051.0,
+21.0,3242.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,517.0,,517.0,
+21.0,3242.0,22608.0,Promoción cultural y educativa,21.0,3.0,2.0,14483.0,,14483.0,790.0
+21.0,3242.0,22706.0,Estudios y trabajos técnicos,21.0,3.0,2.0,1292.0,,1292.0,
+21.0,3242.0,22736.0,Actividades Educativas,21.0,3.0,2.0,38300.0,,38300.0,31358.12
+21.0,3242.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,468109.0,,468109.0,298111.41
+21.0,3242.0,48905.0,Otras transferencias,21.0,3.0,4.0,50297.0,,50297.0,39130.04
+21.0,3242.0,48906.0,Plan Local Mejora Convenio Ampas,21.0,3.0,4.0,468200.0,,468200.0,260758.88
+21.0,3242.0,62517.0,Libros,21.0,3.0,6.0,1500.0,,1500.0,
+21.0,3243.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,129796.8,,129796.8,132652.12
+21.0,3243.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,10718.24,,10718.24,8329.6
+21.0,3243.0,16000.0,Otras enseñanzas Seguridad Social,21.0,3.0,1.0,43419.15,,43419.15,45704.64
+21.0,3243.0,20400.0,Arrendamientos de material de transporte,21.0,3.0,2.0,783.0,,783.0,
+21.0,3243.0,22001.0,"Prensa, revistas, libros y otras publicaciones",21.0,3.0,2.0,243.0,,243.0,
+21.0,3243.0,22602.0,Publicidad y propaganda,21.0,3.0,2.0,1025.0,,1025.0,
+21.0,3243.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,517.0,,517.0,
+21.0,3243.0,22608.0,Promoción cultural y educativa,21.0,3.0,2.0,2979.0,,2979.0,3564.0
+21.0,3243.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,518491.0,,518491.0,507219.36
+21.0,3243.0,41001.0,Patronato de EE.II. y Casas de Niños,21.0,3.0,4.0,2661731.0,,2661731.0,2661731.0
+21.0,3243.0,42110.0,A otros organismos autónomos-UNED,21.0,3.0,4.0,90000.0,,90000.0,53825.0
+21.0,3243.0,45101.0,Universidad Rey Juan Carlos.- Universidad de Mayores,21.0,3.0,4.0,12000.0,,12000.0,
+21.0,3243.0,63202.0,Remodelación de edificios,21.0,3.0,6.0,10000.0,,10000.0,
+21.0,3321.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,995377.02,,995377.02,945375.52
+21.0,3321.0,13001.0,Biblioteca Central.Horas extraordinarias,21.0,3.0,1.0,,,,1660.0
+21.0,3321.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,71511.33,,71511.33,64644.74
+21.0,3321.0,13100.0,Biblioteca Central.Laboral Temporal,21.0,3.0,1.0,,,,9925.53
+21.0,3321.0,13102.0,Biblioteca Central.Otras remuneraciones,21.0,3.0,1.0,,,,526.15
+21.0,3321.0,14303.0,Biblioteca Central.Servicio Regional de Empleo. Otro Personal.,21.0,3.0,1.0,,31358.4,31358.4,6968.52
+21.0,3321.0,16000.0,Biblioteca Central Seguridad Social,21.0,3.0,1.0,338659.1,10066.05,348725.15,332913.94
+21.0,3321.0,21300.0,"Biblioteca Central.Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,,,,6894.61
+21.0,3321.0,21900.0,Otro inmovilizado material,21.0,3.0,2.0,1200.0,,1200.0,
+21.0,3321.0,22000.0,Biblioteca Central.Ordinario no inventariable,21.0,3.0,2.0,,,,1119.82
+21.0,3321.0,22001.0,"Prensa, revistas, libros y otras publicaciones",21.0,3.0,2.0,14696.57,,14696.57,13500.0
+21.0,3321.0,22002.0,"Biblioteca Central.Material, informático no inventariable",21.0,3.0,2.0,,,,28.57
+21.0,3321.0,22101.0,Agua,21.0,3.0,2.0,1420.0,,1420.0,1417.47
+21.0,3321.0,22106.0,Biblioteca Central.Productos farmacéuticos y material sanitario,21.0,3.0,2.0,,,,32.21
+21.0,3321.0,22300.0,Biblioteca Central.Transportes,21.0,3.0,2.0,,,,122.66
+21.0,3321.0,22601.0,Biblioteca Central.Atenciones protocolarias y representativas,21.0,3.0,2.0,,,,13.5
+21.0,3321.0,22609.0,Actividades culturales y deportivas,21.0,3.0,2.0,38864.19,-6510.54,32353.65,21931.67
+21.0,3321.0,22701.0,Seguridad,21.0,3.0,2.0,4941.0,,4941.0,10396.04
+21.0,3321.0,22706.0,Estudios y trabajos técnicos,21.0,3.0,2.0,1500.0,,1500.0,
+21.0,3321.0,22713.0,Actuaciones artísticas,21.0,3.0,2.0,1000.0,,1000.0,
+21.0,3321.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,1000.0,,1000.0,678.36
+21.0,3321.0,62504.0,Mobiliario para la red de Bibliotecas Municipales,21.0,3.0,6.0,60000.0,,60000.0,
+21.0,3321.0,62517.0,Libros,21.0,3.0,6.0,80000.0,,80000.0,
+21.0,3331.0,13000.0,Museo de la Ciudad Retribuciones básicas,21.0,3.0,1.0,28579.88,,28579.88,38234.77
+21.0,3331.0,13001.0,Museo de la Ciudad.Horas extraordinarias,21.0,3.0,1.0,,,,40.0
+21.0,3331.0,13002.0,Museo de la Ciudad Otras remuneraciones,21.0,3.0,1.0,1178.98,,1178.98,2393.81
+21.0,3331.0,16000.0,Museo de la Ciudad Seguridad Social,21.0,3.0,1.0,9388.92,,9388.92,14384.64
+21.0,3331.0,20800.0,Arrendamientos de otro inmovilizado material,21.0,3.0,2.0,500.0,,500.0,
+21.0,3331.0,20900.0,Cánones,21.0,3.0,2.0,300.0,,300.0,
+21.0,3331.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,6000.0,,6000.0,24.9
+21.0,3331.0,22000.0,Museo de la Ciudad.Ordinario no inventariable,21.0,3.0,2.0,,,,62.21
+21.0,3331.0,22100.0,Energía eléctrica,21.0,3.0,2.0,34000.0,,34000.0,5934.26
+21.0,3331.0,22101.0,Agua,21.0,3.0,2.0,800.0,,800.0,790.81
+21.0,3331.0,22110.0,Museo de la Ciudad.Productos de limpieza y aseo,21.0,3.0,2.0,,,,11.88
+21.0,3331.0,22199.0,Museo de la Ciudad.Otros suministros,21.0,3.0,2.0,,,,1796.93
+21.0,3331.0,22300.0,Museo de la Ciudad.Transportes,21.0,3.0,2.0,,,,342.2
+21.0,3331.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,700.0,,700.0,
+21.0,3331.0,22609.0,Actividades culturales y deportivas,21.0,3.0,2.0,5000.0,,5000.0,
+21.0,3331.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,6000.0,,6000.0,1999.99
+21.0,3331.0,62505.0,Mobiliario Sala de Exposiciones,21.0,3.0,6.0,140000.0,,140000.0,
+21.0,3331.0,62526.0,Compra anual de obras de arte,21.0,3.0,6.0,1000.0,,1000.0,
+21.0,3331.0,62595.0,Museo de la Ciudad.Equipamiento y Proyecto para Museo de la Ciudad,21.0,3.0,6.0,,80621.82,80621.82,80621.82
+21.0,3341.0,11000.0,Retribuciones básicas,21.0,3.0,1.0,621.07,,621.07,
+21.0,3341.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,740067.42,,740067.42,743844.58
+21.0,3341.0,13001.0,Centro Cultural Villa de Mostoles.Horas extraordinarias,21.0,3.0,1.0,,,,478.0
+21.0,3341.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,47454.96,,47454.96,67789.97
+21.0,3341.0,16000.0,Centro Cultural Villa de Mostoles Seguridad Social,21.0,3.0,1.0,289378.86,,289378.86,293214.02
+21.0,3341.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",21.0,3.0,2.0,5700.0,,5700.0,5744.24
+21.0,3341.0,20400.0,Arrendamientos de material de transporte,21.0,3.0,2.0,7500.0,,7500.0,6331.32
+21.0,3341.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,15000.0,,15000.0,29707.46
+21.0,3341.0,22000.0,Ordinario no inventariable,21.0,3.0,2.0,6610.4,,6610.4,2192.9
+21.0,3341.0,22100.0,Energía eléctrica,21.0,3.0,2.0,139700.0,,139700.0,62848.64
+21.0,3341.0,22101.0,Agua,21.0,3.0,2.0,2800.0,,2800.0,2785.61
+21.0,3341.0,22104.0,Vestuario,21.0,3.0,2.0,1652.6,,1652.6,2722.45
+21.0,3341.0,22106.0,Productos farmacéuticos y material sanitario,21.0,3.0,2.0,280.0,,280.0,
+21.0,3341.0,22110.0,Productos de limpieza y aseo,21.0,3.0,2.0,5000.0,,5000.0,14897.63
+21.0,3341.0,22114.0,Materiales de talleres,21.0,3.0,2.0,3265.54,,3265.54,2756.72
+21.0,3341.0,22403.0,Primas de seguros otros riesgos,21.0,3.0,2.0,15000.0,,15000.0,18624.89
+21.0,3341.0,22602.0,Publicidad y propaganda,21.0,3.0,2.0,6000.0,,6000.0,23794.75
+21.0,3341.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,2449.15,,2449.15,
+21.0,3341.0,22609.0,Actividades culturales y deportivas,21.0,3.0,2.0,16526.0,,16526.0,13578.95
+21.0,3341.0,22706.0,Estudios y trabajos técnicos,21.0,3.0,2.0,1000.0,,1000.0,
+21.0,3341.0,22713.0,Actuaciones artísticas,21.0,3.0,2.0,20000.0,,20000.0,31392.0
+21.0,3341.0,22735.0,Festival de Cine de Cortos,21.0,3.0,2.0,40117.0,,40117.0,40117.0
+21.0,3341.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,116400.0,,116400.0,64324.95
+21.0,3341.0,27000.0,Contingencias,21.0,3.0,2.0,20657.5,,20657.5,
+21.0,3341.0,48905.0,Otras transferencias,21.0,3.0,4.0,24000.0,,24000.0,21138.45
+21.0,3341.0,48909.0,Coral Villa de Móstoles,21.0,3.0,4.0,15500.0,,15500.0,15500.0
+21.0,3341.0,62500.0,Centro Cultural Villa de Mostoles Mobiliario,21.0,3.0,6.0,100000.0,6510.54,106510.54,6510.54
+21.0,3342.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,204723.82,,204723.82,195746.35
+21.0,3342.0,13001.0,Centro Cultural el Soto.Horas extraordinarias,21.0,3.0,1.0,,,,70.0
+21.0,3342.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,17024.78,,17024.78,11605.44
+21.0,3342.0,16000.0,Centro Cultural el Soto Seguridad Social,21.0,3.0,1.0,69500.71,,69500.71,71200.44
+21.0,3342.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,816.38,,816.38,
+21.0,3342.0,22000.0,Centro Cultural el Soto.Ordinario no inventariable,21.0,3.0,2.0,,,,
+21.0,3342.0,22100.0,Energía eléctrica,21.0,3.0,2.0,46000.0,,46000.0,27747.45
+21.0,3342.0,22101.0,Agua,21.0,3.0,2.0,1320.0,,1320.0,1295.2
+21.0,3342.0,22114.0,Materiales de talleres,21.0,3.0,2.0,3718.35,,3718.35,2703.67
+21.0,3342.0,22602.0,Publicidad y propaganda,21.0,3.0,2.0,400.0,,400.0,
+21.0,3342.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,800.0,,800.0,
+21.0,3342.0,22609.0,Actividades culturales y deportivas,21.0,3.0,2.0,4898.31,,4898.31,4500.0
+21.0,3342.0,22713.0,Actuaciones artísticas,21.0,3.0,2.0,15000.0,,15000.0,15300.0
+21.0,3342.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,4500.0,,4500.0,
+21.0,3343.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,205262.33,,205262.33,204769.77
+21.0,3343.0,13001.0,Centro Cultural Joan Miro.Horas extraordinarias,21.0,3.0,1.0,,,,40.0
+21.0,3343.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,17466.06,,17466.06,16028.12
+21.0,3343.0,16000.0,Centro Cultural Joan Miro Seguridad Social,21.0,3.0,1.0,76748.53,,76748.53,75216.47
+21.0,3343.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",21.0,3.0,2.0,8000.0,,8000.0,9865.99
+21.0,3343.0,21300.0,"Centro Cultural Joan Miro.Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,,,,36.25
+21.0,3343.0,22000.0,Centro Cultural Joan Miro.Ordinario no inventariable,21.0,3.0,2.0,,,,23.1
+21.0,3343.0,22100.0,Energía eléctrica,21.0,3.0,2.0,52900.0,,52900.0,27145.59
+21.0,3343.0,22101.0,Agua,21.0,3.0,2.0,5000.0,,5000.0,5014.68
+21.0,3343.0,22110.0,Centro Cultural Joan Miro.Productos de limpieza y aseo,21.0,3.0,2.0,,,,12.2
+21.0,3343.0,22114.0,Materiales de talleres,21.0,3.0,2.0,2000.0,,2000.0,212.97
+21.0,3343.0,22601.0,Atenciones protocolarias y representativas,21.0,3.0,2.0,,,,73.56
+21.0,3343.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,1239.45,,1239.45,
+21.0,3343.0,22608.0,Centro Cultural Joan Miro.Promoción cultural y educativa,21.0,3.0,2.0,,,,569.15
+21.0,3343.0,22609.0,Actividades culturales y deportivas,21.0,3.0,2.0,51000.0,,51000.0,44809.32
+21.0,3343.0,22713.0,Actuaciones artísticas,21.0,3.0,2.0,50000.0,,50000.0,49838.0
+21.0,3343.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,1000.0,,1000.0,
+21.0,3344.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,165407.92,,165407.92,159504.91
+21.0,3344.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,6052.42,,6052.42,5644.12
+21.0,3344.0,16000.0,Centro Cultural Caleidoscopio Seguridad Social,21.0,3.0,1.0,60852.09,,60852.09,56726.38
+21.0,3344.0,21300.0,"Centro Cultural Caleidoscopio Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,800.0,,800.0,29.0
+21.0,3344.0,22000.0,Centro Cultural Caleidoscopio.Ordinario no inventariable,21.0,3.0,2.0,,,,36.72
+21.0,3344.0,22100.0,Energía eléctrica,21.0,3.0,2.0,60000.0,,60000.0,2819.61
+21.0,3344.0,22101.0,Agua,21.0,3.0,2.0,1800.0,,1800.0,1783.82
+21.0,3344.0,22114.0,Materiales de talleres,21.0,3.0,2.0,3000.0,,3000.0,
+21.0,3344.0,22601.0,Atenciones protocolarias y representativas,21.0,3.0,2.0,,,,165.14
+21.0,3344.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,1000.0,,1000.0,
+21.0,3344.0,22609.0,Actividades culturales y deportivas,21.0,3.0,2.0,6000.0,,6000.0,350.0
+21.0,3344.0,22706.0,Centro Cultural Caleidoscopio.Estudios y trabajos técnicos,21.0,3.0,2.0,,,,4600.0
+21.0,3344.0,22713.0,Actuaciones artísticas,21.0,3.0,2.0,1239.45,,1239.45,
+21.0,3344.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,4500.0,,4500.0,
+21.0,3344.0,62526.0,Compra anual de obras de arte,21.0,3.0,6.0,1000.0,,1000.0,
+21.0,3351.0,13000.0,Retribuciones básicas,21.0,3.0,1.0,119864.42,,119864.42,63421.32
+21.0,3351.0,13002.0,Otras remuneraciones,21.0,3.0,1.0,6305.2,,6305.2,2785.65
+21.0,3351.0,16000.0,Teatro del Bosque Seguridad Social,21.0,3.0,1.0,47733.82,,47733.82,21499.8
+21.0,3351.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",21.0,3.0,2.0,29000.0,,29000.0,13530.9
+21.0,3351.0,20800.0,Arrendamientos de otro inmovilizado material,21.0,3.0,2.0,3000.0,,3000.0,
+21.0,3351.0,20900.0,Cánones,21.0,3.0,2.0,28000.0,,28000.0,22739.55
+21.0,3351.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",21.0,3.0,2.0,16000.0,,16000.0,32049.69
+21.0,3351.0,22000.0,Teatro del Bosque.Ordinario no inventariable,21.0,3.0,2.0,,,,34.61
+21.0,3351.0,22100.0,Energía eléctrica,21.0,3.0,2.0,76000.0,,76000.0,70545.93
+21.0,3351.0,22101.0,Agua,21.0,3.0,2.0,70000.0,,70000.0,197126.5
+21.0,3351.0,22102.0,Gas,21.0,3.0,2.0,16526.0,,16526.0,9918.91
+21.0,3351.0,22110.0,Teatro del Bosque.Productos de limpieza y aseo,21.0,3.0,2.0,,,,8.73
+21.0,3351.0,22601.0,Atenciones protocolarias y representativas,21.0,3.0,2.0,,,,21.62
+21.0,3351.0,22602.0,Teatro del Bosque.Publicidad y propaganda,21.0,3.0,2.0,,,,1175.23
+21.0,3351.0,22606.0,"Reuniones, conferencias y cursos",21.0,3.0,2.0,1000.0,,1000.0,
+21.0,3351.0,22609.0,Teatro del Bosque Actividades culturales y deportivas,21.0,3.0,2.0,2000.0,,2000.0,
+21.0,3351.0,22713.0,Actuaciones artísticas,21.0,3.0,2.0,455000.0,,455000.0,332840.22
+21.0,3351.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,21.0,3.0,2.0,280000.0,,280000.0,182600.46
+21.0,3351.0,63301.0,Maquinaria escénica,21.0,3.0,6.0,30000.0,,30000.0,
+22.0,3381.0,11000.0,Festejos Populares Retribuciones básicas,22.0,3.0,1.0,8389.5,,8389.5,7441.56
+22.0,3381.0,11001.0,Festejos Populares Retribuciones complementarias,22.0,3.0,1.0,38803.52,,38803.52,37224.79
+22.0,3381.0,13000.0,Retribuciones básicas,22.0,3.0,1.0,88997.54,,88997.54,84930.63
+22.0,3381.0,13002.0,Otras remuneraciones,22.0,3.0,1.0,6339.76,,6339.76,4125.64
+22.0,3381.0,16000.0,Festejos Populares Seguridad Social,22.0,3.0,1.0,47760.48,,47760.48,43713.36
+22.0,3381.0,22000.0,Ordinario no inventariable,22.0,3.0,2.0,10.0,,10.0,
+22.0,3381.0,22603.0,Festejos Populares.Publicación en Diarios Oficiales,22.0,3.0,2.0,,,,126.0
+22.0,3381.0,22616.0,Festejos Populares,22.0,3.0,2.0,1482620.0,-3000.0,1479620.0,1441577.97
+22.0,3381.0,23020.0,Del personal no directivo,22.0,3.0,2.0,10.0,,10.0,
+22.0,3381.0,23120.0,Del personal no directivo,22.0,3.0,2.0,10.0,,10.0,
+22.0,3381.0,48100.0,"Premios, becas y pensiones de estudios e investigación",22.0,3.0,4.0,8640.0,,8640.0,6650.0
+22.0,3381.0,48905.0,Otras transferencias,22.0,3.0,4.0,92000.0,3000.0,95000.0,87233.76
+22.0,3381.0,48906.0,Convenio Federación Peñas,22.0,3.0,4.0,2600.0,,2600.0,2790.0
+22.0,9242.0,11000.0,Participacion Ciudadana Retribuciones básicas,22.0,9.0,1.0,8389.5,,8389.5,11037.06
+22.0,9242.0,11001.0,Participacion Ciudadana Retribuciones complementarias,22.0,9.0,1.0,38803.52,,38803.52,56658.61
+22.0,9242.0,12003.0,Participacion Ciudadana.Sueldos del Grupo C1,22.0,9.0,1.0,,,,4942.42
+22.0,9242.0,12004.0,Sueldos del Grupo C2,22.0,9.0,1.0,335.58,,335.58,
+22.0,9242.0,12006.0,Participacion Ciudadana.Trienios,22.0,9.0,1.0,,,,1903.99
+22.0,9242.0,12100.0,Complemento de destino,22.0,9.0,1.0,170.81,,170.81,2763.53
+22.0,9242.0,12101.0,Complemento específico,22.0,9.0,1.0,407.15,,407.15,5383.7
+22.0,9242.0,13000.0,Retribuciones básicas,22.0,9.0,1.0,92375.92,,92375.92,86519.95
+22.0,9242.0,13001.0,Participacion Ciudadana.Horas extraordinarias,22.0,9.0,1.0,,,,70.0
+22.0,9242.0,13002.0,Otras remuneraciones,22.0,9.0,1.0,10101.22,,10101.22,8265.66
+22.0,9242.0,16000.0,Participacion Ciudadana Seguridad Social,22.0,9.0,1.0,64421.73,,64421.73,52931.97
+22.0,9242.0,20300.0,"Participacion Ciudadana.Arrendamientos de maquinaria, instalación y utillaje",22.0,9.0,2.0,,,,1652.0
+22.0,9242.0,21200.0,Participacion Ciudadana Edificios y otras construcciones,22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,21300.0,"Participacion Ciudadana Maquinaria, instalaciones técnicas y utillaje",22.0,9.0,2.0,400.0,,400.0,367.98
+22.0,9242.0,22000.0,Ordinario no inventariable,22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,22001.0,"Prensa, revistas, libros y otras publicaciones",22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,22002.0,"Material, informático no inventariable",22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,22601.0,Atenciones protocolarias y representativas,22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,22602.0,Publicidad y propaganda,22.0,9.0,2.0,10.0,,10.0,6708.3
+22.0,9242.0,22603.0,Publicación en Diarios Oficiales,22.0,9.0,2.0,,,,297.59
+22.0,9242.0,22605.0,Gastos de comunidad de propietarios,22.0,9.0,2.0,3000.0,1452.0,4452.0,2452.2
+22.0,9242.0,22606.0,"Reuniones, conferencias y cursos",22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,22.0,9.0,2.0,,1652.0,1652.0,581.74
+22.0,9242.0,23000.0,De los miembros de los órganos de gobierno,22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,23100.0,De los miembros de los órganos de gobierno,22.0,9.0,2.0,10.0,,10.0,
+22.0,9242.0,48905.0,Otras Transferencias,22.0,9.0,4.0,95000.0,,95000.0,94976.3
+22.0,9242.0,48906.0,Convenio AA.VV.CC,22.0,9.0,4.0,8350.0,,8350.0,8350.0
+22.0,9252.0,11000.0,Junta de Distrito nº 2 Norte-Universidad Retribuciones básicas,22.0,9.0,1.0,8389.5,,8389.5,3846.06
+22.0,9252.0,11001.0,Junta de Distrito nº 2 Norte-Universidad Retribuciones complementarias,22.0,9.0,1.0,20673.38,,20673.38,9473.79
+22.0,9252.0,13000.0,Retribuciones básicas,22.0,9.0,1.0,80164.41,20000.0,100164.41,102424.14
+22.0,9252.0,13001.0,Junta de Distrito nº 2 Norte-Universidad.Horas extraordinarias,22.0,9.0,1.0,,,,30.0
+22.0,9252.0,13002.0,Otras remuneraciones,22.0,9.0,1.0,4332.66,,4332.66,5380.67
+22.0,9252.0,16000.0,Junta de Distrito nº 2 Norte-Universidad Seguridad Social,22.0,9.0,1.0,45148.94,,45148.94,39912.52
+22.0,9252.0,21200.0,Edificios y otras construcciones,22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",22.0,9.0,2.0,10.0,,10.0,32.89
+22.0,9252.0,21400.0,Elementos de transporte,22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,21900.0,Otro inmovilizado material,22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,22000.0,Ordinario no inventariable,22.0,9.0,2.0,10.0,,10.0,121.65
+22.0,9252.0,22001.0,"Prensa, revistas, libros y otras publicaciones",22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,22002.0,"Material, informático no inventariable",22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,22101.0,Junta de Distrito nº 2 Norte-Universidad.Agua,22.0,9.0,2.0,,,,13.68
+22.0,9252.0,22110.0,Productos de limpieza y aseo,22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,22602.0,Publicidad y propaganda,22.0,9.0,2.0,10.0,,10.0,2199.72
+22.0,9252.0,22605.0,Gastos de comunidad de propietarios,22.0,9.0,2.0,,,,450.0
+22.0,9252.0,22606.0,"Reuniones, conferencias y cursos",22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,22609.0,Actividades culturales y deportivas,22.0,9.0,2.0,55000.0,,55000.0,43396.27
+22.0,9252.0,22616.0,Festejos Populares,22.0,9.0,2.0,,,,1295.1
+22.0,9252.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,22.0,9.0,2.0,,,,831.6
+22.0,9252.0,23004.0,Dietas Consejo/Pleno Junta de Distrito,22.0,9.0,2.0,19282.0,4654.08,23936.08,9591.96
+22.0,9252.0,23020.0,Del personal no directivo,22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,23120.0,Del personal no directivo,22.0,9.0,2.0,10.0,,10.0,
+22.0,9252.0,61904.0,Reposiciones en calles y aceras,22.0,9.0,6.0,121200.0,,121200.0,111899.93
+23.0,1321.0,12000.0,Sueldos del Grupo A1,23.0,1.0,1.0,47201.17,,47201.17,44031.96
+23.0,1321.0,12001.0,Sueldos del Grupo A2,23.0,1.0,1.0,40814.19,,40814.19,38719.56
+23.0,1321.0,12003.0,Sueldos del Grupo C1,23.0,1.0,1.0,150319.84,,150319.84,136923.72
+23.0,1321.0,12004.0,Sueldos del Grupo C2,23.0,1.0,1.0,1065466.5,,1065466.5,1022169.71
+23.0,1321.0,12006.0,Trienios,23.0,1.0,1.0,185062.78,,185062.78,180023.65
+23.0,1321.0,12100.0,Complemento de destino,23.0,1.0,1.0,787925.05,,787925.05,754755.58
+23.0,1321.0,12101.0,Complemento específico,23.0,1.0,1.0,3343973.42,,3343973.42,3341680.26
+23.0,1321.0,12103.0,Policia Local Otros complementos,23.0,1.0,1.0,3536.4,,3536.4,3561.45
+23.0,1321.0,13000.0,Retribuciones básicas,23.0,1.0,1.0,160344.52,,160344.52,133256.26
+23.0,1321.0,13002.0,Otras remuneraciones,23.0,1.0,1.0,7981.1,,7981.1,3104.19
+23.0,1321.0,14303.0,Policia Local.Servicio Regional de Empleo. Otro Personal.,23.0,1.0,1.0,,42882.8,42882.8,26176.83
+23.0,1321.0,16000.0,Policia Local Seguridad Social,23.0,1.0,1.0,1842987.25,13125.14,1856112.39,1784077.48
+23.0,1321.0,20400.0,Policia Local Arrendamientos de material de transporte,23.0,1.0,2.0,85000.0,,85000.0,66625.04
+23.0,1321.0,20900.0,Cánones,23.0,1.0,2.0,2670.0,,2670.0,758.64
+23.0,1321.0,21200.0,Edificios y otras construcciones,23.0,1.0,2.0,,,,7064.98
+23.0,1321.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",23.0,1.0,2.0,65000.0,,65000.0,20098.62
+23.0,1321.0,21400.0,Elementos de transporte,23.0,1.0,2.0,15000.0,,15000.0,39357.11
+23.0,1321.0,21500.0,Mobiliario,23.0,1.0,2.0,890.0,,890.0,
+23.0,1321.0,21900.0,Otro inmovilizado material,23.0,1.0,2.0,6230.0,,6230.0,181.5
+23.0,1321.0,22000.0,Ordinario no inventariable,23.0,1.0,2.0,16910.0,,16910.0,2766.14
+23.0,1321.0,22001.0,"Prensa, revistas, libros y otras publicaciones",23.0,1.0,2.0,890.0,,890.0,675.66
+23.0,1321.0,22002.0,"Policia Local.Material, informático no inventariable",23.0,1.0,2.0,,,,78.0
+23.0,1321.0,22105.0,Productos alimenticios,23.0,1.0,2.0,6230.0,,6230.0,1442.78
+23.0,1321.0,22110.0,Policia Local.Productos de limpieza y aseo,23.0,1.0,2.0,,,,52.32
+23.0,1321.0,22112.0,"Suministros de material electrónico, eléctrico y de telecomunicaciones",23.0,1.0,2.0,,,,9902.95
+23.0,1321.0,22199.0,Otros suministros,23.0,1.0,2.0,10000.0,,10000.0,29145.2
+23.0,1321.0,22202.0,Policia Local.Telegráficas,23.0,1.0,2.0,,,,33.4
+23.0,1321.0,22400.0,Primas de seguros de edificios y locales,23.0,1.0,2.0,890.0,,890.0,
+23.0,1321.0,22500.0,Policia Local.Tributos estatales,23.0,1.0,2.0,,,,744.77
+23.0,1321.0,22601.0,Atenciones protocolarias y representativas,23.0,1.0,2.0,5340.0,,5340.0,4373.71
+23.0,1321.0,22602.0,Publicidad y propaganda,23.0,1.0,2.0,890.0,,890.0,8217.1
+23.0,1321.0,22605.0,Gastos de comunidad de propietarios,23.0,1.0,2.0,,,,2306.64
+23.0,1321.0,22699.0,Otros gastos diversos,23.0,1.0,2.0,31150.0,,31150.0,27.67
+23.0,1321.0,22700.0,Policia Local.Limpieza y Aseo,23.0,1.0,2.0,,,,25.88
+23.0,1321.0,22701.0,Seguridad,23.0,1.0,2.0,1242343.0,,1242343.0,1185118.0
+23.0,1321.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,23.0,1.0,2.0,30000.0,,30000.0,59471.34
+23.0,1321.0,23020.0,Del personal no directivo,23.0,1.0,2.0,5340.0,,5340.0,434.39
+23.0,1321.0,23120.0,Del personal no directivo,23.0,1.0,2.0,5340.0,,5340.0,
+23.0,1321.0,23300.0,Policia Local Otras indemnizaciones,23.0,1.0,2.0,2670.0,,2670.0,
+23.0,1321.0,62301.0,Emisoras,23.0,1.0,6.0,19500.0,,19500.0,
+23.0,1321.0,62304.0,Centro de Control Integral de Comunicaciones de Policía Local,23.0,1.0,6.0,100000.0,,100000.0,
+23.0,1321.0,62306.0,Policia Local Sistemas de control de tráfico (Etilometro),23.0,1.0,6.0,20000.0,,20000.0,
+23.0,1321.0,62387.0,Policia Local.Radar para Policia Local,23.0,1.0,6.0,,52897.04,52897.04,52897.04
+23.0,1321.0,62500.0,Mobiliario,23.0,1.0,6.0,4000.0,,4000.0,
+23.0,1322.0,12003.0,Bescam Sueldos del Grupo C1,23.0,1.0,1.0,8389.5,,8389.5,
+23.0,1322.0,12004.0,Sueldos del Grupo C2,23.0,1.0,1.0,1694679.0,,1694679.0,1587379.08
+23.0,1322.0,12006.0,Trienios,23.0,1.0,1.0,112748.58,,112748.58,115522.57
+23.0,1322.0,12009.0,Bescam.Otras retribuciones básicas,23.0,1.0,1.0,,,,289.74
+23.0,1322.0,12100.0,Complemento de destino,23.0,1.0,1.0,994501.06,,994501.06,926953.05
+23.0,1322.0,12101.0,Complemento específico,23.0,1.0,1.0,4276868.96,,4276868.96,4082452.51
+23.0,1322.0,12103.0,Bescam.Otros complementos,23.0,1.0,1.0,,,,810.41
+23.0,1322.0,16000.0,Bescam Seguridad Social,23.0,1.0,1.0,2051044.95,-210000.0,1841044.95,2116176.81
+23.0,1322.0,22000.0,Bescam.Ordinario no inventariable,23.0,1.0,2.0,,,,847.25
+23.0,1322.0,22001.0,"Bescam.Prensa, revistas, libros y otras publicaciones",23.0,1.0,2.0,,,,709.9
+23.0,1322.0,22104.0,Vestuario,23.0,1.0,2.0,290000.0,,290000.0,289996.22
+23.0,1322.0,22601.0,Bescam.Atenciones protocolarias y representativas,23.0,1.0,2.0,,,,940.0
+23.0,1322.0,60902.0,Adecuación de solar para estacionaiento,23.0,1.0,6.0,160000.0,,160000.0,
+23.0,1322.0,63202.0,Remodelación de edificios,23.0,1.0,6.0,25000.0,,25000.0,
+23.0,1331.0,12001.0,Sueldos del Grupo A2,23.0,1.0,1.0,13425.72,,13425.72,12906.52
+23.0,1331.0,12006.0,Trienios,23.0,1.0,1.0,1460.34,,1460.34,1568.25
+23.0,1331.0,12100.0,Complemento de destino,23.0,1.0,1.0,7137.76,,7137.76,7137.76
+23.0,1331.0,12101.0,Complemento específico,23.0,1.0,1.0,15486.66,,15486.66,15486.66
+23.0,1331.0,16000.0,Control de Tráfico Seguridad Social,23.0,1.0,1.0,9452.64,,9452.64,9767.76
+23.0,1331.0,22199.0,Otros suministros,23.0,1.0,2.0,,,,10913.7
+23.0,1331.0,22602.0,Publicidad y propaganda,23.0,1.0,2.0,4450.0,,4450.0,
+23.0,1331.0,22699.0,Otros gastos diversos,23.0,1.0,2.0,12460.0,,12460.0,
+23.0,1331.0,22717.0,Control de Tráfico Retirada y depósito de vehículos,23.0,1.0,2.0,717768.18,,717768.18,719890.44
+23.0,1331.0,22721.0,Control de Tráfico Ordenación de tráfico,23.0,1.0,2.0,162758.58,,162758.58,
+23.0,1331.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,23.0,1.0,2.0,9000.0,,9000.0,174720.08
+23.0,1331.0,46700.0,Control de Tráfico Consorcio Regional de Transportes de Madrid,23.0,1.0,4.0,18000.0,210000.0,228000.0,209679.66
+23.0,1331.0,62306.0,Control de Tráfico Sistemas de control de tráfico,23.0,1.0,6.0,130000.0,,130000.0,
+23.0,1331.0,62307.0,Control de Tráfico Cámaras para control de tráfico,23.0,1.0,6.0,130000.0,,130000.0,
+23.0,1331.0,62315.0,Instalaciones semafóricas,23.0,1.0,6.0,200000.0,,200000.0,
+23.0,1341.0,13000.0,Proteccion Civil Retribuciones básicas,23.0,1.0,1.0,1352.44,,1352.44,
+23.0,1341.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",23.0,1.0,2.0,,,,1191.86
+23.0,1341.0,209.0,Proteccion Civil Cánones,23.0,1.0,2.0,300.0,,300.0,
+23.0,1341.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",23.0,1.0,2.0,6000.0,,6000.0,
+23.0,1341.0,21400.0,Elementos de transporte,23.0,1.0,2.0,,,,6215.06
+23.0,1341.0,21500.0,Mobiliario,23.0,1.0,2.0,6000.0,,6000.0,
+23.0,1341.0,21900.0,Otro inmovilizado material,23.0,1.0,2.0,1000.0,,1000.0,
+23.0,1341.0,22000.0,Ordinario no inventariable,23.0,1.0,2.0,800.0,,800.0,
+23.0,1341.0,22001.0,"Prensa, revistas, libros y otras publicaciones",23.0,1.0,2.0,600.0,,600.0,
+23.0,1341.0,22104.0,Vestuario,23.0,1.0,2.0,16000.0,,16000.0,10170.79
+23.0,1341.0,22105.0,Productos alimenticios,23.0,1.0,2.0,12000.0,,12000.0,10678.5
+23.0,1341.0,22106.0,Proteccion Civil Productos farmacéuticos y material sanitario,23.0,1.0,2.0,8000.0,,8000.0,3090.95
+23.0,1341.0,22199.0,Proteccion Civil Otros suministros,23.0,1.0,2.0,1000.0,,1000.0,1629.6
+23.0,1341.0,22602.0,Publicidad y propaganda,23.0,1.0,2.0,1200.0,,1200.0,
+23.0,1341.0,22605.0,Gastos de comunidad de propietarios,23.0,1.0,2.0,1000.0,,1000.0,
+23.0,1341.0,22606.0,"Reuniones, conferencias y cursos",23.0,1.0,2.0,600.0,,600.0,
+23.0,1341.0,62301.0,Proteccion Civil Emisoras,23.0,1.0,6.0,3000.0,,3000.0,
+23.0,1341.0,62400.0,Proteccion Civil Elementos de transporte,23.0,1.0,6.0,35000.0,,35000.0,
+23.0,1341.0,62498.0,Proteccion Civil.Vehículo sociosanitario para Protección Civil,23.0,1.0,6.0,,34999.98,34999.98,
+23.0,1341.0,63202.0,Proteccion Civil Remodelación de edificios,23.0,1.0,6.0,1000.0,,1000.0,
+23.0,1351.0,12000.0,Sueldos del Grupo A1,23.0,1.0,1.0,15526.7,,15526.7,14677.32
+23.0,1351.0,12001.0,Sueldos del Grupo A2,23.0,1.0,1.0,10080.28,,10080.28,
+23.0,1351.0,12003.0,Sueldos del Grupo C1,23.0,1.0,1.0,60481.68,,60481.68,67825.84
+23.0,1351.0,12004.0,Sueldos del Grupo C2,23.0,1.0,1.0,575184.12,,575184.12,537936.56
+23.0,1351.0,12006.0,Trienios,23.0,1.0,1.0,88289.32,,88289.32,85609.32
+23.0,1351.0,12100.0,Complemento de destino,23.0,1.0,1.0,398457.48,,398457.48,375365.08
+23.0,1351.0,12101.0,Complemento específico,23.0,1.0,1.0,1694911.28,,1694911.28,1637572.39
+23.0,1351.0,12103.0,Extinción de Incendios y Salvamento Otros complementos,23.0,1.0,1.0,492.96,,492.96,774.84
+23.0,1351.0,13000.0,Retribuciones básicas,23.0,1.0,1.0,24318.14,,24318.14,24860.27
+23.0,1351.0,13002.0,Otras remuneraciones,23.0,1.0,1.0,1084.26,,1084.26,542.13
+23.0,1351.0,14303.0,Extinción de Incendios y Salvamento.Servicio Regional de Empleo. Otro Personal.,23.0,1.0,1.0,,11219.34,11219.34,5485.02
+23.0,1351.0,16000.0,Extinción de Incendios y Salvamento Seguridad Social,23.0,1.0,1.0,1029775.07,3601.38,1033376.45,1004257.78
+23.0,1351.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",23.0,1.0,2.0,6000.0,,6000.0,13338.18
+23.0,1351.0,21400.0,Elementos de transporte,23.0,1.0,2.0,6000.0,,6000.0,29465.43
+23.0,1351.0,21500.0,Mobiliario,23.0,1.0,2.0,20000.0,,20000.0,
+23.0,1351.0,21900.0,Otro inmovilizado material,23.0,1.0,2.0,200.0,,200.0,
+23.0,1351.0,22000.0,Ordinario no inventariable,23.0,1.0,2.0,1500.0,,1500.0,379.1
+23.0,1351.0,22001.0,"Prensa, revistas, libros y otras publicaciones",23.0,1.0,2.0,1500.0,,1500.0,
+23.0,1351.0,22102.0,Gas,23.0,1.0,2.0,1400.0,,1400.0,26.38
+23.0,1351.0,22104.0,Vestuario,23.0,1.0,2.0,68000.0,,68000.0,19161.17
+23.0,1351.0,22106.0,Productos farmacéuticos y material sanitario,23.0,1.0,2.0,500.0,,500.0,
+23.0,1351.0,22110.0,Productos de limpieza y aseo,23.0,1.0,2.0,1800.0,,1800.0,
+23.0,1351.0,22199.0,Otros suministros,23.0,1.0,2.0,,,,16254.48
+23.0,1351.0,22500.0,Tributos estatales,23.0,1.0,2.0,5000.0,,5000.0,129.24
+23.0,1351.0,22601.0,Atenciones protocolarias y representativas,23.0,1.0,2.0,1500.0,,1500.0,1028.71
+23.0,1351.0,22602.0,Publicidad y propaganda,23.0,1.0,2.0,1000.0,,1000.0,
+23.0,1351.0,22609.0,Actividades culturales y deportivas,23.0,1.0,2.0,1000.0,,1000.0,2360.0
+23.0,1351.0,22699.0,Extinción de Incendios y Salvamento.Otros gastos diversos,23.0,1.0,2.0,,,,168.86
+23.0,1351.0,23020.0,Del personal no directivo,23.0,1.0,2.0,1000.0,,1000.0,
+23.0,1351.0,23120.0,Del personal no directivo,23.0,1.0,2.0,2000.0,,2000.0,
+23.0,1351.0,27000.0,Extinción de Incendios y Salvamento Contingencias,23.0,1.0,2.0,20000.0,,20000.0,
+23.0,1351.0,62319.0,Equipamiento del vehículo del S.E.I.S,23.0,1.0,6.0,40000.0,,40000.0,31111.0
+23.0,1351.0,62399.0,Extinción de Incendios y Salvamento.Equipamiento del vehículo SEIS,23.0,1.0,6.0,,39000.0,39000.0,
+23.0,1351.0,62403.0,Vehículo S.E.I.S.,23.0,1.0,6.0,300000.0,,300000.0,
+23.0,1351.0,62499.0,Extinción de Incendios y Salvamento.Vehículo bomba rural para el SEIS,23.0,1.0,6.0,,600000.0,600000.0,
+23.0,1351.0,63202.0,Remodelación de edificios,23.0,1.0,6.0,80000.0,,80000.0,6917.09
+23.0,1351.0,63500.0,Mobiliario,23.0,1.0,6.0,30000.0,,30000.0,5418.56
+24.0,2321.0,12000.0,Sueldos del Grupo A1,24.0,2.0,1.0,15526.7,,15526.7,
+24.0,2321.0,12004.0,Sueldos del Grupo C2,24.0,2.0,1.0,8398.5,,8398.5,8378.58
+24.0,2321.0,12006.0,Trienios,24.0,2.0,1.0,4592.28,,4592.28,2002.08
+24.0,2321.0,12100.0,Complemento de destino,24.0,2.0,1.0,13059.9,,13059.9,4899.02
+24.0,2321.0,12101.0,Complemento específico,24.0,2.0,1.0,24385.62,,24385.62,10600.94
+24.0,2321.0,13000.0,Retribuciones básicas,24.0,2.0,1.0,167610.96,,167610.96,169013.18
+24.0,2321.0,13002.0,Otras remuneraciones,24.0,2.0,1.0,10913.14,,10913.14,8060.15
+24.0,2321.0,13100.0,Promocion de la Igualdad Laboral Temporal,24.0,2.0,1.0,29182.44,,29182.44,30332.24
+24.0,2321.0,13102.0,Promocion de la Igualdad Otras remuneraciones,24.0,2.0,1.0,2175.92,,2175.92,1678.42
+24.0,2321.0,16000.0,Promocion de la Igualdad Seguridad Social,24.0,2.0,1.0,89739.55,,89739.55,73731.37
+24.0,2321.0,20400.0,Arrendamientos de material de transporte,24.0,2.0,2.0,4000.0,,4000.0,2181.2
+24.0,2321.0,21200.0,Edificios y otras construcciones,24.0,2.0,2.0,,,,
+24.0,2321.0,21300.0,"Promocion de la Igualdad.Maquinaria, instalaciones técnicas y utillaje",24.0,2.0,2.0,,,,27.05
+24.0,2321.0,21500.0,Mobiliario,24.0,2.0,2.0,,,,1927.59
+24.0,2321.0,21600.0,.Equipos para procesos de información,24.0,2.0,2.0,,,,2950.0
+24.0,2321.0,22000.0,Ordinario no inventariable,24.0,2.0,2.0,600.0,,600.0,212.51
+24.0,2321.0,22001.0,"Prensa, revistas, libros y otras publicaciones",24.0,2.0,2.0,100.0,,100.0,
+24.0,2321.0,22114.0,Materiales de talleres,24.0,2.0,2.0,600.0,,600.0,108.4
+24.0,2321.0,22601.0,Atenciones protocolarias y representativas,24.0,2.0,2.0,1000.0,,1000.0,2577.68
+24.0,2321.0,22602.0,Publicidad y propaganda,24.0,2.0,2.0,4000.0,,4000.0,
+24.0,2321.0,22606.0,"Reuniones, conferencias y cursos",24.0,2.0,2.0,2500.0,,2500.0,200.0
+24.0,2321.0,22608.0,Promoción cultural y educativa,24.0,2.0,2.0,67000.0,,67000.0,10393.28
+24.0,2321.0,22609.0,Actividades culturales y deportivas,24.0,2.0,2.0,,,,49562.48
+24.0,2321.0,22699.0,Otros gastos diversos,24.0,2.0,2.0,300.0,,300.0,
+24.0,2321.0,22706.0,Estudios y trabajos técnicos,24.0,2.0,2.0,9000.0,,9000.0,8000.4
+24.0,2321.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,24.0,2.0,2.0,1000.0,,1000.0,
+24.0,2321.0,23020.0,Del personal no directivo,24.0,2.0,2.0,200.0,,200.0,
+24.0,2321.0,23120.0,Del personal no directivo,24.0,2.0,2.0,200.0,,200.0,
+24.0,2321.0,48905.0,Otras tranferencias,24.0,2.0,4.0,7000.0,,7000.0,3698.12
+24.0,2322.0,13000.0,Retribuciones básicas,24.0,2.0,1.0,157552.92,,157552.92,159183.25
+24.0,2322.0,13002.0,Otras remuneraciones,24.0,2.0,1.0,6700.72,,6700.72,19029.81
+24.0,2322.0,13100.0,Programa contra la violencia de género Laboral Temporal,24.0,2.0,1.0,42708.96,,42708.96,15295.03
+24.0,2322.0,13102.0,Programa contra la violencia de género Otras remuneraciones,24.0,2.0,1.0,2168.52,,2168.52,2005.92
+24.0,2322.0,16000.0,Programa contra la violencia de género Seguridad Social,24.0,2.0,1.0,65160.05,,65160.05,65098.74
+24.0,2322.0,21300.0,"Programa contra la violencia de género.Maquinaria, instalaciones técnicas y utillaje",24.0,2.0,2.0,,,,1098.71
+24.0,2322.0,21500.0,Mobiliario,24.0,2.0,2.0,100.0,,100.0,
+24.0,2322.0,22001.0,"Prensa, revistas, libros y otras publicaciones",24.0,2.0,2.0,100.0,,100.0,
+24.0,2322.0,22101.0,Agua,24.0,2.0,2.0,100.0,,100.0,89.48
+24.0,2322.0,22102.0,Gas,24.0,2.0,2.0,1000.0,,1000.0,325.06
+24.0,2322.0,22105.0,Productos alimenticios,24.0,2.0,2.0,16000.0,,16000.0,5904.05
+24.0,2322.0,22106.0,Productos farmacéuticos y material sanitario,24.0,2.0,2.0,700.0,,700.0,179.39
+24.0,2322.0,22110.0,Productos de limpieza y aseo,24.0,2.0,2.0,2000.0,,2000.0,1398.58
+24.0,2322.0,22199.0,Programa contra la violencia de género.Otros suministros,24.0,2.0,2.0,,,,116.91
+24.0,2322.0,22300.0,Transportes,24.0,2.0,2.0,270.0,,270.0,147.5
+24.0,2322.0,22602.0,Publicidad y propaganda,24.0,2.0,2.0,5000.0,,5000.0,1071.44
+24.0,2322.0,22608.0,Promoción cultural y educativa,24.0,2.0,2.0,21000.0,,21000.0,
+24.0,2322.0,22609.0,Actividades culturales y deportivas,24.0,2.0,2.0,,,,14432.0
+24.0,2322.0,22706.0,Estudios y trabajos técnicos,24.0,2.0,2.0,54000.0,,54000.0,60823.0
+24.0,2322.0,23120.0,Programa contra la violencia de género.Del personal no directivo,24.0,2.0,2.0,,,,156.0
+24.0,2322.0,48000.0,Atenciones benéficas y asistenciales,24.0,2.0,4.0,1300.0,,1300.0,992.66
+24.0,3131.0,11000.0,Retribuciones básicas,24.0,3.0,1.0,8389.5,,8389.5,10500.36
+24.0,3131.0,11001.0,Promociónn de la Salud Retribuciones complementarias,24.0,3.0,1.0,38803.52,,38803.52,36913.43
+24.0,3131.0,12000.0,Sueldos del Grupo A1,24.0,3.0,1.0,47822.24,,47822.24,44031.96
+24.0,3131.0,12001.0,Sueldos del Grupo A2,24.0,3.0,1.0,1074.06,,1074.06,
+24.0,3131.0,12003.0,Sueldos del Grupo C1,24.0,3.0,1.0,20160.56,,20160.56,19769.68
+24.0,3131.0,12004.0,Sueldos del Grupo C2,24.0,3.0,1.0,8389.5,,8389.5,7185.54
+24.0,3131.0,12006.0,Trienios,24.0,3.0,1.0,8525.72,,8525.72,8897.91
+24.0,3131.0,12100.0,Complemento de destino,24.0,3.0,1.0,41030.79,,41030.79,39196.88
+24.0,3131.0,12101.0,Complemento específico,24.0,3.0,1.0,83563.07,,83563.07,79997.2
+24.0,3131.0,13000.0,Retribuciones básicas,24.0,3.0,1.0,559597.4,,559597.4,553394.55
+24.0,3131.0,13001.0,Horas extraordinarias,24.0,3.0,1.0,547.4,,547.4,
+24.0,3131.0,13002.0,Otras remuneraciones,24.0,3.0,1.0,71311.42,,71311.42,64614.84
+24.0,3131.0,16000.0,Promociónn de la Salud Seguridad Social,24.0,3.0,1.0,270226.03,,270226.03,276167.37
+24.0,3131.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",24.0,3.0,2.0,100.0,,100.0,778.28
+24.0,3131.0,21500.0,Mobiliario,24.0,3.0,2.0,200.0,,200.0,
+24.0,3131.0,22000.0,Ordinario no inventariable,24.0,3.0,2.0,500.0,,500.0,701.59
+24.0,3131.0,22001.0,"Prensa, revistas, libros y otras publicaciones",24.0,3.0,2.0,100.0,,100.0,712.3
+24.0,3131.0,22101.0,Agua,24.0,3.0,2.0,,,,133.99
+24.0,3131.0,22104.0,Vestuario,24.0,3.0,2.0,500.0,,500.0,660.17
+24.0,3131.0,22106.0,Productos farmacéuticos y material sanitario,24.0,3.0,2.0,10000.0,,10000.0,7103.73
+24.0,3131.0,22110.0,Productos de limpieza y aseo,24.0,3.0,2.0,2000.0,,2000.0,995.86
+24.0,3131.0,22113.0,Manutención de animales,24.0,3.0,2.0,15000.0,,15000.0,9071.83
+24.0,3131.0,22199.0,Otros suministros,24.0,3.0,2.0,2000.0,,2000.0,
+24.0,3131.0,22601.0,Atenciones protocolarias y representativas,24.0,3.0,2.0,1000.0,,1000.0,888.41
+24.0,3131.0,22602.0,Publicidad y propaganda,24.0,3.0,2.0,2000.0,,2000.0,
+24.0,3131.0,22605.0,Gastos de comunidad de propietarios,24.0,3.0,2.0,1000.0,,1000.0,10426.1
+24.0,3131.0,22606.0,"Reuniones, conferencias y cursos",24.0,3.0,2.0,2000.0,,2000.0,
+24.0,3131.0,22608.0,Promoción cultural y educativa,24.0,3.0,2.0,10000.0,,10000.0,
+24.0,3131.0,22609.0,Actividades culturales y deportivas,24.0,3.0,2.0,,,,5994.91
+24.0,3131.0,22706.0,Estudios y trabajos técnicos,24.0,3.0,2.0,4000.0,,4000.0,
+24.0,3131.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,24.0,3.0,2.0,160000.0,,160000.0,143026.11
+24.0,3131.0,23020.0,Del personal no directivo,24.0,3.0,2.0,500.0,,500.0,56.44
+24.0,3131.0,23120.0,Del personal no directivo,24.0,3.0,2.0,500.0,,500.0,276.15
+24.0,3131.0,48927.0,Promociónn de la Salud Otras Transferencias,24.0,3.0,4.0,39000.0,,39000.0,39000.0
+24.0,4931.0,12000.0,Sueldos del Grupo A1,24.0,4.0,1.0,15526.7,,15526.7,10665.81
+24.0,4931.0,12004.0,Sueldos del Grupo C2,24.0,4.0,1.0,8389.5,,8389.5,8338.64
+24.0,4931.0,12006.0,Trienios,24.0,4.0,1.0,1098.3,,1098.3,1147.86
+24.0,4931.0,12100.0,Complemento de destino,24.0,4.0,1.0,12431.02,,12431.02,10079.0
+24.0,4931.0,12101.0,Complemento específico,24.0,4.0,1.0,23963.38,,23963.38,20157.28
+24.0,4931.0,13000.0,Retribuciones básicas,24.0,4.0,1.0,160985.3,,160985.3,153097.3
+24.0,4931.0,13001.0,Horas extraordinarias,24.0,4.0,1.0,994.0,,994.0,30.0
+24.0,4931.0,13002.0,Otras remuneraciones,24.0,4.0,1.0,12971.64,,12971.64,9195.24
+24.0,4931.0,14303.0,Información y defensa del consumidor.Servicio Regional de Empleo. Otro Personal.,24.0,4.0,1.0,,24252.3,24252.3,7006.25
+24.0,4931.0,16000.0,Información y defensa del consumidor Seguridad Social,24.0,4.0,1.0,71315.84,7784.94,79100.78,70794.49
+24.0,4931.0,21200.0,Edificios y otras construcciones,24.0,4.0,2.0,1000.0,,1000.0,
+24.0,4931.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",24.0,4.0,2.0,900.0,,900.0,
+24.0,4931.0,22000.0,Ordinario no inventariable,24.0,4.0,2.0,1500.0,,1500.0,
+24.0,4931.0,22001.0,"Prensa, revistas, libros y otras publicaciones",24.0,4.0,2.0,500.0,,500.0,401.2
+24.0,4931.0,22110.0,Productos de limpieza y aseo,24.0,4.0,2.0,500.0,,500.0,
+24.0,4931.0,22300.0,Transportes,24.0,4.0,2.0,400.0,,400.0,
+24.0,4931.0,22601.0,Atenciones protocolarias y representativas,24.0,4.0,2.0,3000.0,,3000.0,
+24.0,4931.0,22602.0,Publicidad y propaganda,24.0,4.0,2.0,3000.0,,3000.0,177.0
+24.0,4931.0,22605.0,Gastos de comunidad de propietarios,24.0,4.0,2.0,5000.0,,5000.0,1644.44
+24.0,4931.0,22706.0,Estudios y trabajos técnicos,24.0,4.0,2.0,4200.0,,4200.0,
+24.0,4931.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,24.0,4.0,2.0,8000.0,,8000.0,991.2
+24.0,4931.0,23020.0,Del personal no directivo,24.0,4.0,2.0,1200.0,,1200.0,
+24.0,4931.0,23120.0,Del personal no directivo,24.0,4.0,2.0,800.0,,800.0,151.25
+24.0,9255.0,11000.0,Junta de Distrito nº 5 Parque Coimbra-Guadarrama Retribuciones básicas,24.0,9.0,1.0,16779.0,,16779.0,11287.62
+24.0,9255.0,11001.0,Junta de Distrito nº 5 Parque Coimbra-Guadarrama Retribuciones complementarias,24.0,9.0,1.0,59476.9,,59476.9,46698.58
+24.0,9255.0,13000.0,Retribuciones básicas,24.0,9.0,1.0,75562.34,,75562.34,75992.9
+24.0,9255.0,13001.0,Junta de Distrito nº 5 Parque Coimbra-Guadarrama.Horas extraordinarias,24.0,9.0,1.0,,,,80.0
+24.0,9255.0,13002.0,Otras remuneraciones,24.0,9.0,1.0,7069.46,,7069.46,6697.31
+24.0,9255.0,16000.0,Junta de Distrito nº 5 Parque Coimbra-Gaudarrama Seguridad Social,24.0,9.0,1.0,47046.23,,47046.23,43456.5
+24.0,9255.0,20200.0,Arrendamientos de edificios y otras construcciones,24.0,9.0,2.0,22984.0,-7758.08,15225.92,5310.0
+24.0,9255.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",24.0,9.0,2.0,3000.0,,3000.0,
+24.0,9255.0,20400.0,Arrendamientos de material de transporte,24.0,9.0,2.0,500.0,,500.0,
+24.0,9255.0,21200.0,Edificios y otras construcciones,24.0,9.0,2.0,200.0,,200.0,
+24.0,9255.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",24.0,9.0,2.0,200.0,,200.0,1059.52
+24.0,9255.0,21500.0,Mobiliario,24.0,9.0,2.0,1000.0,,1000.0,
+24.0,9255.0,22000.0,Ordinario no inventariable,24.0,9.0,2.0,500.0,,500.0,
+24.0,9255.0,22001.0,"Prensa, revistas, libros y otras publicaciones",24.0,9.0,2.0,100.0,,100.0,
+24.0,9255.0,22110.0,Productos de limpieza y aseo,24.0,9.0,2.0,100.0,,100.0,
+24.0,9255.0,22602.0,Publicidad y propaganda,24.0,9.0,2.0,1000.0,,1000.0,1196.88
+24.0,9255.0,22606.0,"Reuniones, conferencias y cursos",24.0,9.0,2.0,100.0,,100.0,
+24.0,9255.0,22608.0,Promoción cultural y educativa,24.0,9.0,2.0,10000.0,,10000.0,242.56
+24.0,9255.0,22609.0,Junta de Distrito nº 5 Parque Coimbra-Guadarrama.Actividades culturales y deportivas,24.0,9.0,2.0,,,,20379.6
+24.0,9255.0,22616.0,Festejos Populares,24.0,9.0,2.0,14000.0,,14000.0,4532.22
+24.0,9255.0,23004.0,Dietas Consejo/Pleno Junta de Distrito,24.0,9.0,2.0,19282.0,,19282.0,10733.86
+24.0,9255.0,23020.0,Del personal no directivo,24.0,9.0,2.0,90.0,,90.0,
+24.0,9255.0,23120.0,Del personal no directivo,24.0,9.0,2.0,90.0,,90.0,
+24.0,9255.0,61904.0,Reposiciones en calles y aceras,24.0,9.0,6.0,121200.0,,121200.0,111899.28
+25.0,3401.0,11000.0,Servicio Generales de Deportes Retribuciones básicas,25.0,3.0,1.0,16779.0,,16779.0,12905.6
+25.0,3401.0,11001.0,Servicio Generales de Deportes Retribuciones complementarias,25.0,3.0,1.0,41346.76,,41346.76,34105.33
+25.0,3401.0,12003.0,Sueldos del Grupo C1,25.0,3.0,1.0,10080.28,,10080.28,4942.42
+25.0,3401.0,12006.0,Trienios,25.0,3.0,1.0,3109.82,,3109.82,1723.4
+25.0,3401.0,12100.0,Complemento de destino,25.0,3.0,1.0,5527.06,,5527.06,2763.53
+25.0,3401.0,12101.0,Complemento específico,25.0,3.0,1.0,10767.4,,10767.4,5383.7
+25.0,3401.0,13000.0,Retribuciones básicas,25.0,3.0,1.0,2671565.62,,2671565.62,2429671.09
+25.0,3401.0,13001.0,Servicio Generales de Deportes.Horas extraordinarias,25.0,3.0,1.0,,,,310.0
+25.0,3401.0,13002.0,Otras remuneraciones,25.0,3.0,1.0,157744.76,,157744.76,201202.76
+25.0,3401.0,13100.0,Servicio Generales de Deportes.Laboral Temporal,25.0,3.0,1.0,,,,28375.28
+25.0,3401.0,13102.0,Servicio Generales de Deportes.Otras remuneraciones,25.0,3.0,1.0,,,,1499.22
+25.0,3401.0,16000.0,Servicio Generales de Deportes Seguridad Social,25.0,3.0,1.0,992978.63,,992978.63,956714.83
+25.0,3401.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",25.0,3.0,2.0,35000.0,,35000.0,58271.15
+25.0,3401.0,21400.0,Servicio Generales de Deportes.Elementos de transporte,25.0,3.0,2.0,,,,19.0
+25.0,3401.0,22000.0,Ordinario no inventariable,25.0,3.0,2.0,6000.0,,6000.0,3067.92
+25.0,3401.0,22002.0,"Material, informático no inventariable",25.0,3.0,2.0,,,,60.81
+25.0,3401.0,22100.0,Energía eléctrica,25.0,3.0,2.0,700000.0,,700000.0,558228.32
+25.0,3401.0,22101.0,Agua,25.0,3.0,2.0,517000.0,,517000.0,583932.08
+25.0,3401.0,22103.0,Servicio Generales de Deportes.Combustibles y carburantes,25.0,3.0,2.0,,,,47.51
+25.0,3401.0,22104.0,Vestuario,25.0,3.0,2.0,30000.0,,30000.0,10340.0
+25.0,3401.0,22106.0,Productos farmacéuticos y material sanitario,25.0,3.0,2.0,12000.0,,12000.0,5397.07
+25.0,3401.0,22110.0,Productos de limpieza y aseo,25.0,3.0,2.0,23000.0,,23000.0,17717.1
+25.0,3401.0,22115.0,Servicio Generales de Deportes.Materiales deportivos,25.0,3.0,2.0,,,,32.0
+25.0,3401.0,22116.0,Medallas y trofeos,25.0,3.0,2.0,5000.0,,5000.0,
+25.0,3401.0,22201.0,Servicio Generales de Deportes.Postales,25.0,3.0,2.0,,,,7.2
+25.0,3401.0,22400.0,Primas de seguros de edificios y locales,25.0,3.0,2.0,57000.0,,57000.0,53846.81
+25.0,3401.0,22500.0,Servicio Generales de Deportes.Tributos estatales,25.0,3.0,2.0,,,,41.56
+25.0,3401.0,22601.0,Atenciones protocolarias y representativas,25.0,3.0,2.0,,,,63.25
+25.0,3401.0,22602.0,Publicidad y propaganda,25.0,3.0,2.0,10000.0,,10000.0,13600.15
+25.0,3401.0,22603.0,Servicio Generales de Deportes.Publicación en Diarios Oficiales,25.0,3.0,2.0,,,,450.0
+25.0,3401.0,22609.0,Servicio Generales de Deportes.Actividades culturales y deportivas,25.0,3.0,2.0,,,,80.93
+25.0,3401.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,25.0,3.0,2.0,1700000.0,,1700000.0,1972973.72
+25.0,3401.0,48100.0,"Premios, becas y pensiones de estudios e investigación",25.0,3.0,4.0,30000.0,,30000.0,
+25.0,3401.0,48905.0,Otras transferencias,25.0,3.0,4.0,207000.0,,207000.0,162519.19
+25.0,3401.0,48908.0,C.D. Móstoles,25.0,3.0,4.0,180000.0,,180000.0,
+25.0,3401.0,48921.0,Club Baloncesto Ciudad de Móstoles,25.0,3.0,4.0,79200.0,,79200.0,25000.0
+25.0,3401.0,48922.0,Club Balonmano Móstoles,25.0,3.0,4.0,70000.0,,70000.0,70000.0
+25.0,3401.0,48923.0,Escuela Deportiva Los Molinos,25.0,3.0,4.0,105600.0,,105600.0,105600.0
+25.0,3401.0,48925.0,CD URJC Juventud Móstoles,25.0,3.0,4.0,40000.0,,40000.0,40000.0
+25.0,3401.0,48926.0,CD Ciudad de Móstoles Fútbol Sala,25.0,3.0,4.0,40000.0,,40000.0,40000.0
+25.0,3401.0,62290.0,Servicio Generales de Deportes.Reparación Cubierta del Pabellon Polideportivo Villafontana,25.0,3.0,6.0,,39600.0,39600.0,39600.0
+25.0,3401.0,62296.0,Servicio Generales de Deportes.Remodelación pistas deportivas en Pol. Villafontana,25.0,3.0,6.0,,109874.01,109874.01,
+25.0,3401.0,62300.0,"Maquinaria, instalaciones técnicas y utillaje",25.0,3.0,6.0,8000.0,,8000.0,
+25.0,3411.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",25.0,3.0,2.0,8000.0,,8000.0,
+25.0,3411.0,22105.0,Productos alimenticios,25.0,3.0,2.0,16000.0,,16000.0,8775.97
+25.0,3411.0,22115.0,Materiales deportivos,25.0,3.0,2.0,35000.0,,35000.0,
+25.0,3412.0,13000.0,Retribuciones básicas,25.0,3.0,1.0,35435.02,,35435.02,34810.5
+25.0,3412.0,13002.0,Otras remuneraciones,25.0,3.0,1.0,2175.92,,2175.92,1576.03
+25.0,3412.0,16000.0,Escuelas Deportivas Seguridad Social,25.0,3.0,1.0,14772.93,,14772.93,11977.2
+25.0,3412.0,20400.0,Arrendamientos de material de transporte,25.0,3.0,2.0,6000.0,,6000.0,6525.6
+25.0,3412.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,25.0,3.0,2.0,600000.0,,600000.0,
+25.0,3413.0,13000.0,Retribuciones básicas,25.0,3.0,1.0,1352.44,,1352.44,
+25.0,3413.0,16000.0,Juegos Deportivos Seguridad Social,25.0,3.0,1.0,3569.05,,3569.05,
+25.0,3413.0,20400.0,Arrendamientos de material de transporte,25.0,3.0,2.0,9000.0,,9000.0,11646.4
+25.0,3413.0,22116.0,Medallas y trofeos,25.0,3.0,2.0,30000.0,,30000.0,34849.45
+25.0,3413.0,22610.0,Arbitrajes actividades deportivas,25.0,3.0,2.0,350000.0,,350000.0,330946.54
+26.0,2301.0,11000.0,Retribuciones básicas,26.0,2.0,1.0,15526.7,,15526.7,10273.58
+26.0,2301.0,11001.0,Servicios Sociales Generales Retribuciones complementarias,26.0,2.0,1.0,38130.82,,38130.82,36847.27
+26.0,2301.0,12001.0,Sueldos del Grupo A2,26.0,2.0,1.0,537.03,,537.03,
+26.0,2301.0,12100.0,Complemento de destino,26.0,2.0,1.0,285.51,,285.51,
+26.0,2301.0,12101.0,Complemento específico,26.0,2.0,1.0,452.84,,452.84,
+26.0,2301.0,13000.0,Retribuciones básicas,26.0,2.0,1.0,1718062.72,,1718062.72,1656954.28
+26.0,2301.0,13001.0,Horas extraordinarias,26.0,2.0,1.0,11657.94,,11657.94,70.0
+26.0,2301.0,13002.0,Otras remuneraciones,26.0,2.0,1.0,147669.0,,147669.0,118451.78
+26.0,2301.0,13100.0,Servicios Sociales Generales Laboral Temporal,26.0,2.0,1.0,283996.44,,283996.44,230606.69
+26.0,2301.0,13102.0,Servicios Sociales Generales Otras remuneraciones,26.0,2.0,1.0,20667.54,,20667.54,22320.74
+26.0,2301.0,16000.0,Servicios Sociales Generales Seguridad Social,26.0,2.0,1.0,707671.93,,707671.93,662859.64
+26.0,2301.0,21200.0,Edificios y otras construcciones,26.0,2.0,2.0,6000.0,,6000.0,
+26.0,2301.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",26.0,2.0,2.0,6000.0,,6000.0,1561.3
+26.0,2301.0,21500.0,Mobiliario,26.0,2.0,2.0,6000.0,,6000.0,
+26.0,2301.0,22000.0,Ordinario no inventariable,26.0,2.0,2.0,4244.0,,4244.0,1736.12
+26.0,2301.0,22001.0,"Prensa, revistas, libros y otras publicaciones",26.0,2.0,2.0,500.0,,500.0,869.75
+26.0,2301.0,22110.0,Productos de limpieza y aseo,26.0,2.0,2.0,4774.0,,4774.0,8997.79
+26.0,2301.0,22199.0,Otros suministros,26.0,2.0,2.0,500.0,,500.0,264.32
+26.0,2301.0,22601.0,Atenciones protocolarias y representativas,26.0,2.0,2.0,600.0,,600.0,325.43
+26.0,2301.0,22602.0,Publicidad y propaganda,26.0,2.0,2.0,10000.0,,10000.0,
+26.0,2301.0,22605.0,Gastos de comunidad de propietarios,26.0,2.0,2.0,,,,758.88
+26.0,2301.0,22606.0,"Reuniones, conferencias y cursos",26.0,2.0,2.0,5000.0,,5000.0,
+26.0,2301.0,22609.0,Servicios Sociales Generales.Actividades culturales y deportivas,26.0,2.0,2.0,,,,626.62
+26.0,2301.0,22712.0,Servicio de atención a minusválidos,26.0,2.0,2.0,1822481.0,,1822481.0,1889382.91
+26.0,2301.0,22719.0,Servicio de acogimiento familiar,26.0,2.0,2.0,363700.0,,363700.0,394257.52
+26.0,2301.0,22720.0,Servicio transporte adap. minusválidos,26.0,2.0,2.0,46200.0,,46200.0,48129.6
+26.0,2301.0,22740.0,Restaurante Municipal,26.0,2.0,2.0,400000.0,,400000.0,261272.53
+26.0,2301.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,26.0,2.0,2.0,30000.0,,30000.0,19421.87
+26.0,2301.0,23020.0,Del personal no directivo,26.0,2.0,2.0,656.0,,656.0,
+26.0,2301.0,23120.0,Del personal no directivo,26.0,2.0,2.0,438.0,,438.0,395.7
+26.0,2301.0,48000.0,Atenciones benéficas y asistenciales,26.0,2.0,4.0,600000.0,,600000.0,614716.62
+26.0,2301.0,48001.0,Servicios Sociales Generales.Convenio colaboración con Asociación Afandem,26.0,2.0,4.0,,,,50.0
+26.0,2301.0,48009.0,Ayudas a familias numerosas,26.0,2.0,4.0,300000.0,,300000.0,79769.0
+26.0,2301.0,48100.0,"Premios, becas y pensiones de estudios e investigación",26.0,2.0,4.0,220000.0,,220000.0,130885.0
+26.0,2301.0,48905.0,Otras transferencias,26.0,2.0,4.0,468750.0,,468750.0,461585.0
+26.0,2301.0,62500.0,Mobiliario,26.0,2.0,6.0,15000.0,,15000.0,217.14
+26.0,2323.0,13000.0,Retribuciones básicas,26.0,2.0,1.0,2334.6,,2334.6,
+26.0,2323.0,16000.0,Cooperación Seguridad Social,26.0,2.0,1.0,6142.37,,6142.37,
+26.0,2323.0,21500.0,Mobiliario,26.0,2.0,2.0,300.0,,300.0,
+26.0,2323.0,22000.0,Ordinario no inventariable,26.0,2.0,2.0,1000.0,,1000.0,625.0
+26.0,2323.0,22002.0,"Material, informático no inventariable",26.0,2.0,2.0,300.0,,300.0,
+26.0,2323.0,22601.0,Atenciones protocolarias y representativas,26.0,2.0,2.0,2000.0,,2000.0,
+26.0,2323.0,22602.0,Publicidad y propaganda,26.0,2.0,2.0,2000.0,,2000.0,
+26.0,2323.0,22606.0,"Reuniones, conferencias y cursos",26.0,2.0,2.0,1500.0,,1500.0,
+26.0,2323.0,23020.0,Del personal no directivo,26.0,2.0,2.0,1500.0,,1500.0,
+26.0,2323.0,23120.0,Del personal no directivo,26.0,2.0,2.0,1500.0,,1500.0,
+26.0,2323.0,48905.0,Otras transferencias,26.0,2.0,4.0,100000.0,,100000.0,
+26.0,2323.0,49000.0,Otras transferencias al exterior,26.0,2.0,4.0,30000.0,,30000.0,
+26.0,2323.0,63500.0,Mobiliario,26.0,2.0,6.0,2000.0,,2000.0,
+26.0,2331.0,13000.0,Retribuciones básicas,26.0,2.0,1.0,94251.48,,94251.48,74383.47
+26.0,2331.0,13002.0,Otras remuneraciones,26.0,2.0,1.0,26378.94,,26378.94,11395.43
+26.0,2331.0,14303.0,Mayores.Servicio Regional de Empleo. Otro Personal.,26.0,2.0,1.0,,78977.7,78977.7,17550.58
+26.0,2331.0,16000.0,Mayores Seguridad Social,26.0,2.0,1.0,32654.54,25578.18,58232.72,29246.16
+26.0,2331.0,212.0,Edificios y otras construcciones,26.0,2.0,2.0,4000.0,,4000.0,
+26.0,2331.0,21200.0,Mayores.Edificios y otras construcciones,26.0,2.0,2.0,,,,1509.52
+26.0,2331.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",26.0,2.0,2.0,4000.0,,4000.0,9551.91
+26.0,2331.0,21500.0,Mobiliario,26.0,2.0,2.0,6000.0,,6000.0,
+26.0,2331.0,22000.0,Ordinario no inventariable,26.0,2.0,2.0,1500.0,,1500.0,1068.45
+26.0,2331.0,22001.0,"Prensa, revistas, libros y otras publicaciones",26.0,2.0,2.0,6500.0,,6500.0,13369.94
+26.0,2331.0,22102.0,Gas,26.0,2.0,2.0,10000.0,,10000.0,2227.97
+26.0,2331.0,22104.0,Mayores Vestuario,26.0,2.0,2.0,1000.0,,1000.0,
+26.0,2331.0,22106.0,Mayores.Productos farmacéuticos y material sanitario,26.0,2.0,2.0,,,,5.8
+26.0,2331.0,22110.0,Productos de limpieza y aseo,26.0,2.0,2.0,2500.0,,2500.0,
+26.0,2331.0,22199.0,Otros suministros,26.0,2.0,2.0,,,,1692.01
+26.0,2331.0,22601.0,Atenciones protocolarias y representativas,26.0,2.0,2.0,600.0,,600.0,501.53
+26.0,2331.0,22602.0,Publicidad y propaganda,26.0,2.0,2.0,3000.0,,3000.0,
+26.0,2331.0,22608.0,Promoción cultural y educativa,26.0,2.0,2.0,110000.0,,110000.0,
+26.0,2331.0,22609.0,Actividades culturales y deportivas,26.0,2.0,2.0,,,,141076.21
+26.0,2331.0,22706.0,Estudios y trabajos técnicos,26.0,2.0,2.0,16000.0,,16000.0,
+26.0,2331.0,22711.0,Servicio de teleasistencia,26.0,2.0,2.0,160000.0,,160000.0,97370.92
+26.0,2331.0,22723.0,Servicio Centro de Mayores,26.0,2.0,2.0,700000.0,,700000.0,732770.99
+26.0,2331.0,22738.0,Servicio de Comida a Domicilio,26.0,2.0,2.0,260000.0,,260000.0,174289.39
+26.0,2331.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,26.0,2.0,2.0,6000.0,,6000.0,29008.64
+26.0,2331.0,472.0,Mayores Subvenciones para reducir el precio a pagar por los consumidores,26.0,2.0,4.0,30000.0,,30000.0,1750.0
+26.0,2331.0,48904.0,Ayuda Socio-Sanitaria,26.0,2.0,4.0,125000.0,,125000.0,43881.0
+26.0,2331.0,62506.0,Mobiliario Centro de Mayores y dormitorios residencia,26.0,2.0,6.0,50000.0,,50000.0,2169.08
+26.0,2331.0,63202.0,Remodelación de edificios,26.0,2.0,6.0,18000.0,,18000.0,
+26.0,2332.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",26.0,2.0,2.0,1000.0,,1000.0,
+26.0,2332.0,21500.0,Mobiliario,26.0,2.0,2.0,500.0,,500.0,
+26.0,2332.0,22000.0,Ordinario no inventariable,26.0,2.0,2.0,300.0,,300.0,
+26.0,2332.0,22002.0,"Material, informático no inventariable",26.0,2.0,2.0,100.0,,100.0,
+26.0,2332.0,22110.0,Productos de limpieza y aseo,26.0,2.0,2.0,100.0,,100.0,
+26.0,2332.0,22199.0,Otros suministros,26.0,2.0,2.0,500.0,,500.0,
+26.0,2332.0,22601.0,Atenciones protocolarias y representativas,26.0,2.0,2.0,1500.0,,1500.0,
+26.0,2332.0,22602.0,Publicidad y propaganda,26.0,2.0,2.0,2500.0,,2500.0,
+26.0,2332.0,22603.0,Publicación en Diarios Oficiales,26.0,2.0,2.0,,,,462.16
+26.0,2332.0,22605.0,Gastos de comunidad de propietarios,26.0,2.0,2.0,9000.0,,9000.0,6327.5
+26.0,2332.0,22608.0,Promoción cultural y educativa,26.0,2.0,2.0,1500.0,,1500.0,
+26.0,2332.0,23120.0,Del personal no directivo,26.0,2.0,2.0,200.0,,200.0,
+26.0,2332.0,48905.0,Otras transferencias,26.0,2.0,4.0,460000.0,,460000.0,403905.0
+26.0,2332.0,62300.0,"Maquinaria, instalaciones técnicas y utillaje",26.0,2.0,6.0,5000.0,,5000.0,
+26.0,2333.0,22710.0,Servicio de ayuda a domicilio,26.0,2.0,2.0,4500000.0,,4500000.0,3501024.38
+26.0,2333.0,22714.0,Servicio de residencia de ancianos,26.0,2.0,2.0,550000.0,,550000.0,369640.32
+27.0,3391.0,11000.0,Juventud Retribuciones básicas,27.0,3.0,1.0,8389.5,,8389.5,7441.56
+27.0,3391.0,11001.0,Juventud Retribuciones complementarias,27.0,3.0,1.0,38803.52,,38803.52,37224.79
+27.0,3391.0,12005.0,Sueldos del Grupo E,27.0,3.0,1.0,7678.58,,7678.58,496.67
+27.0,3391.0,12006.0,Trienios,27.0,3.0,1.0,2074.38,,2074.38,134.18
+27.0,3391.0,12100.0,Complemento de destino,27.0,3.0,1.0,3955.42,,3955.42,255.85
+27.0,3391.0,12101.0,Complemento específico,27.0,3.0,1.0,9754.22,,9754.22,630.93
+27.0,3391.0,13000.0,Retribuciones básicas,27.0,3.0,1.0,579056.31,,579056.31,533551.72
+27.0,3391.0,13002.0,Otras remuneraciones,27.0,3.0,1.0,51344.45,,51344.45,41300.29
+27.0,3391.0,13100.0,Juventud.Laboral Temporal,27.0,3.0,1.0,,,,25624.29
+27.0,3391.0,13101.0,Juventud.Horas extraordinarias,27.0,3.0,1.0,,,,40.0
+27.0,3391.0,13102.0,Juventud.Otras remuneraciones,27.0,3.0,1.0,,,,1215.89
+27.0,3391.0,14303.0,Juventud.Servicio Regional de Empleo. Otro Personal.,27.0,3.0,1.0,,79551.0,79551.0,25633.1
+27.0,3391.0,16000.0,Juventud Seguridad Social,27.0,3.0,1.0,225458.62,26052.9,251511.52,217350.62
+27.0,3391.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",27.0,3.0,2.0,3090.0,,3090.0,
+27.0,3391.0,20400.0,Arrendamientos de material de transporte,27.0,3.0,2.0,600.0,,600.0,18330.0
+27.0,3391.0,20500.0,Arrendamientos de mobiliario y enseres,27.0,3.0,2.0,618.0,,618.0,
+27.0,3391.0,20800.0,Arrendamientos de otro inmovilizado material,27.0,3.0,2.0,100.0,,100.0,
+27.0,3391.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",27.0,3.0,2.0,100.0,,100.0,917.53
+27.0,3391.0,21500.0,Mobiliario,27.0,3.0,2.0,90.0,,90.0,
+27.0,3391.0,21900.0,Otro inmovilizado material,27.0,3.0,2.0,1500.0,,1500.0,1753.65
+27.0,3391.0,22000.0,Ordinario no inventariable,27.0,3.0,2.0,5700.0,,5700.0,533.64
+27.0,3391.0,22001.0,"Prensa, revistas, libros y otras publicaciones",27.0,3.0,2.0,1500.0,,1500.0,
+27.0,3391.0,22101.0,Juventud.Agua,27.0,3.0,2.0,,,,253.02
+27.0,3391.0,22104.0,Vestuario,27.0,3.0,2.0,4500.0,,4500.0,2705.13
+27.0,3391.0,22105.0,Productos alimenticios,27.0,3.0,2.0,100.0,,100.0,
+27.0,3391.0,22106.0,Productos farmacéuticos y material sanitario,27.0,3.0,2.0,90.0,,90.0,
+27.0,3391.0,22110.0,Productos de limpieza y aseo,27.0,3.0,2.0,50.0,,50.0,38.06
+27.0,3391.0,22199.0,Otros suministros,27.0,3.0,2.0,3000.0,,3000.0,2265.6
+27.0,3391.0,223.0,Transportes,27.0,3.0,2.0,50.0,,50.0,
+27.0,3391.0,22402.0,Primas de seguros por Responsabilidad Civil,27.0,3.0,2.0,50.0,,50.0,
+27.0,3391.0,22403.0,Primas de seguros otros riesgos,27.0,3.0,2.0,7000.0,,7000.0,5325.99
+27.0,3391.0,22601.0,Juventud.Atenciones protocolarias y representativas,27.0,3.0,2.0,,,,664.29
+27.0,3391.0,22602.0,Publicidad y propaganda,27.0,3.0,2.0,38664.0,,38664.0,17692.58
+27.0,3391.0,22605.0,Gastos de comunidad de propietarios,27.0,3.0,2.0,6500.0,,6500.0,6747.12
+27.0,3391.0,22606.0,"Reuniones, conferencias y cursos",27.0,3.0,2.0,40000.0,,40000.0,41372.16
+27.0,3391.0,22706.0,Estudios y trabajos técnicos,27.0,3.0,2.0,129800.0,,129800.0,124415.02
+27.0,3391.0,22718.0,Actividades juveniles,27.0,3.0,2.0,260950.0,,260950.0,233290.89
+27.0,3391.0,23000.0,De los miembros de los órganos de gobierno,27.0,3.0,2.0,50.0,,50.0,
+27.0,3391.0,23010.0,Del personal directivo,27.0,3.0,2.0,50.0,,50.0,
+27.0,3391.0,23020.0,Del personal no directivo,27.0,3.0,2.0,3000.0,,3000.0,3655.51
+27.0,3391.0,23100.0,De los miembros de los órganos de gobierno,27.0,3.0,2.0,50.0,,50.0,
+27.0,3391.0,23110.0,Del personal directivo,27.0,3.0,2.0,50.0,,50.0,
+27.0,3391.0,23120.0,Del personal no directivo,27.0,3.0,2.0,500.0,,500.0,553.48
+27.0,3391.0,27000.0,Contingencias,27.0,3.0,2.0,50.0,,50.0,
+27.0,3391.0,48905.0,Otras transferencias,27.0,3.0,4.0,6000.0,,6000.0,4800.0
+27.0,3391.0,62204.0,Juventud.Centro de servicios para jóvenes. FEESL 2010,27.0,3.0,6.0,,108922.39,108922.39,103044.55
+27.0,3391.0,62300.0,"Maquinaria, instalaciones técnicas y utillaje",27.0,3.0,6.0,3000.0,,3000.0,880.28
+27.0,3391.0,62916.0,Instrumentos musicales,27.0,3.0,6.0,10000.0,,10000.0,
+27.0,3391.0,63202.0,Juventud Remodelación de edificios,27.0,3.0,6.0,20000.0,,20000.0,
+27.0,3391.0,63500.0,Mobiliario,27.0,3.0,6.0,12000.0,,12000.0,
+27.0,9253.0,11000.0,Junta de Distrito nº 3 Sur-Este Retribuciones básicas,27.0,9.0,1.0,16779.0,,16779.0,11287.62
+27.0,9253.0,11001.0,Junta de Distrito nº 3 Sur-Este Retribuciones complementarias,27.0,9.0,1.0,59476.9,,59476.9,46698.58
+27.0,9253.0,12004.0,Junta de Distrito nº 3 Sur-Este.Sueldos del Grupo C2,27.0,9.0,1.0,,,,4189.29
+27.0,9253.0,12006.0,Junta de Distrito nº 3 Sur-Este.Trienios,27.0,9.0,1.0,,,,1501.56
+27.0,9253.0,12100.0,Junta de Distrito nº 3 Sur-Este.Complemento de destino,27.0,9.0,1.0,,,,2606.31
+27.0,9253.0,12101.0,Junta de Distrito nº 3 Sur-Este.Complemento específico,27.0,9.0,1.0,,,,6473.32
+27.0,9253.0,13000.0,Retribuciones básicas,27.0,9.0,1.0,79289.7,,79289.7,78290.54
+27.0,9253.0,13002.0,Otras remuneraciones,27.0,9.0,1.0,4332.66,,4332.66,3944.01
+27.0,9253.0,16000.0,Junta de Distrito nº 3 Sur-Este Seguridad Social,27.0,9.0,1.0,47352.31,,47352.31,50183.49
+27.0,9253.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",27.0,9.0,2.0,10.0,,10.0,
+27.0,9253.0,20400.0,Arrendamientos de material de transporte,27.0,9.0,2.0,10.0,,10.0,
+27.0,9253.0,21200.0,Edificios y otras construcciones,27.0,9.0,2.0,50.0,,50.0,
+27.0,9253.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",27.0,9.0,2.0,10.0,,10.0,9.01
+27.0,9253.0,21500.0,Mobiliario,27.0,9.0,2.0,60.0,,60.0,
+27.0,9253.0,21600.0,Equipos para procesos de información,27.0,9.0,2.0,10.0,,10.0,
+27.0,9253.0,21900.0,Otro inmovilizado material,27.0,9.0,2.0,13.0,,13.0,
+27.0,9253.0,22000.0,Ordinario no inventariable,27.0,9.0,2.0,50.0,,50.0,119.65
+27.0,9253.0,22001.0,"Prensa, revistas, libros y otras publicaciones",27.0,9.0,2.0,30.0,,30.0,
+27.0,9253.0,22002.0,"Material, informático no inventariable",27.0,9.0,2.0,30.0,,30.0,
+27.0,9253.0,22101.0,Junta de Distrito nº 3 Sur-Este.Agua,27.0,9.0,2.0,,,,129.27
+27.0,9253.0,22110.0,Productos de limpieza y aseo,27.0,9.0,2.0,30.0,,30.0,
+27.0,9253.0,22601.0,Junta de Distrito nº 3 Sur-Este.Atenciones protocolarias y representativas,27.0,9.0,2.0,,,,34.05
+27.0,9253.0,22602.0,Publicidad y propaganda,27.0,9.0,2.0,30.0,,30.0,
+27.0,9253.0,22606.0,"Reuniones, conferencias y cursos",27.0,9.0,2.0,30.0,,30.0,
+27.0,9253.0,22608.0,Promoción cultural y educativa,27.0,9.0,2.0,24000.0,,24000.0,
+27.0,9253.0,22609.0,Junta de Distrito nº 3 Sur-Este.Actividades culturales y deportivas,27.0,9.0,2.0,,,,24659.6
+27.0,9253.0,22616.0,Festejos Populares,27.0,9.0,2.0,2000.0,,2000.0,662.15
+27.0,9253.0,23004.0,Dietas Consejo/Pleno Junta de Distrito,27.0,9.0,2.0,19282.0,,19282.0,12104.14
+27.0,9253.0,23020.0,Del personal no directivo,27.0,9.0,2.0,30.0,,30.0,
+27.0,9253.0,23120.0,,27.0,9.0,2.0,10.0,,10.0,
+27.0,9253.0,61904.0,Reposiciones en calles y aceras,27.0,9.0,6.0,121200.0,,121200.0,111899.61
+30.0,1511.0,10100.0,Retribuciones básicas,30.0,1.0,1.0,75535.32,,75535.32,81656.71
+30.0,1511.0,11000.0,Servicios Generales de Urbanismo y Arquitectura Retribuciones básicas,30.0,1.0,1.0,15526.7,,15526.7,13332.38
+30.0,1511.0,11001.0,Servicios Generales de Urbanismo y Arquitectura Retribuciones complementarias,30.0,1.0,1.0,38130.82,,38130.82,36531.36
+30.0,1511.0,13000.0,Retribuciones básicas,30.0,1.0,1.0,44951.06,30000.0,74951.06,58578.75
+30.0,1511.0,13002.0,Otras remuneraciones,30.0,1.0,1.0,12695.92,,12695.92,7067.25
+30.0,1511.0,16000.0,Servicios Generales de Urbanismo y Arquitectura Seguridad Social,30.0,1.0,1.0,41913.04,,41913.04,47256.37
+30.0,1511.0,20000.0,Arrendamientos de terrenos y bienes naturales,30.0,1.0,2.0,,,,1800.0
+30.0,1511.0,20900.0,Cánones,30.0,1.0,2.0,,,,2499.3
+30.0,1511.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",30.0,1.0,2.0,2500.0,,2500.0,
+30.0,1511.0,22001.0,"Prensa, revistas, libros y otras publicaciones",30.0,1.0,2.0,1500.0,,1500.0,583.1
+30.0,1511.0,22100.0,Energía eléctrica,30.0,1.0,2.0,,,,
+30.0,1511.0,22602.0,Publicidad y propaganda,30.0,1.0,2.0,,,,3476.71
+30.0,1511.0,22603.0,Publicación en Diarios Oficiales,30.0,1.0,2.0,24000.0,,24000.0,2369.25
+30.0,1511.0,22604.0,"Jurídicos, contenciosos",30.0,1.0,2.0,,,,1240.4
+30.0,1511.0,22699.0,.Otros gastos diversos,30.0,1.0,2.0,,,,8804.3
+30.0,1511.0,22706.0,Estudios y trabajos técnicos,30.0,1.0,2.0,760000.0,-40000.0,720000.0,132093.01
+30.0,1511.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,30.0,1.0,2.0,,,,29448.32
+30.0,1511.0,27000.0,Contingencias,30.0,1.0,2.0,2000.0,,2000.0,
+30.0,1511.0,41002.0,Gerencia Municipal de Urbanismo,30.0,1.0,4.0,3510594.52,,3510594.52,2925495.4
+30.0,1511.0,64115.0,Servicios Generales de Urbanismo y Arquitectura.Gestor procedimiento y portal Web GMU. FEESL 2010,30.0,1.0,6.0,,53710.65,53710.65,53710.65
+30.0,1511.0,64116.0,Servicios Generales de Urbanismo y Arquitectura.Soluciones e-administración,30.0,1.0,6.0,,76835.7,76835.7,76835.7
+30.0,1512.0,12003.0,Sueldos del Grupo C1,30.0,1.0,1.0,403.21,,403.21,9812.84
+30.0,1512.0,12006.0,Trienios,30.0,1.0,1.0,,,,3660.84
+30.0,1512.0,12100.0,Complemento de destino,30.0,1.0,1.0,221.08,,221.08,5487.58
+30.0,1512.0,12101.0,Complemento específico,30.0,1.0,1.0,430.7,,430.7,10911.17
+30.0,1512.0,12103.0,Planificación y Gestión Urbanistica Otros complementos,30.0,1.0,1.0,13369.56,,13369.56,13258.15
+30.0,1512.0,13000.0,Retribuciones básicas,30.0,1.0,1.0,91867.3,30000.0,121867.3,90575.71
+30.0,1512.0,13002.0,Otras remuneraciones,30.0,1.0,1.0,29934.98,,29934.98,29185.61
+30.0,1512.0,16000.0,Planificación y Gestión Urbanistica Seguridad Social,30.0,1.0,1.0,32578.69,,32578.69,43585.32
+30.0,1512.0,60001.0,Adquisición de suelo,30.0,1.0,6.0,15818951.0,,15818951.0,22608.41
+30.0,1512.0,61900.0,Reposición de infraestructuras,30.0,1.0,6.0,1500000.0,,1500000.0,95177.12
+30.0,1512.0,61901.0,Microurbanismo,30.0,1.0,6.0,250000.0,,250000.0,
+30.0,1512.0,61908.0,Obras de urbanizacion Pinares Llanos,30.0,1.0,6.0,620570.0,,620570.0,
+30.0,1512.0,61909.0,Obras de reurbanización Polígono Expansión,30.0,1.0,6.0,1250000.0,,1250000.0,
+30.0,1512.0,61981.0,Planificación y Gestión Urbanistica.Obras de terminación urbanización en Parque Guadarrama,30.0,1.0,6.0,,48805.7,48805.7,
+30.0,1512.0,61995.0,Planificación y Gestión Urbanistica.Convenio desvío líneas eléctircas 400KV Galapagar-Moraleja y Morata-Moraleja-Vil,30.0,1.0,6.0,,551000.0,551000.0,
+30.0,1512.0,62200.0,Planificación y Gestión Urbanistica.Edificios y otras construcciones,30.0,1.0,6.0,,65018.0,65018.0,64137.13
+30.0,1512.0,62205.0,Palacio de Congresos,30.0,1.0,6.0,7000000.0,8000000.0,15000000.0,
+30.0,1512.0,62208.0,Planificación y Gestión Urbanistica.Centro socio Cultural en Distrito Norte-Universidad. FEESL 2010,30.0,1.0,6.0,,2105552.6,2105552.6,2105498.5
+30.0,1512.0,63201.0,Planificación y Gestión Urbanistica.Remodelación de Polideportivo Municipal Joan Miró. FEESL 2010,30.0,1.0,6.0,,1293531.28,1293531.28,1293531.28
+30.0,1512.0,63202.0,Remodelación de edificios,30.0,1.0,6.0,300000.0,,300000.0,
+30.0,1512.0,63299.0,Planificación y Gestión Urbanistica.Proy. Comp. obras edificio polivalente de servicios municipales en parque Coimbr,30.0,1.0,6.0,,42897.64,42897.64,42897.64
+30.0,9331.0,12000.0,Sueldos del Grupo A1,30.0,9.0,1.0,15526.7,,15526.7,17764.62
+30.0,9331.0,12003.0,Patrimonio.Sueldos del Grupo C1,30.0,9.0,1.0,,,,4942.42
+30.0,9331.0,12004.0,Sueldos del Grupo C2,30.0,9.0,1.0,8389.5,,8389.5,8378.58
+30.0,9331.0,12006.0,Trienios,30.0,9.0,1.0,2447.2,,2447.2,4516.66
+30.0,9331.0,12100.0,Complemento de destino,30.0,9.0,1.0,12431.02,,12431.02,17040.46
+30.0,9331.0,12101.0,Complemento específico,30.0,9.0,1.0,23963.38,,23963.38,34267.96
+30.0,9331.0,13000.0,Retribuciones básicas,30.0,9.0,1.0,127316.98,30000.0,157316.98,142383.83
+30.0,9331.0,13002.0,Otras remuneraciones,30.0,9.0,1.0,17287.92,,17287.92,17758.81
+30.0,9331.0,16000.0,Patrimonio Seguridad Social,30.0,9.0,1.0,60785.18,30000.0,90785.18,74932.84
+30.0,9331.0,22000.0,Ordinario no inventariable,30.0,9.0,2.0,,,,577.56
+30.0,9331.0,22604.0,"Jurídicos, contenciosos",30.0,9.0,2.0,67632.0,,67632.0,51200.52
+30.0,9331.0,22605.0,Gastos de comunidad de propietarios,30.0,9.0,2.0,30000.0,,30000.0,44936.04
+31.0,1561.0,11000.0,Retribuciones básicas,31.0,1.0,1.0,15526.7,,15526.7,13332.38
+31.0,1561.0,11001.0,Proyectos y Obras Retribuciones complementarias,31.0,1.0,1.0,38130.82,,38130.82,36531.36
+31.0,1561.0,12000.0,Sueldos del Grupo A1,31.0,1.0,1.0,1863.2,,1863.2,
+31.0,1561.0,12001.0,Sueldos del Grupo A2,31.0,1.0,1.0,14499.78,,14499.78,12139.34
+31.0,1561.0,12004.0,Sueldos del Grupo C2,31.0,1.0,1.0,8389.5,,8389.5,7679.46
+31.0,1561.0,12006.0,Trienios,31.0,1.0,1.0,5677.28,,5677.28,5393.28
+31.0,1561.0,12100.0,Complemento de destino,31.0,1.0,1.0,13118.39,,13118.39,10644.18
+31.0,1561.0,12101.0,Complemento específico,31.0,1.0,1.0,28362.96,,28362.96,29152.19
+31.0,1561.0,13000.0,Retribuciones básicas,31.0,1.0,1.0,496554.34,,496554.34,405561.97
+31.0,1561.0,13002.0,Otras remuneraciones,31.0,1.0,1.0,38240.66,,38240.66,26201.82
+31.0,1561.0,13100.0,Proyectos y Obras Laboral Temporal,31.0,1.0,1.0,33238.1,,33238.1,37291.86
+31.0,1561.0,13102.0,Proyectos y Obras Otras remuneraciones,31.0,1.0,1.0,2494.52,,2494.52,1707.52
+31.0,1561.0,16000.0,Proyectos y Obras Seguridad Social,31.0,1.0,1.0,231399.21,,231399.21,189596.73
+31.0,1561.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",31.0,1.0,2.0,1500.0,,1500.0,387.75
+31.0,1561.0,21600.0,Proyectos y Obras Equipos para procesos de información,31.0,1.0,2.0,1000.0,,1000.0,
+31.0,1561.0,22000.0,Ordinario no inventariable,31.0,1.0,2.0,4000.0,,4000.0,611.24
+31.0,1561.0,22001.0,"Prensa, revistas, libros y otras publicaciones",31.0,1.0,2.0,2000.0,,2000.0,1183.4
+31.0,1561.0,22002.0,"Material, informático no inventariable",31.0,1.0,2.0,2000.0,,2000.0,31.9
+31.0,1561.0,22602.0,Publicidad y propaganda,31.0,1.0,2.0,600.0,,600.0,
+31.0,1561.0,22706.0,Otros trabajos realizados por otras empresas y profesionales,31.0,1.0,2.0,1280.0,,1280.0,
+31.0,1561.0,22799.0,Proyectos y Obras Otros trabajos realizados por otras empresas y profesionales,31.0,1.0,2.0,46000.0,,46000.0,38519.86
+31.0,1561.0,23020.0,Del personal no directivo,31.0,1.0,2.0,300.0,,300.0,
+31.0,1561.0,23120.0,Proyectos y Obras Del personal no directivo,31.0,1.0,2.0,300.0,,300.0,
+31.0,1561.0,60907.0,Proyectos y Obras.Plan de implantación de Carril-Bici. FEESL 2010,31.0,1.0,6.0,,36312.45,36312.45,35812.84
+31.0,1561.0,60908.0,Soterramiento Arroyo de El Soto por Polideportivo. FEESL 2010,31.0,1.0,6.0,,27612.0,27612.0,27611.95
+31.0,1561.0,62209.0,Proyectos y Obras.Edificio de vivero de empresas. FEESL 2010,31.0,1.0,6.0,,1950138.85,1950138.85,1949778.81
+31.0,1561.0,63206.0,Proyectos y Obras.REmodelación Centro Cívico C/ Gran Capitán. FEESL 2010,31.0,1.0,6.0,,2099.99,2099.99,2099.99
+31.0,1721.0,11000.0,Planificación y gestión del medio ambiente Retribuciones básicas,31.0,1.0,1.0,8389.5,,8389.5,630.08
+31.0,1721.0,11001.0,Planificación y gestión del medio ambiente Retribuciones complementarias,31.0,1.0,1.0,20673.38,,20673.38,2877.43
+31.0,1721.0,12000.0,Sueldos del Grupo A1,31.0,1.0,1.0,31674.47,,31674.47,19433.91
+31.0,1721.0,12004.0,Planificación y gestión del medio ambiente Sueldos del Grupo C2,31.0,1.0,1.0,671.16,,671.16,
+31.0,1721.0,12006.0,Trienios,31.0,1.0,1.0,3738.42,,3738.42,3171.18
+31.0,1721.0,12100.0,Complemento de destino,31.0,1.0,1.0,16989.81,,16989.81,10660.96
+31.0,1721.0,12101.0,Complemento específico,31.0,1.0,1.0,37832.32,,37832.32,25708.39
+31.0,1721.0,13000.0,Retribuciones básicas,31.0,1.0,1.0,110139.59,,110139.59,109062.85
+31.0,1721.0,13002.0,Otras remuneraciones,31.0,1.0,1.0,8490.74,,8490.74,6575.35
+31.0,1721.0,16000.0,Planificación y gestión del medio ambiente Seguridad Social,31.0,1.0,1.0,81868.75,,81868.75,55421.26
+31.0,1721.0,22602.0,Publicidad y Propaganda,31.0,1.0,2.0,20000.0,,20000.0,2109.25
+31.0,1721.0,22729.0,Mantenimiento Sistemas de Generación de Energía Térmica,31.0,1.0,2.0,15000.0,,15000.0,
+31.0,1721.0,22730.0,Mantenimiento Sistemas de Generación de Enegía Fotovoltaica,31.0,1.0,2.0,15000.0,,15000.0,
+31.0,1721.0,23000.0,De los miembros de los órganos de gobierno,31.0,1.0,2.0,3000.0,,3000.0,
+31.0,1721.0,23020.0,Planificación y gestión del medio ambiente Del personal no directivo,31.0,1.0,2.0,3000.0,,3000.0,
+31.0,1721.0,23120.0,Planificación y gestión del medio ambiente Del personal no directivo,31.0,1.0,2.0,3000.0,,3000.0,
+31.0,1721.0,27000.0,Contingencias,31.0,1.0,2.0,35000.0,,35000.0,
+31.0,1721.0,48905.0,Otras transferencias,31.0,1.0,4.0,4000.0,,4000.0,937.15
+31.0,1721.0,60910.0,"Planificación y gestión del medio ambiente.Vía Verde Móstoles-Almorox, en municipio de Móstoles. FEESL 2010",31.0,1.0,6.0,,293721.3,293721.3,293721.28
+31.0,1721.0,62206.0,Planificación y gestión del medio ambiente.Aula de reciclaje y energías alternativas. FEESL 2010,31.0,1.0,6.0,,175555.21,175555.21,175555.17
+31.0,1791.0,13000.0,Retribuciones básicas,31.0,1.0,1.0,126508.79,,126508.79,125522.48
+31.0,1791.0,13001.0,Educación ambiental.Horas extraordinarias,31.0,1.0,1.0,,,,30.0
+31.0,1791.0,13002.0,Otras remuneraciones,31.0,1.0,1.0,5278.66,,5278.66,2653.55
+31.0,1791.0,16000.0,Educación ambiental Seguridad Social,31.0,1.0,1.0,43895.93,,43895.93,43796.04
+31.0,1791.0,21300.0,"Educación ambiental.Maquinaria, instalaciones técnicas y utillaje",31.0,1.0,2.0,,,,232.18
+31.0,1791.0,22000.0,Educación ambiental.Ordinario no inventariable,31.0,1.0,2.0,,,,261.15
+31.0,1791.0,22199.0,Educación ambiental Otros suministros,31.0,1.0,2.0,12000.0,,12000.0,63.52
+31.0,1791.0,22699.0,Otros gastos diversos,31.0,1.0,2.0,40000.0,,40000.0,
+31.0,1791.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,31.0,1.0,2.0,270000.0,,270000.0,
+32.0,1601.0,13000.0,Retribuciones básicas,32.0,1.0,1.0,163903.74,-2000.0,161903.74,161814.36
+32.0,1601.0,13001.0,Servicios Generales de Limpieza.Horas extraordinarias,32.0,1.0,1.0,,,,30.0
+32.0,1601.0,13002.0,Otras remuneraciones,32.0,1.0,1.0,10818.42,-3500.0,7318.42,7249.87
+32.0,1601.0,16000.0,Servicios Generales de Limpieza Seguridad Social,32.0,1.0,1.0,52597.65,,52597.65,56621.69
+32.0,1621.0,11000.0,"Recogida, Eleminación,Tratamiento Residuos Retribuciones básicas",32.0,1.0,1.0,8389.5,,8389.5,7441.56
+32.0,1621.0,11001.0,"Recogida, Eleminación,Tratamiento Residuos Retribuciones complementarias",32.0,1.0,1.0,38803.52,-400.0,38403.52,37224.79
+32.0,1621.0,12003.0,"Recogida, Eleminación,Tratamiento Residuos Sueldos del Grupo C1",32.0,1.0,1.0,403.21,,403.21,
+32.0,1621.0,12004.0,Sueldos del Grupo C2,32.0,1.0,1.0,33558.0,-3000.0,30558.0,30538.92
+32.0,1621.0,12005.0,Sueldos del Grupo E,32.0,1.0,1.0,46071.48,-9000.0,37071.48,36857.18
+32.0,1621.0,12006.0,Trienios,32.0,1.0,1.0,21721.0,-3200.0,18521.0,18452.94
+32.0,1621.0,12100.0,Complemento de destino,32.0,1.0,1.0,43233.56,-7200.0,36033.56,35982.34
+32.0,1621.0,12101.0,Complemento específico,32.0,1.0,1.0,179935.0,-11900.0,168035.0,167996.4
+32.0,1621.0,12103.0,"Recogida, Eliminación,Tratamiento Residuos.Otros complementos",32.0,1.0,1.0,,,,3371.76
+32.0,1621.0,13000.0,Retribuciones básicas,32.0,1.0,1.0,587973.84,,587973.84,591535.14
+32.0,1621.0,13001.0,"Recogida, Eliminación,Tratamiento de Residuos.Horas extraordinarias",32.0,1.0,1.0,,,,40.0
+32.0,1621.0,13002.0,Otras remuneraciones,32.0,1.0,1.0,198827.12,-6000.0,192827.12,192620.13
+32.0,1621.0,14303.0,"Recogida, Eliminación,Tratamiento Residuos.Servicio Regional de Empleo. Otro Personal.",32.0,1.0,1.0,,66539.4,66539.4,68721.52
+32.0,1621.0,16000.0,"Recogida, Eleminación,Tratamiento Residuos Seguridad Social",32.0,1.0,1.0,395760.32,17388.57,413148.89,413085.13
+32.0,1621.0,22104.0,Vestuario,32.0,1.0,2.0,7000.0,,7000.0,797.77
+32.0,1621.0,22501.0,Tributos de las Comunidades Autónomas,32.0,1.0,2.0,670000.0,,670000.0,797317.9
+32.0,1621.0,22724.0,Recogida de Residuos Solidos Urbanos,32.0,1.0,2.0,3731300.0,,3731300.0,3824851.43
+32.0,1621.0,22726.0,"Mantenimiento, limpieza y suministro de repuestos de contenedores",32.0,1.0,2.0,200000.0,,200000.0,12674.31
+32.0,1621.0,22727.0,Servicio de Recogida de Excrementos Caninos,32.0,1.0,2.0,149235.77,,149235.77,152419.67
+32.0,1621.0,22728.0,Servicio de Gestión del Punto Limpio,32.0,1.0,2.0,130148.49,,130148.49,129141.14
+32.0,1621.0,22733.0,Constitución de mancomunidad para tratamiento de residuos,32.0,1.0,2.0,1.0,,1.0,
+32.0,1621.0,22737.0,Servicio de explotación del Centro Intregal de Residuos Especiales (CIRE),32.0,1.0,2.0,400000.0,,400000.0,
+32.0,1621.0,46301.0,Mancomunidad para tratamiento de residuos,32.0,1.0,4.0,1.0,,1.0,
+32.0,1621.0,60904.0,Centro integral de residuos,32.0,1.0,6.0,,613334.98,613334.98,592587.59
+32.0,1621.0,62300.0,"Maquinaria, instalaciones técnicas y utillaje",32.0,1.0,6.0,36900.0,,36900.0,
+32.0,1631.0,11000.0,Limpieza Viaria Retribuciones básicas,32.0,1.0,1.0,8389.5,,8389.5,7441.56
+32.0,1631.0,11001.0,Limpieza Viaria Retribuciones complementarias,32.0,1.0,1.0,38803.52,,38803.52,37224.79
+32.0,1631.0,12005.0,Limpieza Viaria Sueldos del Grupo E,32.0,1.0,1.0,307.14,,307.14,
+32.0,1631.0,12100.0,Limpieza Viaria Complemento de destino,32.0,1.0,1.0,158.22,,158.22,
+32.0,1631.0,12101.0,Limpieza Viaria Complemento específico,32.0,1.0,1.0,351.22,,351.22,
+32.0,1631.0,13000.0,Retribuciones básicas,32.0,1.0,1.0,101856.07,,101856.07,100022.08
+32.0,1631.0,13001.0,Limpieza Viaria.Horas extraordinarias,32.0,1.0,1.0,,,,534.0
+32.0,1631.0,13002.0,Otras remuneraciones,32.0,1.0,1.0,14621.68,,14621.68,16631.17
+32.0,1631.0,14303.0,Limpieza Viaria.Servicio Regional de Empleo. Otro Personal.,32.0,1.0,1.0,,448471.62,448471.62,312669.01
+32.0,1631.0,16000.0,Limpieza Viaria Seguridad Social,32.0,1.0,1.0,58962.96,150938.62,209901.58,158261.75
+32.0,1631.0,20400.0,Arrendamientos de material de transporte,32.0,1.0,2.0,8741.82,,8741.82,8809.56
+32.0,1631.0,22104.0,Vestuario,32.0,1.0,2.0,5000.0,,5000.0,2424.9
+32.0,1631.0,22199.0,Otros suministros,32.0,1.0,2.0,22000.0,,22000.0,5531.5
+32.0,1631.0,22700.0,Limpieza y Aseo,32.0,1.0,2.0,8897364.21,64600.0,8961964.21,9068562.45
+32.0,1631.0,62901.0,Elementos urbanos para las vías públicas,32.0,1.0,6.0,18260.0,617.14,18877.14,17620.35
+32.0,1711.0,12003.0,Parques y Jardines Sueldos del Grupo C1,32.0,1.0,1.0,806.42,,806.42,
+32.0,1711.0,12004.0,Sueldos del Grupo C2,32.0,1.0,1.0,8389.5,-8000.0,389.5,
+32.0,1711.0,12005.0,Parques y Jardines Sueldos del Grupo E,32.0,1.0,1.0,614.29,,614.29,
+32.0,1711.0,12006.0,Trienios,32.0,1.0,1.0,2632.56,-2500.0,132.56,
+32.0,1711.0,12100.0,Complemento de destino,32.0,1.0,1.0,5957.62,-5900.0,57.62,
+32.0,1711.0,12101.0,Complemento específico,32.0,1.0,1.0,12772.12,-12700.0,72.12,
+32.0,1711.0,13000.0,Retribuciones básicas,32.0,1.0,1.0,440365.39,-49000.0,391365.39,390831.14
+32.0,1711.0,13001.0,Parques y Jardines.Horas extraordinarias,32.0,1.0,1.0,,,,3864.0
+32.0,1711.0,13002.0,Otras remuneraciones,32.0,1.0,1.0,32641.76,,32641.76,36632.76
+32.0,1711.0,13100.0,Parques y Jardines.Laboral Temporal,32.0,1.0,1.0,,,,15387.94
+32.0,1711.0,13102.0,Parques y Jardines.Otras remuneraciones,32.0,1.0,1.0,,,,308.86
+32.0,1711.0,14303.0,Parques y Jardines.Servicio Regional de Empleo. Otro Personal.,32.0,1.0,1.0,,200924.49,200924.49,100095.32
+32.0,1711.0,16000.0,Parques y Jardines Seguridad Social,32.0,1.0,1.0,177081.6,64044.76,241126.36,184191.91
+32.0,1711.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",32.0,1.0,2.0,1000.0,,1000.0,
+32.0,1711.0,21000.0,Infraestructuras y bienes naturales,32.0,1.0,2.0,80000.0,,80000.0,90613.68
+32.0,1711.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",32.0,1.0,2.0,12000.0,,12000.0,
+32.0,1711.0,21500.0,Mobiliario,32.0,1.0,2.0,90000.0,,90000.0,53004.91
+32.0,1711.0,22104.0,Vestuario,32.0,1.0,2.0,6000.0,,6000.0,
+32.0,1711.0,22716.0,Mantenimiento de zonas verdes,32.0,1.0,2.0,6163337.86,65400.0,6228737.86,5834225.13
+32.0,1711.0,22722.0,Mantenimiento y conservación fuentes ornamentales,32.0,1.0,2.0,281402.37,,281402.37,277699.56
+32.0,1711.0,48001.0,Convenio colaboración con Asociación Afandem,32.0,1.0,4.0,110000.0,,110000.0,110000.0
+32.0,1711.0,60901.0,Cerramiento del Parque Público Coimbra,32.0,1.0,6.0,100000.0,,100000.0,
+32.0,1711.0,60911.0,Parques y Jardines.Riego automático y uso de agua regenerada zonas vedes. FEESL 2010,32.0,1.0,6.0,,111406.35,111406.35,78043.48
+32.0,1711.0,60912.0,Parques y Jardines.Plan integral de arbolado urbano. FEESL 2010,32.0,1.0,6.0,,343933.26,343933.26,343933.26
+32.0,1711.0,61902.0,Instalación de vallas protectoras en zonas ajardinadas,32.0,1.0,6.0,120000.0,,120000.0,
+32.0,1711.0,62302.0,Maquinaria de jardinería,32.0,1.0,6.0,39000.0,,39000.0,
+32.0,1711.0,62902.0,Elementos urbanos para los parques públicos,32.0,1.0,6.0,456000.0,,456000.0,
+33.0,1551.0,12004.0,Sueldos del Grupo C2,33.0,1.0,1.0,9060.66,,9060.66,8183.61
+33.0,1551.0,12005.0,Sueldos del Grupo E,33.0,1.0,1.0,15664.3,,15664.3,9552.51
+33.0,1551.0,12006.0,Trienios,33.0,1.0,1.0,7344.54,,7344.54,5337.37
+33.0,1551.0,12100.0,Complemento de destino,33.0,1.0,1.0,12731.08,,12731.08,8530.03
+33.0,1551.0,12101.0,Complemento específico,33.0,1.0,1.0,33913.41,,33913.41,26730.14
+33.0,1551.0,12103.0,Vías Públicas.Otros complementos,33.0,1.0,1.0,,,,2343.24
+33.0,1551.0,13000.0,Retribuciones básicas,33.0,1.0,1.0,249660.28,,249660.28,193454.18
+33.0,1551.0,13001.0,Vías Públicas.Horas extraordinarias,33.0,1.0,1.0,,,,918.0
+33.0,1551.0,13002.0,Otras remuneraciones,33.0,1.0,1.0,7506.61,,7506.61,9923.79
+33.0,1551.0,13100.0,Vías Públicas Laboral Temporal,33.0,1.0,1.0,38057.32,,38057.32,38923.24
+33.0,1551.0,13101.0,Vías Públicas.Horas extraordinarias,33.0,1.0,1.0,,,,1006.45
+33.0,1551.0,13102.0,Vías Públicas Otras remuneraciones,33.0,1.0,1.0,2003.68,,2003.68,1001.84
+33.0,1551.0,16000.0,Vías Públicas Seguridad Social,33.0,1.0,1.0,172647.87,,172647.87,125571.86
+33.0,1551.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",33.0,1.0,2.0,3500.0,,3500.0,
+33.0,1551.0,20400.0,Arrendamientos de material de transporte,33.0,1.0,2.0,3500.0,,3500.0,13742.64
+33.0,1551.0,21000.0,Infraestructuras y bienes naturales,33.0,1.0,2.0,1072000.0,,1072000.0,504727.21
+33.0,1551.0,22199.0,Otros suministros,33.0,1.0,2.0,3500.0,,3500.0,
+33.0,1551.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,33.0,1.0,2.0,726000.0,,726000.0,621048.56
+33.0,1551.0,23010.0,Del personal directivo,33.0,1.0,2.0,1500.0,,1500.0,
+33.0,1551.0,61910.0,Vías Públicas.Mejora accesibilidad conservación antiguo lavadero. FEESL 2010,33.0,1.0,6.0,,17050.03,17050.03,16873.92
+33.0,1551.0,61999.0,"Vías Públicas.Acometida de energía eléctrica (BT) kiosco de golosinas en Avda. Portugal p, 24",33.0,1.0,6.0,,2321.94,2321.94,2321.94
+33.0,1611.0,12004.0,Sueldos del Grupo C2,33.0,1.0,1.0,671.16,,671.16,
+33.0,1611.0,12005.0,Sueldos del Grupo E,33.0,1.0,1.0,7985.72,,7985.72,7678.58
+33.0,1611.0,12006.0,Trienios,33.0,1.0,1.0,2074.38,,2074.38,2074.38
+33.0,1611.0,12100.0,Complemento de destino,33.0,1.0,1.0,4467.81,,4467.81,3955.42
+33.0,1611.0,12101.0,Complemento específico,33.0,1.0,1.0,19051.02,,19051.02,17430.28
+33.0,1611.0,13000.0,Retribuciones básicas,33.0,1.0,1.0,134800.1,,134800.1,133193.35
+33.0,1611.0,13001.0,Sistemas de saneamiento y red de riego.Horas extraordinarias,33.0,1.0,1.0,,,,47.0
+33.0,1611.0,13002.0,Otras remuneraciones,33.0,1.0,1.0,17645.02,,17645.02,34299.19
+33.0,1611.0,14303.0,Sistemas de saneamiento y red de riego.Servicio Regional de Empleo. Otro Personal.,33.0,1.0,1.0,,125011.42,125011.42,115578.72
+33.0,1611.0,16000.0,Sistemas de saneamiento y red de riego Seguridad Social,33.0,1.0,1.0,85258.73,40266.6,125525.33,122189.92
+33.0,1611.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,1.0,2.0,1500.0,,1500.0,
+33.0,1611.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,33.0,1.0,2.0,273500.0,,273500.0,222342.07
+33.0,1651.0,12001.0,Sueldos del Grupo A2,33.0,1.0,1.0,537.03,,537.03,
+33.0,1651.0,12004.0,Sueldos del Grupo C2,33.0,1.0,1.0,8725.08,,8725.08,8378.58
+33.0,1651.0,12005.0,Sueldos del Grupo E,33.0,1.0,1.0,7678.58,,7678.58,7678.58
+33.0,1651.0,12006.0,Trienios,33.0,1.0,1.0,5334.7,,5334.7,5331.3
+33.0,1651.0,12100.0,Complemento de destino,33.0,1.0,1.0,9361.03,,9361.03,8854.44
+33.0,1651.0,12101.0,Complemento específico,33.0,1.0,1.0,23707.57,,23707.57,29867.04
+33.0,1651.0,13000.0,Retribuciones básicas,33.0,1.0,1.0,217332.42,,217332.42,173680.67
+33.0,1651.0,13002.0,Otras remuneraciones,33.0,1.0,1.0,11454.9,,11454.9,13542.24
+33.0,1651.0,16000.0,Alumbrado Público Seguridad Social,33.0,1.0,1.0,115140.55,,115140.55,102876.5
+33.0,1651.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,1.0,2.0,90500.0,,90500.0,289732.7
+33.0,1651.0,22100.0,Energía eléctrica,33.0,1.0,2.0,2100000.0,,2100000.0,2289790.37
+33.0,1651.0,22199.0,Otros suministros,33.0,1.0,2.0,3500.0,,3500.0,
+33.0,1651.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,33.0,1.0,2.0,425000.0,,425000.0,51119.24
+33.0,1651.0,23010.0,Del personal directivo,33.0,1.0,2.0,1500.0,,1500.0,
+33.0,3244.0,13000.0,Retribuciones básicas,33.0,3.0,1.0,260707.55,,260707.55,218314.41
+33.0,3244.0,13001.0,Mantenimiento y Limpieza de Colegios Públicos.Horas extraordinarias,33.0,3.0,1.0,,,,2030.05
+33.0,3244.0,13002.0,Otras remuneraciones,33.0,3.0,1.0,7343.03,,7343.03,7437.06
+33.0,3244.0,13100.0,Mantenimiento y Limpieza de Colegios Públicos.Laboral Temporal,33.0,3.0,1.0,,,,19015.33
+33.0,3244.0,13101.0,Mantenimiento y Limpieza de Colegios Públicos.Horas extraordinarias,33.0,3.0,1.0,,,,471.0
+33.0,3244.0,13102.0,Mantenimiento y Limpieza de Colegios Públicos.Otras remuneraciones,33.0,3.0,1.0,,,,527.54
+33.0,3244.0,16000.0,Seguridad Social,33.0,3.0,1.0,92512.34,,92512.34,93601.83
+33.0,3244.0,21200.0,Edificios y otras construcciones,33.0,3.0,2.0,471000.0,,471000.0,537506.29
+33.0,3244.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,3.0,2.0,344500.0,,344500.0,115687.48
+33.0,3244.0,22100.0,Energía eléctrica,33.0,3.0,2.0,810000.0,,810000.0,759478.88
+33.0,3244.0,22101.0,Agua,33.0,3.0,2.0,124000.0,,124000.0,183429.67
+33.0,3244.0,22102.0,Gas,33.0,3.0,2.0,1500.0,,1500.0,911.93
+33.0,3244.0,22103.0,Combustibles y carburantes,33.0,3.0,2.0,850000.0,43957.48,893957.48,559936.93
+33.0,3244.0,22700.0,Limpieza y Aseo,33.0,3.0,2.0,3435293.0,579158.47,4014451.47,3579673.06
+33.0,3244.0,23010.0,Del personal directivo,33.0,3.0,2.0,1500.0,,1500.0,
+33.0,9202.0,11000.0,Servicios Generales Retribuciones básicas,33.0,9.0,1.0,16779.0,,16779.0,17313.46
+33.0,9202.0,11001.0,Servicios Generales Retribuciones complementarias,33.0,9.0,1.0,59476.9,,59476.9,63961.53
+33.0,9202.0,12003.0,Sueldos del Grupo C1,33.0,9.0,1.0,8389.5,,8389.5,
+33.0,9202.0,12004.0,Sueldos del Grupo C2,33.0,9.0,1.0,9060.66,,9060.66,4189.29
+33.0,9202.0,12005.0,Sueldos del Grupo E,33.0,9.0,1.0,31942.89,,31942.89,27770.86
+33.0,9202.0,12006.0,Trienios,33.0,9.0,1.0,14249.9,,14249.9,9255.91
+33.0,9202.0,12100.0,Complemento de destino,33.0,9.0,1.0,27560.95,,27560.95,16911.75
+33.0,9202.0,12101.0,Complemento específico,33.0,9.0,1.0,71329.33,,71329.33,59039.73
+33.0,9202.0,12103.0,Servicios Generales Otros complementos,33.0,9.0,1.0,2244.72,,2244.72,2244.72
+33.0,9202.0,13000.0,Retribuciones básicas,33.0,9.0,1.0,1135412.58,,1135412.58,1059905.02
+33.0,9202.0,13001.0,Servicios Generales.Horas extraordinarias,33.0,9.0,1.0,,,,9130.44
+33.0,9202.0,13002.0,Otras remuneraciones,33.0,9.0,1.0,101866.92,,101866.92,123740.31
+33.0,9202.0,13100.0,Servicios Generales.Laboral Temporal,33.0,9.0,1.0,,,,16981.34
+33.0,9202.0,13101.0,Servicios Generales.Horas extraordinarias,33.0,9.0,1.0,,,,595.09
+33.0,9202.0,13102.0,Servicios Generales.Otras remuneraciones,33.0,9.0,1.0,,,,425.78
+33.0,9202.0,16000.0,Servicios Generales Seguridad Social,33.0,9.0,1.0,497385.81,,497385.81,479782.95
+33.0,9202.0,20300.0,"Arrendamientos de maquinaria, instalación y utillaje",33.0,9.0,2.0,10000.0,,10000.0,2148.28
+33.0,9202.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,9.0,2.0,50000.0,,50000.0,61041.06
+33.0,9202.0,21400.0,Elementos de transporte,33.0,9.0,2.0,200000.0,,200000.0,169853.5
+33.0,9202.0,22000.0,Ordinario no inventariable,33.0,9.0,2.0,3500.0,,3500.0,599.99
+33.0,9202.0,22103.0,Combustibles y carburantes,33.0,9.0,2.0,317500.0,,317500.0,263548.35
+33.0,9202.0,22199.0,Otros suministros,33.0,9.0,2.0,15000.0,,15000.0,10465.33
+33.0,9228.0,12000.0,Sueldos del Grupo A1,33.0,9.0,1.0,15526.7,,15526.7,
+33.0,9228.0,12001.0,Sueldos del Grupo A2,33.0,9.0,1.0,13425.72,,13425.72,12906.52
+33.0,9228.0,12004.0,Sueldos del Grupo C2,33.0,9.0,1.0,8389.5,,8389.5,8378.58
+33.0,9228.0,12005.0,Sueldos del Grupo E,33.0,9.0,1.0,7678.58,,7678.58,7678.58
+33.0,9228.0,12006.0,Trienios,33.0,9.0,1.0,5756.94,,5756.94,6167.19
+33.0,9228.0,12100.0,Complemento de destino,33.0,9.0,1.0,24781.12,,24781.12,16620.24
+33.0,9228.0,12101.0,Complemento específico,33.0,9.0,1.0,54035.94,,54035.94,43361.64
+33.0,9228.0,13000.0,Retribuciones básicas,33.0,9.0,1.0,973234.1,,973234.1,940475.42
+33.0,9228.0,13001.0,Mantenimiento y Limpieza de Edificios Municipales.Horas extraordinarias,33.0,9.0,1.0,,,,3645.34
+33.0,9228.0,13002.0,Otras remuneraciones,33.0,9.0,1.0,50870.92,,50870.92,65105.69
+33.0,9228.0,16000.0,Mantenimiento y Limpieza de Edificios Municipales Seguridad Social,33.0,9.0,1.0,426275.02,,426275.02,404811.27
+33.0,9228.0,20400.0,Mantenimiento y Limpieza de Edificios Municipales Arrendamientos de material de transporte,33.0,9.0,2.0,20000.0,,20000.0,4326.0
+33.0,9228.0,21200.0,Edificios y otras construcciones,33.0,9.0,2.0,150000.0,,150000.0,302589.17
+33.0,9228.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,9.0,2.0,956202.0,-44000.0,912202.0,740193.38
+33.0,9228.0,22000.0,Mantenimiento y Limpieza de Edificios Municipales.Ordinario no inventariable,33.0,9.0,2.0,,,,328.74
+33.0,9228.0,22001.0,"Mantenimiento y Limpieza de Edificios Municipales.Prensa, revistas, libros y otras publicaciones",33.0,9.0,2.0,,,,441.2
+33.0,9228.0,22100.0,Energía eléctrica,33.0,9.0,2.0,850000.0,,850000.0,806035.56
+33.0,9228.0,22101.0,Agua,33.0,9.0,2.0,465000.0,,465000.0,517450.79
+33.0,9228.0,22102.0,Gas,33.0,9.0,2.0,105000.0,,105000.0,121185.81
+33.0,9228.0,22103.0,Combustibles y carburantes,33.0,9.0,2.0,505000.0,,505000.0,248189.22
+33.0,9228.0,22110.0,Productos de limpieza y aseo,33.0,9.0,2.0,20000.0,,20000.0,
+33.0,9228.0,22201.0,Mantenimiento y Limpieza de Edificios Municipales.Postales,33.0,9.0,2.0,,,,59.89
+33.0,9228.0,22500.0,Mantenimiento y Limpieza de Edificios Municipales.Tributos estatales,33.0,9.0,2.0,,,,277.88
+33.0,9228.0,22605.0,Mantenimiento y Limpieza de Edificios Municipales.Gastos de comunidad de propietarios,33.0,9.0,2.0,,,,11799.59
+33.0,9228.0,22700.0,Limpieza y Aseo,33.0,9.0,2.0,2995000.0,,2995000.0,2893380.8
+33.0,9228.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,33.0,9.0,2.0,25000.0,,25000.0,35161.26
+33.0,9228.0,61998.0,Mantenimiento y Limpieza de Edificios Municipales.Acometida energía eléctrica (BT) nuevo edificio de Juventud en Avda Portugal 16,33.0,9.0,6.0,,7727.11,7727.11,7727.11
+33.0,9228.0,62300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,9.0,6.0,,,,
+33.0,9228.0,62377.0,Mantenimiento y Limpieza de Edificios Municipales.Bomba para piscina infantil polid- los rosales,33.0,9.0,6.0,,6019.22,6019.22,
+33.0,9228.0,63294.0,Mantenimiento y Limpieza de Edificios Municipales.Reparacion instalac.centro circuito primario Acs. en Pol. Villafontana,33.0,9.0,6.0,,2949.91,2949.91,
+33.0,9228.0,63300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,9.0,6.0,,44000.0,44000.0,
+33.0,9228.0,63303.0,"Mantenimiento y Limpieza de Edificios Municipales.Mejora climatización Centro Cultural de la Villa, I fase. FEESL 2010",33.0,9.0,6.0,,193784.48,193784.48,190500.0
+33.0,9251.0,11000.0,Junta de Distrito nº 1 Centro Retribuciones básicas,33.0,9.0,1.0,16779.0,,16779.0,11287.62
+33.0,9251.0,11001.0,Junta de Distrito nº 1 Centro Retribuciones complementarias,33.0,9.0,1.0,59476.9,,59476.9,46698.46
+33.0,9251.0,13000.0,Retribuciones básicas,33.0,9.0,1.0,105923.3,,105923.3,106977.95
+33.0,9251.0,13002.0,Otras remuneraciones,33.0,9.0,1.0,10574.42,,10574.42,7668.94
+33.0,9251.0,16000.0,Junta de Distrito nº 1 Centro Seguridad Social,33.0,9.0,1.0,57510.8,,57510.8,54260.0
+33.0,9251.0,20300.0,,33.0,9.0,2.0,3183.0,,3183.0,
+33.0,9251.0,20400.0,Arrendamientos de material de transpote,33.0,9.0,2.0,318.0,,318.0,
+33.0,9251.0,21200.0,Edificios y otras construcciones,33.0,9.0,2.0,212.0,,212.0,
+33.0,9251.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,9.0,2.0,212.0,,212.0,6.87
+33.0,9251.0,21500.0,Mobiliario,33.0,9.0,2.0,212.0,,212.0,
+33.0,9251.0,21600.0,Equipos para procesos de información,33.0,9.0,2.0,96.0,,96.0,
+33.0,9251.0,21900.0,Otro inmovilizado material,33.0,9.0,2.0,106.0,,106.0,
+33.0,9251.0,22000.0,Ordinario no inventariable,33.0,9.0,2.0,531.0,,531.0,199.93
+33.0,9251.0,22001.0,"Prensa, revistas, libros y otras publicaciones",33.0,9.0,2.0,106.0,,106.0,
+33.0,9251.0,22002.0,"Material, informático no inventariable",33.0,9.0,2.0,159.0,,159.0,36.0
+33.0,9251.0,22110.0,Productos de limpieza y aseo,33.0,9.0,2.0,106.0,,106.0,
+33.0,9251.0,22601.0,Junta de Distrito nº 1 Centro.Atenciones protocolarias y representativas,33.0,9.0,2.0,,,,46.0
+33.0,9251.0,22602.0,Publicidad y propaganda,33.0,9.0,2.0,1061.0,,1061.0,
+33.0,9251.0,22606.0,"Reuniones, conferencias y cursos",33.0,9.0,2.0,106.0,,106.0,
+33.0,9251.0,22608.0,Promoción cultural y educativa,33.0,9.0,2.0,12000.0,,12000.0,
+33.0,9251.0,22609.0,Junta de Distrito nº 1 Centro.Actividades culturales y deportivas,33.0,9.0,2.0,,,,20379.6
+33.0,9251.0,22616.0,Festejos Populares,33.0,9.0,2.0,14000.0,,14000.0,614.84
+33.0,9251.0,23004.0,Dietas Consejo/Pleno Junta de Distrito,33.0,9.0,2.0,19282.0,,19282.0,10277.1
+33.0,9251.0,23010.0,Del personal directivo,33.0,9.0,2.0,96.0,,96.0,
+33.0,9251.0,23110.0,Del personal directivo,33.0,9.0,2.0,96.0,,96.0,
+33.0,9251.0,61904.0,Reposiciones en calles y aceras,33.0,9.0,6.0,121200.0,,121200.0,111899.5
+33.0,9271.0,11000.0,Servicios Informáticos Retribuciones básicas,33.0,9.0,1.0,15526.7,,15526.7,14026.02
+33.0,9271.0,11001.0,Servicios Informáticos Retribuciones complementarias,33.0,9.0,1.0,38130.82,,38130.82,33415.15
+33.0,9271.0,12001.0,Servicios Informáticos Sueldos del Grupo A2,33.0,9.0,1.0,537.03,,537.03,
+33.0,9271.0,12004.0,Sueldos del Grupo C2,33.0,9.0,1.0,8014.16,,8014.16,
+33.0,9271.0,12005.0,Servicios Informáticos.Sueldos del Grupo E,33.0,9.0,1.0,,,,7148.39
+33.0,9271.0,12006.0,Trienios,33.0,9.0,1.0,1697.22,,1697.22,1647.83
+33.0,9271.0,12100.0,Complemento de destino,33.0,9.0,1.0,4411.74,,4411.74,3682.31
+33.0,9271.0,12101.0,Complemento específico,33.0,9.0,1.0,12216.39,,12216.39,12261.83
+33.0,9271.0,13000.0,Retribuciones básicas,33.0,9.0,1.0,619203.61,,619203.61,569127.24
+33.0,9271.0,13001.0,Servicios Informáticos.Horas extraordinarias,33.0,9.0,1.0,,,,70.0
+33.0,9271.0,13002.0,Otras remuneraciones,33.0,9.0,1.0,46255.31,,46255.31,34987.12
+33.0,9271.0,16000.0,Servicios Informáticos Seguridad Social,33.0,9.0,1.0,240259.45,,240259.45,221425.94
+33.0,9271.0,20400.0,Servicios Informáticos Arrendamientos de material de transporte,33.0,9.0,2.0,4000.0,,4000.0,3685.1
+33.0,9271.0,21300.0,"Maquinaria, instalaciones técnicas y utillaje",33.0,9.0,2.0,90000.0,,90000.0,11336.25
+33.0,9271.0,21600.0,Equipos para procesos de información,33.0,9.0,2.0,167442.0,,167442.0,141.9
+33.0,9271.0,22001.0,"Prensa, revistas, libros y otras publicaciones",33.0,9.0,2.0,1050.0,,1050.0,
+33.0,9271.0,22002.0,"Material, informático no inventariable",33.0,9.0,2.0,350000.0,,350000.0,30546.05
+33.0,9271.0,22200.0,Servicios de Telecomunicaciones,33.0,9.0,2.0,500000.0,,500000.0,478231.71
+33.0,9271.0,22606.0,"Reuniones, conferencias y cursos",33.0,9.0,2.0,650.0,,650.0,
+33.0,9271.0,22799.0,Otros trabajos realizados por otras empresas y profesionales,33.0,9.0,2.0,1420000.0,,1420000.0,1115083.7
+33.0,9271.0,23020.0,Del personal no directivo,33.0,9.0,2.0,342.0,,342.0,
+33.0,9271.0,23120.0,Del personal no directivo,33.0,9.0,2.0,342.0,,342.0,
+33.0,9271.0,60909.0,Servicios Informáticos.Nodo primario a red municipal. FEESL 2010,33.0,9.0,6.0,,97743.67,97743.67,78214.52
+33.0,9271.0,62329.0,"Sistemas, maquinaria e instalaciones electrónicas",33.0,9.0,6.0,175000.0,,175000.0,
+33.0,9271.0,62398.0,Servicios Informáticos.Actualización radioenlace Juzgados-Junta d eDistriro 5,33.0,9.0,6.0,,10941.56,10941.56,10752.11
+33.0,9271.0,62602.0,Equipos ofimáticos,33.0,9.0,6.0,200000.0,,200000.0,
+33.0,9271.0,62607.0,Servicios Informáticos.Adecuación sistema Web Municipal a Ley 11/2007. FEESL 2010,33.0,9.0,6.0,,139200.0,139200.0,139200.0
+33.0,9271.0,62699.0,Servicios Informáticos.Excedente IVA Adecuación dl sistema que aloja la Web municipal a la ley 11/07,33.0,9.0,6.0,,2164.0,2164.0,2164.0
+33.0,9271.0,62701.0,Sistemas de seguridad,33.0,9.0,6.0,150000.0,,150000.0,
+33.0,9271.0,63209.0,Servicios Informáticos.Infraestructura permiter acceso  a medios electrónicos. FEESL 2010,33.0,9.0,6.0,,1785258.63,1785258.63,1785258.62
+33.0,9271.0,63210.0,"Cubierta, grada y cerramiento Teatro de Títeres. FEESL 2010",33.0,9.0,6.0,,7700.25,7700.25,7685.14
+33.0,9271.0,64103.0,Servicios Informáticos.Adaptación de los servicios de Internet/DMZ a la Ley 11/2007. FEESL 2010,33.0,9.0,6.0,,6254.0,6254.0,6254.0
+33.0,9271.0,64105.0,Servicios Informáticos.Migración de servcios a entorno alta disponibilidad. FEESL 2010,33.0,9.0,6.0,,58000.0,58000.0,58000.0
+33.0,9271.0,64106.0,Servicios Informáticos.Registro y archivo telemático para sede electrónica. FEESL 2010,33.0,9.0,6.0,,128789.92,128789.92,128789.92
+33.0,9271.0,64107.0,"Servicios Informáticos.Espacio virtual, Carpeta Ciudadana. FEESL 2010",33.0,9.0,6.0,,165341.06,165341.06,165341.06
+33.0,9271.0,64109.0,Servicios Informáticos.Modernización de la Web Municiapl. FEESL 2010,33.0,9.0,6.0,,70210.0,70210.0,70210.0
+33.0,9271.0,64110.0,Aplicaciones informáticas,33.0,9.0,6.0,200000.0,,200000.0,9346.78
+33.0,9271.0,64114.0,Servicios Informáticos.Entrono de aplicaciones de gestión municipal. FEESL 2010,33.0,9.0,6.0,,170084.02,170084.02,170084.02
+33.0,9271.0,64116.0,Soluciones e-administración,33.0,9.0,6.0,185000.0,,185000.0,
+33.0,9271.0,64193.0,Servicios Informáticos.Licencias (87) office standard,33.0,9.0,6.0,,17085.76,17085.76,17085.76
+33.0,9271.0,64194.0,Servicios Informáticos.Licencias microsoft (renovación),33.0,9.0,6.0,,13287.74,13287.74,13287.74
+33.0,9271.0,64195.0,Servicios Informáticos.Licencia Microsoft,33.0,9.0,6.0,,55183.58,55183.58,51530.6
+33.0,9271.0,64196.0,Servicios Informáticos.Software Ofimatico,33.0,9.0,6.0,,40837.0,40837.0,37923.55
+33.0,9271.0,64197.0,Servicios Informáticos.Licencia de acceso a servidores,33.0,9.0,6.0,,54530.34,54530.34,49643.9

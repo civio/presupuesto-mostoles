@@ -513,6 +513,7 @@ G,9,4,1,Devolución de fianzas
 #
 # Conceptos específicos de Móstoles
 I,4,7,0,De empresas privadas
+I,4,8,0,De familias e instituciones sin fines de lucro
 I,5,2,0,Intereses de depósitos
 I,7,7,0,De empresas privadas
 I,7,8,0,De familias e instituciones sin fines de lucro
@@ -524,4 +525,5 @@ G,4,1,0,A organismos autónomos de la Entidad Local
 G,4,8,0,Transferencias corrientes
 G,4,8,1,"Premios, becas y pensiones de estudio"
 G,4,8,9,Otras transferencias
+G,4,9,0,Al exterior
 G,7,4,0,A entes públicos y sociedades mercantiles de la Entidad Local
