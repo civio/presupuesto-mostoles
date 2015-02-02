@@ -1,0 +1,113 @@
+#Área,Política,Grupo,Programa,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+0,,,,Deuda pública
+0,1,,,Deuda pública
+1,,,,Servicios públicos básicos
+1,3,,,Seguridad y movilidad ciudadana
+1,5,,,Vivienda y urbanismo
+1,6,,,Bienestar comunitario
+1,7,,,Medio ambiente
+2,,,,Actuaciones de protección y promoción social
+2,1,,,Pensiones
+2,2,,,Otras prestaciones económicas a favor de empleados
+2,3,,,Servicios sociales y promoción social
+2,4,,,Fomento del empleo
+3,,,,Produccion de bienes públicos de caracter preferente
+3,1,,,Sanidad
+3,2,,,Educación
+3,3,,,Cultura
+3,4,,,Deporte
+4,,,,Actuaciones de caracter económico
+4,1,,,Agricultura ganadería y pesca
+4,2,,,Industria y energía
+4,3,,,"Comercio, turismo y pequeñas y medianas empresas"
+4,4,,,Transporte público
+4,5,,,Infraestructuras
+4,6,,,"Investigación, desarrollo e innovación"
+4,9,,,Otras actuaciones de caracter económico
+9,,,,Actuaciones de caracter general
+9,1,,,Órganos de gobierno
+9,2,,,Servicios de carácter general
+9,3,,,Administración financiera y tributaria
+9,4,,,Transferencias a otras administraciónes públicas
+#
+# Programas específicos de Móstoles
+0,1,1,1,Deuda pública
+1,3,2,1,Policia local
+1,3,2,2,Brigadas Especiales de Seguridad (BESCAM)
+1,3,3,1,Control de tráfico
+1,3,4,1,Protección civil
+1,3,5,1,Extinción de incendios y salvamento
+1,5,1,1,Servicios generales de urbanismo y arquitectura
+1,5,1,2,Planificación y gestión urbanistica
+1,5,5,1,Vías públicas y plan de movilidad
+1,6,0,1,Servicios generales de limpieza
+1,6,1,1,Sistemas de saneamiento y red de riego
+1,6,2,1,Eliminación y tratamiento de residuos
+1,6,3,1,Limpieza viaria y recogida de basuras
+1,6,5,1,Alumbrado público
+1,7,1,1,Parques y jardines
+1,7,2,1,Planificación y gestión del medio ambiente
+1,7,9,1,Educación ambiental
+2,1,1,1,Pensiones y otras prestaciones económicas
+2,3,0,1,Servicios sociales generales
+2,3,2,1,Promocion de la igualdad
+2,3,2,2,Programa contra la violencia de género
+2,3,2,3,Cooperación
+2,3,3,1,Mayores
+2,3,3,2,Atención a asociaciones sociosanitarias
+2,4,1,1,Promoción económica
+2,4,1,4,Promoción del empleo
+3,1,3,1,Promoción de la salud
+3,2,0,1,Servicios generales de educación
+3,2,2,1,Conservatorio
+3,2,4,2,Servicios complementarios a la educación
+3,2,4,3,Otras enseñanzas
+3,2,4,4,Limpieza de colegios públicos
+3,3,2,1,Biblioteca Central
+3,3,3,1,Museo de la Ciudad
+3,3,4,1,Centro cultural Villa de Móstoles
+3,3,4,2,Centro cultural el Soto
+3,3,4,3,Centro cultural Joan Miro
+3,3,4,4,Centro cultural Caleidoscopio
+3,3,4,5,Centro Norte-Universidad
+3,3,5,1,Teatro del Bosque
+3,3,8,1,Festejos populares
+3,3,9,1,Juventud
+3,4,0,1,Servicio generales de deportes
+3,4,1,1,Enseñanzas deportivas
+3,4,1,2,Escuelas deportivas
+3,4,1,3,Juegos deportivos
+4,4,1,1,Transportes y movilidad urbana
+4,9,3,1,Información y defensa del consumidor
+9,1,2,2,Presidencia
+9,1,2,3,Grupos políticos municipales
+9,2,0,1,Administración general
+9,2,0,2,Servicios generales
+9,2,2,3,Archivo general
+9,2,2,4,Recursos humanos
+9,2,2,5,Salud laboral
+9,2,2,6,Secretaría general
+9,2,2,7,Asesoría jurídica
+9,2,2,8,Mantenimiento y limpieza de edificios municipales
+9,2,2,9,Modernización y calidad
+9,2,3,1,Registro y estadistica
+9,2,4,1,Información al ciudadano
+9,2,4,2,Participacion ciudadana
+9,2,5,1,Junta de distrito número 1: Centro
+9,2,5,2,Junta de distrito número 2: Norte-Universidad
+9,2,5,3,Junta de distrito número 3: Sur-Este
+9,2,5,4,Junta de distrito número 4: Oeste
+9,2,5,5,Junta de distrito número 5: Parque Coimbra-Guadarrama
+9,2,7,1,Servicios informáticos
+9,2,7,2,Infraestructuras para las nuevas tecnologías
+9,3,1,1,"Presupuestos, contabilidad y gestión financiera"
+9,3,1,2,Fiscalización
+9,3,1,3,Contratación
+9,3,2,1,Gestión tributaria y recaudación
+9,3,2,2,Tribunal económico administrativo de Móstoles
+9,3,3,1,Patrimonio
+9,3,4,1,Tesorería
+9,3,4,2,Unidad de sanciones

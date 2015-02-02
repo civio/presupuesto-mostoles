@@ -1,0 +1,527 @@
+#Ingreso/Gasto,Capítulo,Artículo,Concepto,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden EHA/3565/2008 y comunes a todas las EELL.
+# Ver http://www.boe.es/buscar/doc.php?id=BOE-A-2008-19916
+I,1,,,Impuestos directos
+I,1,0,,Impuesto sobre la Renta
+I,1,0,0,Impuestos sobre la Renta de las Personas Físicas
+I,1,0,1,Impuesto sobre sociedades
+I,1,0,2,Impuesto sobre la Renta de no residentes
+I,1,1,,Impuestos sobre el capital
+I,1,1,0,Impuesto sobre sucesiones y donaciones
+I,1,1,1,Impuesto sobre patrimonio
+I,1,1,2,Sobre bienes inmuebles de naturaleza rústica
+I,1,1,3,Sobre bienes inmuebles de naturaleza urbana
+I,1,1,4,Sobre bienes inmuebles de características especiales
+I,1,1,5,Impuesto sobre vehículos de tracción mecanica
+I,1,1,6,Impuesto sobre incremento del valor de los terrenos de naturaleza urbana
+I,1,1,7,Impuesto sobre viviendas desocupadas
+I,1,3,,Impuesto sobre las actividades económicas
+I,1,3,0,Impuesto sobre actividades económicas
+I,1,6,,Recargos sobre impuestos directos del Estado y de la Comunidad Autónoma
+I,1,6,0,Sobre impuestos del Estado
+I,1,6,1,Sobre impuestos de la Comunidad Autónoma
+I,1,7,,Recargos sobre impuestos directos de otros entes locales
+I,1,7,0,En el Impuesto sobre Bienes Inmuebles
+I,1,7,1,Recargo provincial en el impuesto sobre actividades económicas
+I,1,7,9,Otros recargos sobre impuestos directos de otros entes locales
+I,1,8,,Impuestos directos extinguidos
+I,1,9,,Otros impuestos directos
+I,2,,,Impuestos indirectos
+I,2,1,,Impuestos sobre el Valor Añadido
+I,2,1,0,Impuesto sobre el Valor Añadido
+I,2,2,,Sobre consumos específicos
+I,2,2,0,Impuestos especiales
+I,2,6,,Recargos sobre impuestos indirectos del Estado y de la Comunidad Autónoma
+I,2,6,0,Sobre impuestos del Estado
+I,2,6,1,Sobre impuestos de la Comunidad Autónoma
+I,2,7,,Recargos sobre impuestos indirectos de otros entes locales
+I,2,7,0,Sobre impuestos de otros entes locales
+I,2,8,,Impuestos indirectos extinguidos
+I,2,9,,Otros impuestos indirectos
+I,2,9,0,"Impuesto sobre construcciones, instalaciones y obras"
+I,2,9,1,"Impuesto sobre gastos suntuarios (Cotos de caza y pesca)"
+I,2,9,2,Arbitrio sobre importaciones y entregas de mercancias en Canarias (AIEM)
+I,2,9,3,Impuesto general indirecto canario (IGIC)
+I,2,9,4,"Impuesto sobre la producción, los servicios y la importación (IPSI) de Ceuta y Melilla"
+I,2,9,5,Impuesto sobre primas de seguros
+I,2,9,6,Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+I,2,9,9,Otros impuestos indirectos
+I,3,,,"Tasas, precios públicos y otros ingresos"
+I,3,0,,Tasas por la prestación de servicios públicos básicos
+I,3,0,0,Servicio de abastecimiento de agua
+I,3,0,1,Servicio de alcantarillado
+I,3,0,2,Servicio de recogida de basuras
+I,3,0,3,Servicio de tratamiento de residuos
+I,3,0,4,Canon de saneamiento
+I,3,0,9,Otras tasas por prestación de servicios básicos
+I,3,1,,Tasas por la prestación de servicios públicos de carácter social y preferente
+I,3,1,0,Servicios hospitalarios
+I,3,1,1,Servicios asistenciales
+I,3,1,2,Servicios educativos
+I,3,1,3,Servicios deportivos
+I,3,1,9,Otras tasas por prestación de servicios de carácter preferente
+I,3,2,,Tasas por la realización de actividades de competencia local
+I,3,2,0,Licencias de caza y pesca
+I,3,2,1,Licencias urbanísticas
+I,3,2,2,Cédulas de habitabilidad y licencias de primera ocupación
+I,3,2,3,Tasas por otros servicios urbanísticos
+I,3,2,4,Tasas sobre el juego
+I,3,2,5,Tasa por expedición de documentos
+I,3,2,6,Tasa por retirada de vehículos
+I,3,2,7,Licencias de apertura de establecimientos
+I,3,2,9,Otras tasas por la realización de actividades de competencia local
+I,3,3,,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local
+I,3,3,0,Tasa de estacionamiento de vehículos
+I,3,3,1,Tasa por entrada de vehículos
+I,3,3,2,Por empresas explotadoras de servicios de suministros
+I,3,3,3,Por empresas explotadoras de servicios de telecomunicaciones
+I,3,3,4,Tasa por apertura de calas y zanjas
+I,3,3,5,Tasa por ocupación de la via pública con terrazas
+I,3,3,6,Tasa por ocupación de la via pública con suspensión temporal del trafico rodado
+I,3,3,7,Tasas por aprovechamiento del vuelo
+I,3,3,8,Compensación de Telefónica de España SA
+I,3,3,9,Otras tasas por utilización privativa del dominio público
+I,3,4,,Precios públicos
+I,3,4,0,Servicios hospitalarios
+I,3,4,1,Servicios asistenciales
+I,3,4,2,Servicios educativos
+I,3,4,3,Servicios deportivos
+I,3,4,4,"Entradas a museos, exposiciones y espectáculos"
+I,3,4,5,Servicio de transporte público urbano
+I,3,4,9,Otros precios públicos
+I,3,5,,Contribuciones especiales
+I,3,5,0,Para la ejecución de obras
+I,3,5,1,Para el establecimiento o ampliación de servicios
+I,3,6,,Ventas
+I,3,8,,Reintegros de operaciones corrientes
+I,3,8,0,Reintegro de avales
+I,3,8,9,Otros reintegros de operaciones corrientes
+I,3,9,,Otros ingresos
+I,3,9,1,Multas
+I,3,9,2,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo
+I,3,9,3,Intereses de demora
+I,3,9,4,Prestación personal
+I,3,9,5,Prestación de transporte
+I,3,9,6,Ingresos por actuaciones de urbanización
+I,3,9,7,Aprovechamientos urbanísticos
+I,3,9,8,Indemnizaciones de seguros de no vida
+I,3,9,9,Otros ingresos diversos
+I,4,,,Transferencia corrientes
+I,4,,,Transferencias corrientes
+I,4,0,,De la Administración General de la Entidad Local
+I,4,1,,De organismos autónomos de la Entidad Local
+I,4,2,,De la Administración del Estado
+I,4,2,0,De la Administración General del Estado
+I,4,2,1,De organismos autónomos y agencias estatales
+I,4,2,2,De fundaciones estatales
+I,4,2,3,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
+I,4,3,,De la Seguridad Social
+I,4,4,,De entes públicos y sociedades mercantiles de la Entidad Local
+I,4,4,0,De entes públicos
+I,4,4,1,De sociedades mercantiles
+I,4,5,,De Comunidades Autónomas
+I,4,5,0,De la Administración General de las Comunidades Autónomas
+I,4,5,1,De organismos autónomos y agencias de las Comunidades Autónomas
+I,4,5,2,De fundaciones de las Comunidades Autónomas
+I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas."
+I,4,6,,De Entidades Locales
+I,4,6,1,"De diputaciones, consejos o cabildos"
+I,4,6,2,De ayuntamientos
+I,4,6,3,De mancomunidades
+I,4,6,4,De áreas metropolitanas
+I,4,6,5,De comarcas
+I,4,6,6,De otras entidades que agrupen municipios
+I,4,6,7,De consorcios
+I,4,6,8,De Entidades Locales menores
+I,4,7,,De empresas privadas
+I,4,8,,De familias e instituciones sin fines de lucro
+I,4,9,,Del exterior
+I,4,9,0,Del Fondo Social Europeo
+I,4,9,1,Del Fondo de Desarrollo Regional
+I,4,9,2,Del Fondo de Cohesión
+I,4,9,3,Del Fondo Europeo Agrícola de Garantía (FEAGA)
+I,4,9,4,Del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
+I,4,9,5,Del FEOGA-Orientación
+I,4,9,6,Del Fondo Europeo de la Pesca (FEP)
+I,4,9,7,Otras transferencias de la Unión Europea
+I,4,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
+I,5,,,Ingresos patrimoniales
+I,5,0,,Intereses de títulos y valores
+I,5,0,0,Del Estado
+I,5,0,1,De organismos autónomos y agencias
+I,5,0,4,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
+I,5,0,5,De Comunidades Autónomas
+I,5,0,6,De Entidades Locales
+I,5,0,7,De empresas privadas
+I,5,1,,Intereses de anticipos y préstamos concedidos
+I,5,1,1,De organismos autónomos y agencias
+I,5,1,4,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos"
+I,5,1,8,De familias e instituciones sin ánimo de lucro
+I,5,2,,Intereses de depósitos
+I,5,3,,Dividendos y participación beneficios
+I,5,3,1,De organismos autónomos y agencias
+I,5,3,4,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos"
+I,5,3,7,De empresas privadas
+I,5,4,,Rentas de bienes inmuebles
+I,5,4,1,Arrendamientos de fincas urbanas
+I,5,4,2,Arrendamientos de fincas rústicas
+I,5,4,4,Censos
+I,5,4,9,Otras rentas de bienes inmuebles
+I,5,5,,Productos de concesiones y aprovechamientos especiales
+I,5,5,0,De concesiones administrativas con contraprestación periódica
+I,5,5,1,De concesiones administrativas con contraprestación no periódica
+I,5,5,2,Derecho de superficie con contraprestación periódica
+I,5,5,3,Derecho de superficie con contraprestación no periódica
+I,5,5,4,Aprovechamientos agrícolas y forestales
+I,5,5,5,Aprovechamientos especiales con contraprestación
+I,5,5,9,Otras concesiones y aprovechamientos
+I,5,9,,Otros ingresos patrimoniales
+I,5,9,1,Beneficios por realización de inversiones financieras
+I,5,9,2,Ingresos por operaciones de intercambio financiero
+I,5,9,9,Otros ingresos patrimoniales
+I,6,,,Enajenacion de inversiones reales
+I,6,0,,De terrenos
+I,6,0,0,Venta de solares
+I,6,0,1,Venta de fincas rústicas
+I,6,0,2,Parcelas sobrantes de la via pública
+I,6,0,3,Patrimonio público del suelo
+I,6,0,9,Otros terrenos
+I,6,1,,De las demás inversiones reales
+I,6,1,1,De inversiones de carácter inmaterial
+I,6,1,2,De objetos valiosos
+I,6,1,9,De otras inversiones reales
+I,6,8,,Reintegros por operaciones de capital
+I,6,8,0,De ejercicios cerrados
+I,7,,,Transferencias de capital
+I,7,0,,De la Administración General de la Entidad Local
+I,7,1,,De organismos autónomos de la Entidad Local
+I,7,2,,De la Administración del Estado
+I,7,2,0,De la Administración General del Estado
+I,7,2,1,De organismos autónomos y agencias estatales
+I,7,2,2,De fundaciones estatales
+I,7,2,3,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
+I,7,3,,De la Seguridad Social
+I,7,4,,De entes públicos y sociedades mercantiles de la Entidad Local
+I,7,4,0,De entes públicos
+I,7,4,1,De sociedades mercantiles
+I,7,5,,De Comunidades Autónomas
+I,7,5,0,De la Administración General de las Comunidades Autónomas
+I,7,5,1,De organismos autónomos y agencias de las Comunidades Autónomas
+I,7,5,2,De fundaciones de las Comunidades Autónomas
+I,7,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas"
+I,7,6,,De Entidades Locales
+I,7,6,1,"De diputaciones, consejos o cabildos"
+I,7,6,2,De ayuntamientos
+I,7,6,3,De mancomunidades
+I,7,6,4,De áreas metropolitanas
+I,7,6,5,De comarcas
+I,7,6,6,De otras entidades que agrupen municipios
+I,7,6,7,De consorcios
+I,7,6,8,De Entidades Locales menores
+I,7,7,,De empresas privadas
+I,7,8,,De familias e instituciones sin fines de lucro
+I,7,9,,Del exterior
+I,7,9,0,Del Fondo Social Europeo
+I,7,9,1,Del Fondo de Desarrollo Regional
+I,7,9,2,Del Fondo de Cohesión
+I,7,9,3,Del Fondo Europeo Agrícola de Garantía (FEAGA)
+I,7,9,4,Del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
+I,7,9,5,Del FEOGA-Orientación
+I,7,9,6,Del Fondo Europeo de la Pesca (FEP)
+I,7,9,7,Otras transferencias de la Unión Europea
+I,7,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
+I,8,,,Activos financieros
+I,8,0,,Enajenacion de deuda del sector público
+I,8,0,0,A corto plazo
+I,8,0,1,A largo plazo
+I,8,1,,Enajenacion de obligaciones y bonos fuera del sector público
+I,8,1,0,A corto plazo
+I,8,1,1,A largo plazo
+I,8,2,,Reintegro de préstamos y anticipos concedidos al sector público
+I,8,2,0,A corto plazo
+I,8,2,1,A largo plazo
+I,8,3,,Reintegros de préstamos de fuera del sector público
+I,8,3,0,A corto plazo
+I,8,3,1,A largo plazo
+I,8,4,,Devolucion de depósitos y fianzas constituidos
+I,8,4,0,Devolucion de depósitos
+I,8,4,1,Devolucion de fianzas
+I,8,5,,Enajenacion de acciones y participaciones del sector público
+I,8,6,,Enajenacion de acciones y participaciones fuera del sector público
+I,8,7,,Remanente de tesoreria
+I,8,7,0,Remanente de tesoreria
+I,9,,,Pasivos financieros
+I,9,0,,Emision de deuda pública en euros
+I,9,0,0,A corto plazo
+I,9,0,1,A largo plazo
+I,9,1,,Préstamos recibidos en euros
+I,9,1,0,Préstamos recibidos a corto plazo de entes del sector público
+I,9,1,1,Préstamos recibidos a largo plazo de entes del sector público
+I,9,1,2,Préstamos recibidos a corto plazo de entes de fuera del sector público
+I,9,1,3,Préstamos recibidos a largo plazo de entes de fuera del sector público
+I,9,2,,Emision de deuda pública en moneda distinta del euro
+I,9,2,0,A corto plazo
+I,9,2,1,A largo plazo
+I,9,3,,Préstamos recibidos en moneda distinta del euro
+I,9,3,0,A corto plazo
+I,9,3,1,A largo plazo
+I,9,4,,Depósitos y fianzas recibidos
+I,9,4,0,Depósitos recibidos
+I,9,4,1,Fianzas recibidas
+G,1,,,Gastos de personal
+G,1,0,,Organos de gobierno y personal directivo
+G,1,0,0,Retribuciones básicas y otras remuneraciones de los miembros de los órganos de gobierno
+G,1,0,1,Retribuciones básicas y otras remuneraciones del personal directivo
+G,1,0,7,Contribuciones a planes y fondos de pensiones
+G,1,1,,Personal eventual
+G,1,1,0,Retribuciones básicas y otras remuneraciones
+G,1,1,7,Contribuciones a planes y fondos de pensiones
+G,1,2,,Personal funcionario
+G,1,2,0,Retribuciones básicas
+G,1,2,1,Retribuciones complementarias
+G,1,2,2,Retribuciones en especie
+G,1,2,4,Retribuciones de funcionarios en prácticas
+G,1,2,7,Contribuciones a planes y fondos de pensiones
+G,1,3,,Personal laboral
+G,1,3,0,Laboral fijo
+G,1,3,1,Laboral temporal
+G,1,3,2,Retribuciones en especie
+G,1,3,7,Contribuciones a planes y fondos de pensiones
+G,1,4,,Otro personal
+G,1,4,3,Otro personal
+G,1,4,7,Contribuciones a planes y fondos de pensiones
+G,1,5,,Incentivos al rendimiento
+G,1,5,0,Productividad
+G,1,5,1,Gratificaciones
+G,1,5,2,Otros incentivos al rendimiento
+G,1,5,3,Complemento de dedicación especial
+G,1,6,,Cuotas prestaciones y gastos sociales a cargo del empleador
+G,1,6,0,Cuotas sociales
+G,1,6,1,Prestaciónes sociales
+G,1,6,2,Gastos sociales del personal
+G,1,6,4,Complemento familiar
+G,2,,,Gastos corrientes en bienes y servicios
+G,2,0,,Arrendamientos y canones
+G,2,0,0,Terrenos y bienes naturales
+G,2,0,2,Edificios y otras construcciones
+G,2,0,3,"Maquinaria, instalaciones y utillaje"
+G,2,0,4,Material de transporte
+G,2,0,5,Mobiliario y enseres
+G,2,0,6,Equipos para procesos de información
+G,2,0,8,Otro inmovilizado material
+G,2,0,9,Cánones
+G,2,1,,"Reparaciones, mantenimiento y conservación"
+G,2,1,0,Infraestructuras y bienes naturales
+G,2,1,2,Edificios y otras construcciones
+G,2,1,3,"Maquinaria, instalaciones técnicas y utillaje"
+G,2,1,4,Elementos de transporte
+G,2,1,5,Mobiliario
+G,2,1,6,Equipos para procesos de información
+G,2,1,9,Otro inmovilizado material
+G,2,2,,"Material, suministros y otros"
+G,2,2,0,Material de oficina
+G,2,2,1,Suministros
+G,2,2,2,Comunicaciones
+G,2,2,3,Transportes
+G,2,2,4,Primas de seguros
+G,2,2,5,Tributos
+G,2,2,6,Gastos diversos
+G,2,2,7,Trabajos realizados por otras empresas y profesionales
+G,2,3,,Indemnizaciones por razón del servicio
+G,2,3,0,Dietas
+G,2,3,1,Locomoción
+G,2,3,3,Otras indemnizaciones
+G,2,4,,Gastos de publicaciones
+G,2,4,0,Gastos de edición y distribucion
+G,2,5,,Trabajos realizados por administraciones públicas y otras entidades públicas
+G,2,6,,Trabajos realizados por instituciones sin fines de lucro
+G,2,7,,Gastos imprevistos y funciones no clasificadas
+G,3,,,Gastos financieros
+G,3,0,,De deuda pública en euros
+G,3,0,0,Intereses
+G,3,0,1,"Gastos de emisión, modificación y cancelación"
+G,3,0,9,Otros gastos financieros de deuda pública en euros
+G,3,1,,De préstamos y otras operaciones financieras en euros
+G,3,1,0,Intereses
+G,3,1,1,"Gastos de formalización, modificación y cancelación"
+G,3,1,9,Otros gastos financieros de préstamos y otras operaciones financieras en euros
+G,3,2,,De deuda pública en moneda distinta del euro
+G,3,2,0,Intereses
+G,3,2,1,"Gastos de emisión, modificación y cancelación"
+G,3,2,2,Diferencias de cambio
+G,3,2,9,Otros gastos financieros de deuda pública en moneda distinta del euro
+G,3,3,,De préstamos y otras operaciones financieras en moneda distinta del euro
+G,3,3,0,Intereses
+G,3,3,1,"Gastos de formalización, modificación y cancelación"
+G,3,3,2,Diferencias de cambio
+G,3,3,9,Otros gastos financieros de préstamos y otras operaciones financieras en moneda distinta del euro
+G,3,4,,"De depósitos, fianzas y otros"
+G,3,4,0,Intereses de depósitos
+G,3,4,1,Intereses de fianzas
+G,3,5,,Intereses de demora y otros gastos financieros
+G,3,5,2,Intereses de demora
+G,3,5,3,Operaciones de intercambio financiero
+G,3,5,7,Ejecución de avales
+G,3,5,8,Intereses por operaciones de arrendamiento financiero (leasing)
+G,3,5,9,Otros gastos financieros
+G,4,,,Transferencias corrientes
+G,4,0,,A la Administración General de la Entidad Local
+G,4,1,,A organismos autónomos de la Entidad Local
+G,4,2,,A la Administración del Estado
+G,4,2,0,A la Administración General del Estado
+G,4,2,1,A organismos autónomos y agencias del Estado
+G,4,2,2,A fundaciones estatales
+G,4,2,3,"A sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
+G,4,3,,A la Seguridad Social
+G,4,4,,A entes públicos y sociedades mercantiles de la Entidad Local
+G,4,4,0,Subvenciones para fomento del empleo
+G,4,4,1,Subvenciones para bonificacion de intereses y primas de seguros
+G,4,4,2,Subvenciones para reducir el precio a pagar por los consumidores
+G,4,4,9,Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local
+G,4,5,,A Comunidades Autónomas
+G,4,5,0,A la Administración General de las Comunidades Autónomas
+G,4,5,1,A organismos autónomos y agencias de las Comunidades Autónomas
+G,4,5,2,A fundaciones de las Comunidades Autónomas
+G,4,5,3,A sociedades mercantiles entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas
+G,4,6,,A Entidades Locales
+G,4,6,1,"A diputaciones, consejos o cabildos insulares"
+G,4,6,2,A ayuntamientos
+G,4,6,3,A mancomunidades
+G,4,6,4,A áreas metropolitanas
+G,4,6,5,A comarcas
+G,4,6,6,A otras entidades que agrupen municipios
+G,4,6,7,A consorcios
+G,4,6,8,A Entidades Locales menores
+G,4,7,,A empresas privadas
+G,4,7,0,Subvenciones para fomento del empleo
+G,4,7,1,Subvenciones para bonificación de intereses y primas de seguros
+G,4,7,2,Subvenciones para reducir el precio a pagar por los consumidores
+G,4,7,9,Otras subvenciones a empresas privadas
+G,4,8,,A familias e instituciones sin fines de lucro
+G,4,9,,Al exterior
+G,5,,,Fondo de contingencia
+G,5,0,,Fondo de contingencia
+G,5,0,0,Fondo de contingencia
+G,6,,,Inversiones reales
+G,6,0,,Inversión nueva en infraestructuras y bienes destinados al uso general
+G,6,0,0,Inversiones en terrenos
+G,6,0,9,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general
+G,6,1,,Inversiones de reposición de infraestructuras y bienes destinados al uso general
+G,6,1,0,Inversiones en terrenos
+G,6,1,9,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general
+G,6,2,,Inversión nueva asociada al funcionamiento operativo de los servicios
+G,6,2,1,Terrenos y bienes naturales
+G,6,2,2,Edificios y otras construcciones
+G,6,2,3,"Maquinaria, instalaciones técnicas y utillaje"
+G,6,2,4,Elementos de transporte
+G,6,2,5,Mobiliario
+G,6,2,6,Equipos para procesos de información
+G,6,2,7,Proyectos complejos
+G,6,2,9,Otras inversiones nuevas
+G,6,3,,Inversión de reposición asociada al funcionamiento operativo de los servicios
+G,6,3,1,Terrenos y bienes naturales
+G,6,3,2,Edificios y otras construcciones
+G,6,3,3,"Maquinaria, instalaciones técnicas y utillaje"
+G,6,3,4,Elementos de transporte
+G,6,3,5,Mobiliario
+G,6,3,6,Equipos para procesos de información
+G,6,3,7,Proyectos complejos
+G,6,3,9,Otras inversiones de reposición
+G,6,4,,Gastos en inversiones de carácter inmaterial
+G,6,4,0,Gastos en inversiones de carácter inmaterial
+G,6,4,1,Gastos en aplicaciones informáticas
+G,6,4,8,Cuotas netas de intereses por operaciones de arrendamiento financiero (leasing)
+G,6,5,,Inversiones gestionadas para otros entes públicos
+G,6,5,0,Gastos en inversiones gestionadas para otros entes públicos
+G,6,8,,Gastos en inversiones de bienes patrimoniales
+G,6,8,1,Terrenos y bienes naturales
+G,6,8,2,Edificios y otras construcciones
+G,6,8,9,Otros gastos en inversiones de bienes patrimoniales
+G,6,9,,Inversiones en bienes comunales
+G,6,9,0,Terrenos y bienes naturales
+G,6,9,2,Inversión en infraestructuras
+G,7,,,Transferencias de capital
+G,7,0,,A la Administración General de la Entidad Local
+G,7,1,,A organismos autónomos de la Entidad Local
+G,7,2,,A la Administración del Estado
+G,7,2,0,A la Administración General del Estado
+G,7,2,1,A organismos autónomos y agencias
+G,7,2,2,A fundaciones estatales
+G,7,2,3,"A sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
+G,7,3,,A la Seguridad Social
+G,7,4,,A entes públicos y sociedades mercantiles de la Entidad Local
+G,7,5,,A Comunidades Autónomas
+G,7,5,0,A la Administración General de las Comunidades Autónomas
+G,7,5,1,A organismos autónomos y agencias de las Comunidades Autónomas
+G,7,5,2,A fundaciones de las Comunidades Autónomas
+G,7,5,3,"A sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas"
+G,7,6,,A Entidades Locales
+G,7,6,1,"A diputaciones, consejos o cabildos"
+G,7,6,2,A ayuntamientos
+G,7,6,3,A mancomunidades
+G,7,6,4,A áreas metropolitanas
+G,7,6,5,A comarcas
+G,7,6,6,A entidades que agrupen municipios
+G,7,6,7,A consorcios
+G,7,6,8,A Entidades Locales menores
+G,7,7,,A empresas privadas
+G,7,8,,A familias e instituciones sin fines de lucro
+G,7,9,,Al exterior
+G,8,,,Activos financieros
+G,8,0,,Adquisición de deuda del sector público
+G,8,0,0,A corto plazo
+G,8,0,1,A largo plazo
+G,8,1,,Adquisición de obligaciones y bonos fuera del sector público
+G,8,1,0,A corto plazo. Desarrollo por sectores
+G,8,1,1,A largo plazo. Desarrollo por sectores
+G,8,2,,Concesion de préstamos al sector público
+G,8,2,0,Préstamos a corto plazo
+G,8,2,1,Préstamos a largo plazo
+G,8,3,,Concesion de préstamos fuera del sector público
+G,8,3,0,Préstamos a corto plazo. Desarrollo por sectores
+G,8,3,1,Préstamos a largo plazo. Desarrollo por sectores
+G,8,4,,Constitucion de depósitos y fianzas
+G,8,4,0,Depósitos
+G,8,4,1,Fianzas
+G,8,5,,Adquisición de acciones y participaciones del sector público
+G,8,5,0,Adquisición de acciones y participaciones del sector público
+G,8,6,,Adquisición de acciones y participaciones fuera del sector público
+G,8,6,0,Adquisición de acciones y participaciones fuera del sector público
+G,8,7,,Aportaciones patrimoniales
+G,8,7,0,Aportaciones a fundaciones
+G,8,7,1,Aportaciones a consorcios
+G,8,7,2,Aportaciones a otros entes
+G,9,,,Pasivos financieros
+G,9,0,,Amortización de deuda pública en euros
+G,9,0,0,A corto plazo
+G,9,0,1,A largo plazo
+G,9,1,,Amortización de préstamos y de operaciones en euros
+G,9,1,0,A corto plazo de entes del sector público
+G,9,1,1,A largo plazo de entes del sector público
+G,9,1,2,A corto plazo de entes de fuera del sector público
+G,9,1,3,A largo plazo de entes de fuera del sector público
+G,9,2,,Amortización de deuda pública en moneda distinta del euro
+G,9,2,0,A corto plazo
+G,9,2,1,A largo plazo
+G,9,3,,Amortización de préstamos en moneda distinta del euro
+G,9,3,0,A corto plazo
+G,9,3,1,A largo plazo
+G,9,4,,Devolución de depósitos y fianzas
+G,9,4,0,Devolución de depósitos
+G,9,4,1,Devolución de fianzas
+#
+# Conceptos específicos de Móstoles
+I,4,7,0,De empresas privadas
+I,5,2,0,Intereses de depósitos
+I,7,7,0,De empresas privadas
+I,7,8,0,De familias e instituciones sin fines de lucro
+G,1,5,4,"Fondo homologación, vertebración y v.p.t."
+G,1,5,5,Modernización
+G,1,5,6,Ajustes técnicos
+G,2,7,0,Gastos imprevistos y funciones no clasificadas
+G,4,1,0,A organismos autónomos de la Entidad Local
+G,4,8,0,Transferencias corrientes
+G,4,8,1,"Premios, becas y pensiones de estudio"
+G,4,8,9,Otras transferencias
+G,7,4,0,A entes públicos y sociedades mercantiles de la Entidad Local
