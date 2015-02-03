@@ -1,25 +1,24 @@
 <header role="banner">
   <div class="container-fluid">
-    <div class="row-fluid">
-      <div class="span4 offset8">
-        <p class="header-logo">
-          <a href="https://www.facebook.com/AyuntamientoMostoles" target="_blank">
-            <img src="{{ STATIC_URL }}assets/icon-facebook.png" alt="Facebook">
-          </a>
-          <a href="https://twitter.com/AytoMostoles" target="_blank">
-            <img src="{{ STATIC_URL }}assets/icon-twitter.png" alt="Twitter">
-          </a>
-          <a href="https://www.youtube.com/user/AyuntamientoMostoles" target="_blank">
-            <img src="{{ STATIC_URL }}assets/icon-youtube.png" alt="Youtube">
-          </a>
-        </p>
-      </div>
-    </div>
     <h1 class="main-title">
       <a href="{{ url('budget_app.views.welcome') }}" title="Ir a la home de Presupuestos de Móstoles">
         Presupuestos
       </a>
     </h1>
+    <div class="row-fluid">
+      <div class="span4 offset8">
+
+        <ul class="menu-social">
+          <li><a href="http://www.mostoles.es/es/rss/canales-rss-disponibles-en-el-ayuntamiento" target="_blank"><img src="{{ STATIC_URL }}assets/rss.gif" alt="rss"></a></li>
+          <li><a href="https://www.facebook.com/AyuntamientoMostoles" target="_blank"><img src="{{ STATIC_URL }}assets/facebook.gif" alt="facebook"></a></li>
+          <li><a href="http://twitter.com/AytoMostoles" target="_blank"><img src="{{ STATIC_URL }}assets/twitter.gif" alt="twitter"></a></li>
+          <li><a href="http://www.youtube.com/AyuntamientoMostoles" target="_blank"><img src="{{ STATIC_URL }}assets/youtube.gif" alt="youtube"></a></li>
+          <li><a href="http://www.flickr.com/photos/ayuntamientomostoles/" target="_blank"><img src="{{ STATIC_URL }}assets/flickr.gif" alt="flickr"></a></li>
+          <li><a href="https://plus.google.com/114345062505807575790" target="_blank"><img src="{{ STATIC_URL }}assets/gplus.png" alt="Google+"></a></li>
+        </ul>
+
+      </div>
+    </div>
   </div>
 
   <a class="main-menu-toggle" href="main-menu">Menú principal</a>
@@ -31,7 +30,6 @@
       <ul class="nav-rwd">
         <li class="page-budgets"><a href="{{ url('budget_app.views.budgets') }}" class="icon-budget">Visión global</a></li>
         <li class="page-policies"><a href="{{ url('budget_app.views.policies') }}" class="icon-policy">Políticas</a></li>
-        <li class="page-payments"><a href="{{ url('budget_app.views.payments') }}" class="icon-payments">Gastos e inversiones</a></li>
         <li class="page-glossary"><a href="{{ url('budget_app.views.terms') }}" class="icon-glossary">¿Qué significa...?</a></li>
       </ul>
     </div>

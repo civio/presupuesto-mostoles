@@ -6636,13 +6636,19 @@ table [class^="h-"] {
   }
 }
 .main-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
   border-top: none;
   font-size: 3em;
   font-weight: 400;
   background: url(../assets/icon-mostoles.png) no-repeat left top transparent;
   padding-bottom: 42px;
+  z-index: 60;
 }
 .main-title a {
+  display: inline;
   color: white;
   text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.6);
 }
@@ -6650,27 +6656,59 @@ table [class^="h-"] {
   color: #7fbf41;
 }
 header[role="banner"] {
-  background: #000000 url(http://www.mostoles.es/es/banners/198375-biblioteca1.jpg) no-repeat center top;
+  background: #000000 url(../assets/biblioteca1.jpg) no-repeat center top;
   margin: 0;
   text-align: center;
+}
+header[role="banner"] > .container-fluid {
+  position: relative;
+}
+header[role="banner"] > .container-fluid > .row-fluid {
+  margin-top: 30px;
+  padding-top: 41px;
+  background: url(../assets/tituloMostoles.png) no-repeat right top transparent;
 }
 @media only screen and (max-width: 900px) and (min-width: 0px) {
   .main-title {
     padding-top: 60px;
   }
 }
+#main-menu ul li {
+  border: none;
+  width: 33.33%;
+}
+#main-menu ul li > a {
+  text-align: center;
+  border-right: 1px solid #b3cc9a;
+}
+#main-menu ul li > a.icon-budget {
+  border-left: 1px solid #b3cc9a;
+}
+.menu-social {
+  position: relative;
+  float: right;
+  margin: 18px 0 8px;
+  z-index: 90;
+}
+.menu-social li {
+  float: left;
+  margin: 0 0 0 10px;
+  list-style: none;
+}
+.menu-social li > a {
+  display: block;
+  height: 20px;
+}
+.menu-social li > a img {
+  width: 20px;
+  height: 20px;
+}
+.home-intro .options .option-policies {
+  margin: 0;
+}
 .expense-examples ul li {
   text-shadow: 1px 1px 0 #EEEEEE;
   background-color: #eee;
-}
-.home-intro .options .option-terms {
-  margin: 0;
-}
-.home-intro .option-terms {
-  background: url(../assets/option-terms.png) no-repeat 10px 0;
-}
-.home-intro .option-terms .icon {
-  color: #673499;
 }
 .addthis_toolbox li {
   margin: 0 1em 1em 0;
@@ -6678,9 +6716,19 @@ header[role="banner"] {
 .footer-corp {
   color: white;
   background: #669934;
+  padding: 1.5em 2%;
 }
 .footer-corp a {
   color: white;
+}
+.footer-corp .logo-aragon {
+  float: none;
+  padding-left: 2%;
+}
+.footer-corp .legal-text {
+  text-align: right;
+  line-height: 34px;
+  padding-right: 2%;
 }
 .donation-banner {
   background: #EFF0F2;
@@ -6727,6 +6775,11 @@ header[role="banner"] {
 }
 .body-articles .article p {
   font-size: 17px;
+}
+@media screen and (min-width: 48em) {
+  .home-intro .options > div {
+    width: 45%;
+  }
 }
 .chartWrap {
   margin: 0;
