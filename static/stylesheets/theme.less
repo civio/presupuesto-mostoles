@@ -6,14 +6,11 @@
 }
 
 .main-title {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
   border-top: none; 
   font-size: 3em;
   font-weight: 400;
-  background: url(../assets/icon-mostoles.png) no-repeat left top transparent;
+  background: transparent;
+  padding-top: 60px;
   padding-bottom: 42px;
   z-index: 60;
 
@@ -36,34 +33,19 @@ header[role="banner"] {
     position: relative;
 
     > .row-fluid{
+      display: none;
       margin-top: 30px;
       padding-top: 41px;
       background: url(../assets/tituloMostoles.png) no-repeat right top transparent;
     }
-
-    // Terminar de maquetar y añadir redes sociales de móstoles
   }
 }
 
-@media only screen and (max-width: 900px) and (min-width: 0px) {
-  .main-title {
-    padding-top: 60px;
-  }
-}
 
 // Menu
-#main-menu ul li{
-  border: none;
-  width: 33.33%;
-
-  > a{
-    text-align: center;
-    border-right: 1px solid mix(@color-base, white, 50% );
-
-    &.icon-budget{
-      border-left: 1px solid mix(@color-base, white, 50% );
-    }
-  }
+.main-menu-toggle{
+  color: white;
+  background: @color-base;
 }
 
 // Social menu
@@ -124,7 +106,6 @@ header[role="banner"] {
   }
 
   .legal-text{
-    text-align: right;
     line-height: 34px;
     padding-right: 2%;
   }
@@ -155,7 +136,39 @@ header[role="banner"] {
 
 
 @media screen and (min-width: 48em) {
+
+  .main-title{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-top: .25em;
+    background: url(../assets/icon-mostoles.png) no-repeat left bottom transparent;
+  }
+
+  header[role="banner"] > .container-fluid > .row-fluid{
+    display: block;
+  }
+
   .home-intro .options > div {
     width: 45%;
+  }
+
+  #main-menu ul li{
+    border: none;
+    width: 33.33%;
+
+    > a{
+      text-align: center;
+      border-right: 1px solid mix(@color-base, white, 50% );
+
+      &.icon-budget{
+        border-left: 1px solid mix(@color-base, white, 50% );
+      }
+    }
+  }
+
+  .footer-corp .legal-text{
+    text-align: right;
   }
 }

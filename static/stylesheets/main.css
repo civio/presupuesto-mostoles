@@ -6636,14 +6636,11 @@ table [class^="h-"] {
   }
 }
 .main-title {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
   border-top: none;
   font-size: 3em;
   font-weight: 400;
-  background: url(../assets/icon-mostoles.png) no-repeat left top transparent;
+  background: transparent;
+  padding-top: 60px;
   padding-bottom: 42px;
   z-index: 60;
 }
@@ -6664,25 +6661,14 @@ header[role="banner"] > .container-fluid {
   position: relative;
 }
 header[role="banner"] > .container-fluid > .row-fluid {
+  display: none;
   margin-top: 30px;
   padding-top: 41px;
   background: url(../assets/tituloMostoles.png) no-repeat right top transparent;
 }
-@media only screen and (max-width: 900px) and (min-width: 0px) {
-  .main-title {
-    padding-top: 60px;
-  }
-}
-#main-menu ul li {
-  border: none;
-  width: 33.33%;
-}
-#main-menu ul li > a {
-  text-align: center;
-  border-right: 1px solid #b3cc9a;
-}
-#main-menu ul li > a.icon-budget {
-  border-left: 1px solid #b3cc9a;
+.main-menu-toggle {
+  color: white;
+  background: #669934;
 }
 .menu-social {
   position: relative;
@@ -6726,7 +6712,6 @@ header[role="banner"] > .container-fluid > .row-fluid {
   padding-left: 2%;
 }
 .footer-corp .legal-text {
-  text-align: right;
   line-height: 34px;
   padding-right: 2%;
 }
@@ -6777,8 +6762,33 @@ header[role="banner"] > .container-fluid > .row-fluid {
   font-size: 17px;
 }
 @media screen and (min-width: 48em) {
+  .main-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-top: .25em;
+    background: url(../assets/icon-mostoles.png) no-repeat left bottom transparent;
+  }
+  header[role="banner"] > .container-fluid > .row-fluid {
+    display: block;
+  }
   .home-intro .options > div {
     width: 45%;
+  }
+  #main-menu ul li {
+    border: none;
+    width: 33.33%;
+  }
+  #main-menu ul li > a {
+    text-align: center;
+    border-right: 1px solid #b3cc9a;
+  }
+  #main-menu ul li > a.icon-budget {
+    border-left: 1px solid #b3cc9a;
+  }
+  .footer-corp .legal-text {
+    text-align: right;
   }
 }
 .chartWrap {
