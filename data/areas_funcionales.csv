@@ -40,19 +40,31 @@
 1,3,3,1,Control de tráfico
 1,3,4,1,Protección civil
 1,3,5,1,Extinción de incendios y salvamento
+1,3,6,1,Extinción de Incendios y Salvamento
+1,5,0,1,Servicios Generales de Urbanismo y Arquitectura
 1,5,1,1,Servicios generales de urbanismo y arquitectura
 1,5,1,2,Planificación y gestión urbanistica
+1,5,3,2,Pavimentación de vías públicas
 1,5,5,1,Vías públicas y plan de movilidad
 1,5,6,1,Proyectos y Obras
 1,6,0,1,Servicios generales de limpieza
 1,6,1,1,Sistemas de saneamiento y red de riego
 1,6,2,1,Eliminación y tratamiento de residuos
+1,6,2,3,Tratamiento de residuos
 1,6,3,1,Limpieza viaria y recogida de basuras
+1,6,3,2,Servicios Generales de Limpieza
 1,6,5,1,Alumbrado público
 1,7,1,1,Parques y jardines
 1,7,2,1,Planificación y gestión del medio ambiente
+1,7,2,2,
 1,7,9,1,Educación ambiental
 2,1,1,1,Pensiones y otras prestaciones económicas
+2,3,1,1,Servicios Sociales Generales
+2,3,1,2,Cooperación
+2,3,1,3,
+2,3,1,4,
+2,3,1,5,Promocion de la Igualdad
+2,3,1,6,Programa contra la violencia de género
 2,3,0,1,Servicios sociales generales
 2,3,2,1,Promocion de la igualdad
 2,3,2,2,Programa contra la violencia de género
@@ -64,12 +76,15 @@
 2,4,1,2,Casas de Oficios
 2,4,1,3,Talleres de Empleo
 2,4,1,4,Promoción del empleo
+3,1,1,1,Promociónn de la Salud
 3,1,3,1,Promoción de la salud
 3,2,0,1,Servicios generales de educación
 3,2,2,1,Conservatorio
+3,2,3,1,Otras enseñanzas
 3,2,4,2,Servicios complementarios a la educación
 3,2,4,3,Otras enseñanzas
 3,2,4,4,Limpieza de colegios públicos
+3,2,6,1,Servicios complemantarios a la educación
 3,3,2,1,Biblioteca Central
 3,3,3,1,Museo de la Ciudad
 3,3,4,1,Centro cultural Villa de Móstoles
@@ -77,6 +92,8 @@
 3,3,4,3,Centro cultural Joan Miro
 3,3,4,4,Centro cultural Caleidoscopio
 3,3,4,5,Centro Norte-Universidad
+3,3,4,6,
+3,3,4,7,Juventud
 3,3,5,1,Teatro del Bosque
 3,3,8,1,Festejos populares
 3,3,9,1,Juventud
@@ -84,6 +101,7 @@
 3,4,1,1,Enseñanzas deportivas
 3,4,1,2,Escuelas deportivas
 3,4,1,3,Juegos deportivos
+4,3,2,1,Promoción turística
 4,4,1,1,Transportes y movilidad urbana
 4,9,3,1,Información y defensa del consumidor
 9,1,2,2,Presidencia
@@ -105,6 +123,8 @@
 9,2,5,3,Junta de distrito número 3: Sur-Este
 9,2,5,4,Junta de distrito número 4: Oeste
 9,2,5,5,Junta de distrito número 5: Parque Coimbra-Guadarrama
+9,2,6,1,Servicios Informáticos
+9,2,6,2,Infraestructuras para las Nuevas Tecnologías
 9,2,7,1,Servicios informáticos
 9,2,7,2,Infraestructuras para las nuevas tecnologías
 9,3,1,1,"Presupuestos, contabilidad y gestión financiera"
@@ -115,3 +135,4 @@
 9,3,3,1,Patrimonio
 9,3,4,1,Tesorería
 9,3,4,2,Unidad de sanciones
+9,2,9,1,Administración General-Fondo de Contingencia de Ejecución Presupuestaria
