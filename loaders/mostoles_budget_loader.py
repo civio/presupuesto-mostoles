@@ -32,7 +32,7 @@ class MostolesBudgetLoader(SimpleBudgetLoader):
                 'is_expense': False,
                 'is_actual': is_actual,
                 'ec_code': self.clean(line[2]),
-                'ic_code': '0',                             # All income goes to the root node
+                'ic_code': '000',                           # All income goes to the root node
                 'description': line[3],
                 'amount': self._parse_amount(line[7 if is_actual else 4])
             }

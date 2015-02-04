@@ -1,5 +1,9 @@
 #Institución,Sección,Departamento,Nombre
 0,,,Ayuntamiento de Móstoles
+0,0,,Ayuntamiento de Móstoles
+# Nota: la siguiente línea se usa sólo para los ingresos, la aplicación necesita que el campo
+# 'departamento' no esté vacío para poder mostrar el desglose orgánico
+0,0,0,Ayuntamiento de Móstoles
 0,0,10,Hacienda
 0,0,11,Concejalía de Economía
 0,0,12,Recursos Humanos
