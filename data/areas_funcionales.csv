@@ -38,11 +38,9 @@
 1,3,2,1,Policia local
 1,3,2,2,Brigadas Especiales de Seguridad (BESCAM)
 1,3,3,1,Control de tráfico
-1,3,4,1,Protección civil
-1,3,5,1,Extinción de incendios y salvamento
-1,3,6,1,Extinción de Incendios y Salvamento
-1,5,0,1,Servicios Generales de Urbanismo y Arquitectura
-1,5,1,1,Servicios generales de urbanismo y arquitectura
+1,3,5,1,Protección civil
+1,3,6,1,Extinción de incendios y salvamento
+1,5,0,1,Servicios generales de urbanismo y arquitectura
 1,5,1,2,Planificación y gestión urbanistica
 1,5,3,2,Pavimentación de vías públicas
 1,5,5,1,Vías públicas y plan de movilidad
@@ -57,34 +55,26 @@
 1,7,1,1,Parques y jardines
 1,7,2,1,Planificación y gestión del medio ambiente
 1,7,2,2,Educación ambiental
-1,7,9,1,Educación ambiental
 2,1,1,1,Pensiones y otras prestaciones económicas
 2,3,1,1,Servicios Sociales Generales
 2,3,1,2,Cooperación
 2,3,1,3,Mayores
 2,3,1,4,Atención a asociaciones sociosanitarias
-2,3,1,5,Promocion de la Igualdad
+2,3,1,5,Promoción de la igualdad
 2,3,1,6,Programa contra la violencia de género
 2,3,0,1,Servicios sociales generales
-2,3,2,1,Promocion de la igualdad
-2,3,2,2,Programa contra la violencia de género
 2,3,2,3,Cooperación
-2,3,3,1,Mayores
-2,3,3,2,Atención a asociaciones sociosanitarias
 2,3,3,3,Apoyo dependencia mayores
 2,4,1,1,Promoción económica
 2,4,1,2,Casas de Oficios
 2,4,1,3,Talleres de Empleo
 2,4,1,4,Promoción del empleo
-3,1,1,1,Promociónn de la Salud
-3,1,3,1,Promoción de la salud
+3,1,1,1,Promoción de la salud
 3,2,0,1,Servicios generales de educación
 3,2,2,1,Conservatorio
 3,2,3,1,Otras enseñanzas
-3,2,4,2,Servicios complementarios a la educación
-3,2,4,3,Otras enseñanzas
 3,2,4,4,Limpieza de colegios públicos
-3,2,6,1,Servicios complemantarios a la educación
+3,2,6,1,Servicios complementarios a la educación
 3,3,2,1,Biblioteca Central
 3,3,3,1,Museo de la Ciudad
 3,3,4,1,Centro cultural Villa de Móstoles
@@ -94,9 +84,7 @@
 3,3,4,5,Centro Norte-Universidad
 3,3,4,6,Teatro del Bosque
 3,3,4,7,Juventud
-3,3,5,1,Teatro del Bosque
 3,3,8,1,Festejos populares
-3,3,9,1,Juventud
 3,4,0,1,Servicio generales de deportes
 3,4,1,1,Enseñanzas deportivas
 3,4,1,2,Escuelas deportivas
@@ -123,10 +111,8 @@
 9,2,5,3,Junta de distrito número 3: Sur-Este
 9,2,5,4,Junta de distrito número 4: Oeste
 9,2,5,5,Junta de distrito número 5: Parque Coimbra-Guadarrama
-9,2,6,1,Servicios Informáticos
-9,2,6,2,Infraestructuras para las Nuevas Tecnologías
-9,2,7,1,Servicios informáticos
-9,2,7,2,Infraestructuras para las nuevas tecnologías
+9,2,6,1,Servicios informáticos
+9,2,6,2,Infraestructuras para las nuevas tecnologías
 9,3,1,1,"Presupuestos, contabilidad y gestión financiera"
 9,3,1,2,Fiscalización
 9,3,1,3,Contratación
