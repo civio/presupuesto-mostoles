@@ -29,3 +29,15 @@ msgstr "Ingresos y gastos en el Ayuntamiento de Móstoles"
 #: templates/budgets/index.html:56
 msgid "Gobierno de Aragón"
 msgstr "Ayuntamiento de Móstoles"
+
+#: templates/policies/show.html
+msgid "¿En qué se gasta?"
+msgstr "¿A qué se dedica?"
+
+#: templates/policies/show.html
+msgid "¿Cómo se gasta?"
+msgstr "¿A qué se destina?"
+
+#: templates/policies/show.html
+msgid "¿Quién lo gasta?"
+msgstr "¿Quién lo gestiona?"
