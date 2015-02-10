@@ -20,9 +20,12 @@ class MostolesBudgetLoader(SimpleBudgetLoader):
             '1341': '1351',     # Protección Civil
             '1351': '1361',     # Extinción de incendios y salvamento
             '1511': '1501',     # Servicios generales de urbanismo y arquitectura
+            '1621': '1623',     # Tratamiento de residuos
             '1791': '1722',     # Educación ambiental
+            '2301': '2311',     # Servicios sociales generales
             '2321': '2315',     # Promoción de la igualdad
             '2322': '2316',     # Programa contra la violencia de género
+            '2323': '2312',     # Cooperación
             '2331': '2313',     # Mayores
             '2332': '2314',     # Atención a asociaciones sociosanitarias
             '3131': '3111',     # Promoción de la salud
