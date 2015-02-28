@@ -9,8 +9,8 @@ BUDGET_LOADER = 'MostolesBudgetLoader'
 
 FEATURED_PROGRAMMES = ['1321', '3347', '1711']
 
-OVERVIEW_INCOME_NODES = [['11', '113'], '42', '45', '29', '60']
-OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '33']
+OVERVIEW_INCOME_NODES = [['11', '113'], '42', '45', '29', '13']
+OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '33', '32']
 
 # Show an extra tab with institutional breakdown. Default: True.
 # SHOW_INSTITUTIONAL_TAB = True
