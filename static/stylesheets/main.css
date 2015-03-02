@@ -6366,6 +6366,26 @@ table [class^="h-"] {
   margin: 0;
   width: 100%;
 }
+.page-title#indicadores {
+  padding-top: 30px;
+}
+#totals_panel {
+  background: white;
+  margin-bottom: 12px;
+  border-radius: 0.5em;
+  border: 1px solid #e6e6e6;
+}
+#totals_panel .total {
+  border-bottom: none;
+  margin: 0;
+}
+#totals_panel .total:first-child {
+  border-top: none;
+}
+#totals_panel abbr[title],
+#totals_panel dfn[title] {
+  border-bottom: none;
+}
 .fl {
   float: left;
   _margin-right: -3px;
