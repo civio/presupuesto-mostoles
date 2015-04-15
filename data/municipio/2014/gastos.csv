@@ -1,5 +1,5 @@
 #Org.,Prog.,Econ.,Denominación,Vinc. Org.,Vinc. Fun.,Vinc. Eco.,Créditos Iniciales,Modificaciones de Crédito,Créditos Definitivos,Obligaciones Reconocidas
-10.0,111.0,31000.0,Intereses,10.0,,3.0,4360000.0,,4360000.0,3846851.97
+10.0,111.0,31000.0,Intereses,10.0,,3.0,4360000.0,,4360000.0,3846852.06
 10.0,111.0,91300.0,Amortización de préstamos a medio y largo plazo de fuera del sector público,10.0,,9.0,17824256.0,3710563.69,21534819.69,21502289.79
 10.0,9201.0,12003.0,Administración General.Sueldos del Grupo C1,10.0,9.0,1.0,,,,8444.8
 10.0,9201.0,12006.0,Administración General.Trienios,10.0,9.0,1.0,,,,3608.57
@@ -35,7 +35,7 @@
 10.0,9311.0,22001.0,"Prensa, revistas, libros y otras publicaciones",10.0,9.0,2.0,,,,
 10.0,9311.0,22603.0,Publicación en Diarios Oficiales,10.0,9.0,2.0,1000.0,,1000.0,2194.33
 10.0,9311.0,22706.0,Estudios y trabajos técnicos,10.0,9.0,2.0,4500.0,20000.0,24500.0,1936.0
-10.0,9311.0,35200.0,Intereses de demora,10.0,9.0,3.0,700000.0,50000.0,750000.0,577911.81
+10.0,9311.0,35200.0,Intereses de demora,10.0,9.0,3.0,700000.0,50000.0,750000.0,577901.64
 10.0,9312.0,12000.0,Sueldos del Grupo A1,10.0,9.0,1.0,31053.4,,31053.4,29354.64
 10.0,9312.0,12003.0,Sueldos del Grupo C1,10.0,9.0,1.0,18469.78,,18469.78,9884.84
 10.0,9312.0,12004.0,Sueldos del Grupo C2,10.0,9.0,1.0,33893.58,,33893.58,40694.4
@@ -1359,7 +1359,7 @@
 33.0,9228.0,22000.0,Mantenimiento y Limpieza de Edificios Municipales.Ordinario no inventariable,33.0,9.0,2.0,,,,717.47
 33.0,9228.0,22002.0,"Mantenimiento y Limpieza de Edificios Municipales.Material, informático no inventariable",33.0,9.0,2.0,,,,5.0
 33.0,9228.0,22100.0,Energía eléctrica,33.0,9.0,2.0,2566189.68,,2566189.68,3043742.03
-33.0,9228.0,22101.0,Agua,33.0,9.0,2.0,665057.89,,665057.89,945021.67
+33.0,9228.0,22101.0,Agua,33.0,9.0,2.0,665057.89,,665057.89,1091194.97
 33.0,9228.0,22102.0,Gas,33.0,9.0,2.0,115847.05,,115847.05,111487.25
 33.0,9228.0,22103.0,Combustibles y carburantes,33.0,9.0,2.0,1079448.54,,1079448.54,735241.5
 33.0,9228.0,22201.0,Mantenimiento y Limpieza de Edificios Municipales.Postales,33.0,9.0,2.0,,,,87.18
