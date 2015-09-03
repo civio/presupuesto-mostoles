@@ -15,7 +15,7 @@ class MostolesBudgetLoader(SimpleBudgetLoader):
     def parse_item(self, filename, line):
         # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
-        # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
+        # See https://github.com/civio/presupuestos/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
             '1341': '1351',     # Protección Civil
             '1351': '1361',     # Extinción de incendios y salvamento
